@@ -11,8 +11,13 @@ import type { Route } from "./+types/root";
 import "./app.css";
 
 export const links: Route.LinksFunction = () => [
-  // ファビコン（タブのアイコン）設定
+  // 標準の ICO（互換性重視・外部サービス用）
+  { rel: "icon", href: "/favicon.ico", sizes: "any" },
+
+  // 高解像度の PNG（モダンブラウザ用）
   { rel: "icon", type: "image/png", href: "/jptutoraiyamato.png" },
+
+  // スマホのホーム画面に追加した時用
   { rel: "apple-touch-icon", href: "/jptutoraiyamato.png" },
 
   // フォント設定
