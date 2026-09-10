@@ -10,9 +10,18 @@
 
 html,
 body {
-  @apply bg-white dark:bg-gray-950;
-
+  /* @apply を使わず、標準 CSS の var() またはユーティリティ依存を回避した記法 */
+  background-color: var(--color-white);
+  
   @media (prefers-color-scheme: dark) {
     color-scheme: dark;
   }
+}
+
+/* .dark クラス付与時の背景色（Tailwind v4 の gray-950 カラーコード） */
+.dark html,
+.dark body,
+html.dark,
+body.dark {
+  background-color: var(--color-gray-950, #030712);
 }
