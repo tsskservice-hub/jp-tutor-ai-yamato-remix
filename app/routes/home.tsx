@@ -130,15 +130,14 @@ export default function Home() {
                     VCE Japanese EOY Exam AI Writing Tutor
                   </h3>
                   <p className="text-slate-600 dark:text-slate-400 text-sm leading-relaxed mb-6">
-                    Designed specifically for Year 11-12 VCE students. 110 original prompts, precise kanji/grammar validation, and real exam formatting support.
+                    Designed specifically for Year 11-12 VCE students. 110 original questions, a differentiated learning pace, profound feedback, precise knowledge and continuous support.
                   </p>
                 </div>
                 <div className="pt-4 border-t border-slate-100 dark:border-slate-800 flex items-center justify-between">
                   <span className="text-xs text-indigo-600 dark:text-indigo-400 font-medium">Target: Year 11-12</span>
-                  <a
-                    href="/vce-eoy-writing-tutor"
-                    className="inline-flex items-center space-x-1 text-sm font-semibold text-slate-900 dark:text-white group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors"
-                  >
+                  <a href="https://vceeoywriting.jptutoraiyamato.com" target="_blank" rel="noopener noreferrer"
+                   className="inline-flex items-center space-x-1 text-sm font-semibold text-slate-900 dark:text-white group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors"
+             >
                     <span>Launch App</span>
                     <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
                   </a>
