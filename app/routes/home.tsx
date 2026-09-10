@@ -201,8 +201,8 @@ export default function Home() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-500">
             <p>© {new Date().getFullYear()} JP Tutor AI Yamato. All rights reserved.</p>
             <div className="flex space-x-6 mt-4 sm:mt-0">
-              <span className="hover:text-slate-700 dark:hover:text-slate-400 transition-colors">VCE Specialist Platform</span>
-              <span className="hover:text-slate-700 dark:hover:text-slate-400 transition-colors">Powered by AI & Educator Experience</span>
+              <span className="hover:text-slate-700 dark:hover:text-slate-400 transition-colors">Japanese Learning Platform for All Learners</span>
+              <span className="hover:text-slate-700 dark:hover:text-slate-400 transition-colors">Powered by AI Yamato</span>
             </div>
           </div>
         </footer>
