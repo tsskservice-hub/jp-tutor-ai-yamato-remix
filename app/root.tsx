@@ -11,6 +11,11 @@ import type { Route } from "./+types/root";
 import "./app.css";
 
 export const links: Route.LinksFunction = () => [
+  // ファビコン（タブのアイコン）設定
+  { rel: "icon", type: "image/png", href: "/jptutoraiyamato.png" },
+  { rel: "apple-touch-icon", href: "/jptutoraiyamato.png" },
+
+  // フォント設定
   { rel: "preconnect", href: "https://fonts.googleapis.com" },
   {
     rel: "preconnect",
