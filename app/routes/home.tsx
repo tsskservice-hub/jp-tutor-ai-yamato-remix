@@ -145,10 +145,10 @@ export default function Home() {
 
                   <ul className="space-y-2 text-xs text-slate-300 pt-1">
                     <li className="flex items-center gap-2">
-                      <span className="text-emerald-400 font-bold">✓</span> 110 Original Prompts & Criterion Feedback
+                      <span className="text-emerald-400 font-bold">✓</span> Tailored Learning Pace & In-Depth Feedback
                     </li>
                     <li className="flex items-center gap-2">
-                      <span className="text-emerald-400 font-bold">✓</span> Genko Yoshi Rules & Kanji Checker
+                      <span className="text-emerald-400 font-bold">✓</span> Genkooyoshi & Text Type Guidance
                     </li>
                     <li className="flex items-center gap-2">
                       <span className="text-emerald-400 font-bold">✓</span> Passkey Biometric Instant Login
