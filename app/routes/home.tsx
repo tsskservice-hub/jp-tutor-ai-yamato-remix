@@ -140,7 +140,7 @@ export default function Home() {
                   </h2>
                   
                   <p className="text-sm text-slate-300 leading-relaxed">
-                    110 original prompts, Genkouyoushi format checking, and VCE-aligned instant feedback.
+                    110 original questions, Kanji & Grammar checker and VCE-aligned instant feedback.
                   </p>
 
                   <ul className="space-y-2 text-xs text-slate-300 pt-1">
