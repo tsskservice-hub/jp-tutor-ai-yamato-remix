@@ -106,6 +106,73 @@ export default function Home() {
             </div>
           </section>
 
+          {/* 🌟 構成案パターンA：CM動画＆プロダクト紹介フィーチャーセクション */}
+          <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-16">
+            <div className="bg-slate-900 border border-indigo-500/30 rounded-3xl p-6 md:p-10 text-white shadow-2xl relative overflow-hidden">
+              {/* バックグラウンド光彩エフェクト */}
+              <div className="absolute top-0 right-0 w-96 h-96 bg-indigo-500/10 rounded-full blur-3xl pointer-events-none" />
+              
+              <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center relative z-10">
+                
+                {/* 左側：CM動画（YouTube 16:9 埋め込み） */}
+                <div className="lg:col-span-7 aspect-video rounded-2xl overflow-hidden border border-slate-700/80 shadow-2xl bg-black">
+                  <iframe
+                    src="https://www.youtube.com/embed/lsOXW9_Bm28?rel=0&modestbranding=1"
+                    title="VCE Japanese AI Tutor Commercial"
+                    className="w-full h-full border-0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen
+                  />
+                </div>
+
+                {/* 右側：アプリの強みと購入・アクセス導線 */}
+                <div className="lg:col-span-5 space-y-4">
+                  <div className="inline-flex items-center gap-2 px-3 py-1 bg-rose-500/20 text-rose-300 rounded-full border border-rose-500/30 text-xs font-semibold">
+                    <span className="w-2 h-2 rounded-full bg-rose-500 animate-pulse" />
+                    Featured VCE App
+                  </div>
+                  
+                  <h2 className="text-2xl sm:text-3xl font-extrabold text-white tracking-tight leading-tight">
+                    VCE Japanese EOY Exam <br />
+                    <span className="text-transparent bg-clip-text bg-gradient-to-r from-rose-400 via-pink-300 to-amber-300">
+                      Writing AI Tutor 🤖📝
+                    </span>
+                  </h2>
+                  
+                  <p className="text-sm text-slate-300 leading-relaxed">
+                    110 original prompts, Genkouyoushi format checking, and VCE-aligned instant feedback.
+                  </p>
+
+                  <ul className="space-y-2 text-xs text-slate-300 pt-1">
+                    <li className="flex items-center gap-2">
+                      <span className="text-emerald-400 font-bold">✓</span> 110 Original Prompts & Criterion Feedback
+                    </li>
+                    <li className="flex items-center gap-2">
+                      <span className="text-emerald-400 font-bold">✓</span> Genko Yoshi Rules & Kanji Checker
+                    </li>
+                    <li className="flex items-center gap-2">
+                      <span className="text-emerald-400 font-bold">✓</span> Passkey Biometric Instant Login
+                    </li>
+                  </ul>
+                  
+                  {/* アプリ起動・ポータル購入用ボタン */}
+                  <div className="pt-3 flex flex-col sm:flex-row gap-2.5">
+                    <a
+                      href="https://vceeoywriting.jptutoraiyamato.com"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center justify-center space-x-2 w-full py-3.5 px-6 bg-rose-600 hover:bg-rose-500 text-white font-bold rounded-xl text-center shadow-lg shadow-rose-600/30 transition-all text-sm"
+                    >
+                      <span>Launch App / Get Access</span>
+                      <ArrowRight className="w-4 h-4" />
+                    </a>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+          </section>
+
           {/* アプリ一覧（グリッドポータル）セクション */}
           <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-24">
             <div className="mb-12 text-center">
