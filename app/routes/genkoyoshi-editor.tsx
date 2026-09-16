@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import type { MetaFunction } from "react-router";
+import { Link } from "react-router";
 
 type Item =
   | { type: "num"; value: string }
@@ -221,11 +222,23 @@ export default function GenkoyoshiEditor() {
           gap: 15px;
         }
 
+        .genko-header-logo-link {
+          display: inline-block;
+          transition: transform 0.2s ease, opacity 0.2s ease;
+          text-decoration: none;
+        }
+
+        .genko-header-logo-link:hover {
+          transform: scale(1.05);
+          opacity: 0.9;
+        }
+
         .genko-header-logo {
           width: 52px;
           height: 52px;
           object-fit: contain;
           flex-shrink: 0;
+          display: block;
         }
 
         .genko-header-text-group h1 {
@@ -539,15 +552,17 @@ export default function GenkoyoshiEditor() {
       {/* 🌟 ヘッダー */}
       <div className="genko-header-wrapper">
         <div className="genko-header-title-area">
-          <img
-            src="/jptutoraiyamato.png"
-            alt="JP Tutor AI Yamato Logo"
-            className="genko-header-logo"
-          />
+          <Link to="/" className="genko-header-logo-link" title="Back to Home">
+            <img
+              src="/jptutoraiyamato.png"
+              alt="JP Tutor AI Yamato Logo"
+              className="genko-header-logo"
+            />
+          </Link>
           <div className="genko-header-text-group">
             <h1>Japanese Genkoyoshi Grid Editor (Horizontal)</h1>
             <div className="genko-subtitle">
-              Type your writing in the text box below. Pressing Enter automatically creates a new indent paragraph.
+              Type your writing in the text box below. Pressing Enter automatically creates a new indent paragraph. You can print or save as PDF.
             </div>
           </div>
         </div>
@@ -595,7 +610,7 @@ export default function GenkoyoshiEditor() {
             <input
               type="text"
               id="nameInput"
-              placeholder="例：中山　花子"
+              placeholder="例：中山 花子"
               value={name}
               onChange={(e) => setName(e.target.value)}
             />
