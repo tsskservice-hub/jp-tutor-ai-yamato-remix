@@ -186,7 +186,7 @@ export default function Home() {
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
               {/* アプリカード 1: VCE EOY Exam Writing Tutor */}
-              <div className="group relative bg-white dark:bg-slate-900/80 rounded-2xl border border-indigo-500/30 p-6 hover:border-indigo-500/65 transition-all duration-300 hover:shadow-xl hover:shadow-indigo-500/10 flex flex-col justify-between shadow-sm">
+              <div id="vce-app" className="group relative bg-white dark:bg-slate-900/80 rounded-2xl border border-indigo-500/30 p-6 hover:border-indigo-500/65 transition-all duration-300 hover:shadow-xl hover:shadow-indigo-500/10 flex flex-col justify-between shadow-sm">
                 <div className="absolute top-4 right-4 bg-indigo-500/10 dark:bg-indigo-500/20 text-indigo-600 dark:text-indigo-300 text-xs font-semibold px-2.5 py-1 rounded-full border border-indigo-500/20">
                   Featured
                 </div>

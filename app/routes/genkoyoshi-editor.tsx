@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
-import type { MetaFunction } from "react-router"; // react-router からインポートするよう変更
+import type { MetaFunction } from "react-router";
 
-// Discriminated Union に型定義を修正
 type Item =
   | { type: "num"; value: string }
   | { type: "char"; value: string }
@@ -9,8 +8,8 @@ type Item =
 
 export const meta: MetaFunction = () => {
   return [
-    { title: "行間付き 横書き原稿用紙エディタ | JPTutor AI Yamato" },
-    { name: "description", content: "入力した日本語をリアルタイムで原稿用紙プレビュー表示し、PDF出力・印刷ができるVCE日本語学習者向け無料ツールです。" },
+    { title: "Japanese Genkoyoshi Grid Editor | JPTutor AI Yamato" },
+    { name: "description", content: "Free Japanese writing grid generator with custom line spacing and instant PDF print export." },
   ];
 };
 
@@ -50,6 +49,18 @@ export default function GenkoyoshiEditor() {
     return items;
   };
 
+  // 空の1マスを生成するヘルパー関数
+  const createEmptyCell = (): Item => ({ type: "char", value: "" });
+
+  // 1行（Item[]）を必ず colsPerLine (20マス) に補填するヘルパー関数
+  const padRowToLength = (row: Item[], colsPerLine: number = 20): Item[] => {
+    const padded = [...row];
+    while (padded.length < colsPerLine) {
+      padded.push(createEmptyCell());
+    }
+    return padded;
+  };
+
   const generatePages = (): Item[][][] => {
     const colsPerLine = 20;
     const maxRows = format === "400" ? 20 : 10;
@@ -71,7 +82,7 @@ export default function GenkoyoshiEditor() {
         const item = parsedItems[i];
 
         if (currentLineItems.length === colsPerLine) {
-          contentLines.push(currentLineItems);
+          contentLines.push(padRowToLength(currentLineItems, colsPerLine));
           currentLineItems = [];
         }
 
@@ -106,14 +117,15 @@ export default function GenkoyoshiEditor() {
         i++;
       }
       if (currentLineItems.length > 0) {
-        contentLines.push(currentLineItems);
+        contentLines.push(padRowToLength(currentLineItems, colsPerLine));
       }
     }
 
     const allPagesLines: Item[][][] = [];
     let currentPageLines: Item[][] = [];
 
-    const row0: Item[] = new Array(colsPerLine).fill({ type: "char", value: "" });
+    // 0行目: 題名
+    const row0: Item[] = Array.from({ length: colsPerLine }, createEmptyCell);
     if (title) {
       const titleItems = parseTextToItems(title);
       for (let idx = 0; idx < titleItems.length && 3 + idx < colsPerLine; idx++) {
@@ -122,7 +134,8 @@ export default function GenkoyoshiEditor() {
     }
     currentPageLines.push(row0);
 
-    const row1: Item[] = new Array(colsPerLine).fill({ type: "char", value: "" });
+    // 1行目: 氏名
+    const row1: Item[] = Array.from({ length: colsPerLine }, createEmptyCell);
     if (name) {
       const nameItems = parseTextToItems(name);
       let startIndex = colsPerLine - 1 - nameItems.length;
@@ -147,10 +160,11 @@ export default function GenkoyoshiEditor() {
       allPagesLines.push(currentPageLines);
     }
 
+    // ページ単位で maxRows (20行/10行) になるまで空行を追加
     return allPagesLines.map((pageLines) => {
       const paddedPage = [...pageLines];
       while (paddedPage.length < maxRows) {
-        paddedPage.push(new Array(colsPerLine).fill({ type: "char", value: "" }));
+        paddedPage.push(Array.from({ length: colsPerLine }, createEmptyCell));
       }
       return paddedPage;
     });
@@ -188,15 +202,112 @@ export default function GenkoyoshiEditor() {
           min-height: 100vh;
         }
 
-        .genko-editor-root h1 {
-          font-size: 1.5rem;
-          margin-bottom: 5px;
+        /* ヘッダー全体のフレックス配置 */
+        .genko-header-wrapper {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          gap: 20px;
+          margin-bottom: 20px;
+          flex-wrap: wrap;
+        }
+
+        /* ロゴとタイトルエリアの並列表示 */
+        .genko-header-title-area {
+          flex: 1;
+          min-width: 320px;
+          display: flex;
+          align-items: center;
+          gap: 15px;
+        }
+
+        .genko-header-logo {
+          width: 52px;
+          height: 52px;
+          object-fit: contain;
+          flex-shrink: 0;
+        }
+
+        .genko-header-text-group h1 {
+          font-size: 1.4rem;
+          margin: 0 0 4px 0;
+          color: #0f172a;
         }
 
         .genko-subtitle {
-          font-size: 0.9rem;
-          color: #666;
-          margin-bottom: 20px;
+          font-size: 0.85rem;
+          color: #64748b;
+          margin: 0;
+        }
+
+        /* 宣伝バナー用コンテナ */
+        .genko-header-banner {
+          flex: 1;
+          max-width: 540px;
+          min-width: 300px;
+          background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
+          border-radius: 12px;
+          padding: 12px 18px;
+          color: #ffffff;
+          box-shadow: 0 4px 12px rgba(79, 70, 229, 0.2);
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          gap: 12px;
+          transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+
+        .genko-header-banner:hover {
+          transform: translateY(-2px);
+          box-shadow: 0 6px 16px rgba(79, 70, 229, 0.3);
+        }
+
+        .genko-banner-content {
+          display: flex;
+          flex-direction: column;
+        }
+
+        .genko-banner-badge {
+          display: inline-block;
+          background-color: rgba(255, 255, 255, 0.2);
+          color: #fef08a;
+          font-size: 0.7rem;
+          font-weight: bold;
+          padding: 2px 8px;
+          border-radius: 12px;
+          margin-bottom: 4px;
+          width: fit-content;
+          text-transform: uppercase;
+          letter-spacing: 0.5px;
+        }
+
+        .genko-banner-text {
+          font-size: 0.85rem;
+          font-weight: bold;
+          line-height: 1.3;
+          margin: 0;
+        }
+
+        .genko-banner-subtext {
+          font-size: 0.75rem;
+          opacity: 0.9;
+          margin-top: 2px;
+        }
+
+        .genko-banner-button {
+          background-color: #ffffff;
+          color: #4f46e5;
+          font-weight: bold;
+          font-size: 0.8rem;
+          padding: 8px 14px;
+          border-radius: 8px;
+          text-decoration: none;
+          white-space: nowrap;
+          transition: background-color 0.2s ease;
+        }
+
+        .genko-banner-button:hover {
+          background-color: #f3f4f6;
         }
 
         .genko-container {
@@ -406,9 +517,8 @@ export default function GenkoyoshiEditor() {
             background: none !important;
             padding: 0 !important;
           }
+          .genko-header-wrapper,
           .genko-editor-pane,
-          .genko-editor-root h1,
-          .genko-subtitle,
           .genko-btn-container,
           .genko-cta-box {
             display: none !important;
@@ -426,13 +536,39 @@ export default function GenkoyoshiEditor() {
         }
       `}</style>
 
-      <h1>行間付き 横書き原稿用紙エディタ</h1>
-      <div className="genko-subtitle">各行の間に空白ラインを設けた、横書き専用の原稿用紙メーカー</div>
+      {/* 🌟 ヘッダー */}
+      <div className="genko-header-wrapper">
+        <div className="genko-header-title-area">
+          <img
+            src="/jptutoraiyamato.png"
+            alt="JP Tutor AI Yamato Logo"
+            className="genko-header-logo"
+          />
+          <div className="genko-header-text-group">
+            <h1>Japanese Genkoyoshi Grid Editor (Horizontal)</h1>
+            <div className="genko-subtitle">
+              Type your writing in the text box below. Pressing Enter automatically creates a new indent paragraph.
+            </div>
+          </div>
+        </div>
+
+        {/* 📢 宣伝バナー */}
+        <div className="genko-header-banner">
+          <div className="genko-banner-content">
+            <span className="genko-banner-badge">Writing AI Tutor</span>
+            <div className="genko-banner-text">Ready for your VCE EOY Exam?</div>
+            <div className="genko-banner-subtext">AI Yamato is here to support you!</div>
+          </div>
+          <a href="/#vce-app" className="genko-banner-button">
+            Learn More &rarr;
+          </a>
+        </div>
+      </div>
 
       <div className="genko-container">
         <div className="genko-editor-pane">
           <div className="genko-control-group">
-            <label htmlFor="format">用紙フォーマット</label>
+            <label htmlFor="format">用紙（ようし）フォーマット</label>
             <select
               id="format"
               value={format}
@@ -444,32 +580,32 @@ export default function GenkoyoshiEditor() {
           </div>
 
           <div className="genko-control-group">
-            <label htmlFor="titleInput">題名</label>
+            <label htmlFor="titleInput">題名（だいめい）</label>
             <input
               type="text"
               id="titleInput"
-              placeholder="例：私の目標"
+              placeholder="例（れい）：日本のアニメ"
               value={title}
               onChange={(e) => setTitle(e.target.value)}
             />
           </div>
 
           <div className="genko-control-group">
-            <label htmlFor="nameInput">氏名</label>
+            <label htmlFor="nameInput">氏名（しめい）</label>
             <input
               type="text"
               id="nameInput"
-              placeholder="例：山田 太郎"
+              placeholder="例：中山　花子"
               value={name}
               onChange={(e) => setName(e.target.value)}
             />
           </div>
 
           <div className="genko-control-group">
-            <label htmlFor="textInput">本文（段落の最初は1マス空けて入力してください）</label>
+            <label htmlFor="textInput">本文（ほんぶん）</label>
             <textarea
               id="textInput"
-              placeholder="ここに文章を入力してください..."
+              placeholder="ここに文を書いてください。"
               value={text}
               onChange={(e) => setText(e.target.value)}
             />
@@ -479,20 +615,20 @@ export default function GenkoyoshiEditor() {
 
           <div className="genko-btn-container">
             <button className="genko-btn-print" onClick={handlePrint}>
-              印刷する / PDF保存
+              印刷（いんさつ）する / PDF保存（ほぞん）
             </button>
             <button className="genko-btn-clear" onClick={clearAll}>
-              入力を消す
+              消（け）す
             </button>
           </div>
 
           <div className="genko-cta-box">
-            <h3>Writing a VCE essay?</h3>
+            <h3>Ready for your VCE EOY Writing Exam?</h3>
             <p>
-              Make sure your text is error-free before printing! Try our AI Writing Tutor to automatically check for illegal VCE Kanji, grammar issues, and scoring tips.
+              Don't leave your marks to chance! AI Yamato is here to power up your writing prep with instant VCE Kanji checks, grammar feedback and scoring tips.
             </p>
-            <a href="/" className="genko-cta-link">
-              Learn more about AI Writing Tutor &rarr;
+            <a href="/#vce-app" className="genko-cta-link">
+              Discover AI Writing Tutor &rarr;
             </a>
           </div>
         </div>
