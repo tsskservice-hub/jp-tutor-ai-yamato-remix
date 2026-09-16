@@ -239,10 +239,10 @@ export default function Home() {
                     <FileText className="w-6 h-6" />
                   </div>
                   <h3 className="text-lg font-bold text-slate-900 dark:text-white mb-3 group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors">
-                    Genkouyoushi Writing Grid & PDF Generator
+                    Genkoyoshi Writing Grid & PDF Generator
                   </h3>
                   <p className="text-slate-600 dark:text-slate-400 text-xs leading-relaxed mb-6">
-                    Type Japanese text and instantly format into Genkouyoushi layout with custom line gaps. Print or export directly to clean PDF.
+                    Type Japanese text and instantly format into Genkoyoshi layout with custom line gaps. Print or export directly to clean PDF.
                   </p>
                 </div>
 
