@@ -1,0 +1,150 @@
+id,section,pace,category,question_ja,translation_en,voice_id,status,audio_path
+Q006,beforeSec1,steady,入室 (Entering),すわって、ください。,Please take a seat.,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q006.mp3
+Q013,sec1,steady,家族 (Family),おにいさん、おねえさんは、どんな人ですか。,What kind of person is your older brother / older sister?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q013.mp3
+Q014,sec1,steady,家族 (Family),ペットを、かっていますか。,Do you have any pets?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q014.mp3
+Q019,sec1,steady,学校 (School),あなたの、がっこうの、なまえは、何ですか。,What is the name of your school?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q019.mp3
+Q026,sec1,steady,学校 (School),家から、がっこうまで、どのくらいかかりますか。,How long does it take from your house to school?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q026.mp3
+Q030,sec1,steady,趣味 (Hobbies),ひまな、ときに、何をしますか。,What do you do in your free time?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q030.mp3
+Q034,sec1,steady,趣味 (Hobbies),しゅうに、何回くらい、趣味をしますか。,About how many times a week do you do your hobby?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q034.mp3
+Q042,sec1,steady,アルバイト (Part-time Job),しゅうに、なんにち、アルバイトをしますか。,How many days a week do you work part-time?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q042.mp3
+Q043,sec1,steady,アルバイト (Part-time Job),何曜日に、いきますか。,What days of the week do you go?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q043.mp3
+Q054,sec1,steady,日本語の勉強 (Japanese Studies),すきな漢字は何ですか。,What is your favorite kanji?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q054.mp3
+Q057,sec1,steady,日本語の勉強 (Japanese Studies),日本人の、ともだちがいますか。,Do you have Japanese friends?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q057.mp3
+Q064,sec1,steady,スポーツ (Sports),すいえいが、できますか。,Can you swim?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q064.mp3
+Q067,sec1,steady,スポーツ (Sports),いままでに、どんなスポーツを、ならいましたか。,What sports have you taken lessons in so far?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q067.mp3
+Q074,sec1,steady,旅行 (Travel),今まで、いったところで、どこがいちばん好きですか。,Where is your favorite place among the places you have been to so far?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q074.mp3
+Q076,sec1,steady,旅行 (Travel),日本で、いってみたいところはどこですか。,Where would you like to go in Japan?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q076.mp3
+Q079,sec1,steady,レジャー活動・余暇 (Leisure Activities),週末は、たいてい、何をしますか。,What do you usually do on weekends?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q079.mp3
+Q086,sec1,steady,レジャー活動・余暇 (Leisure Activities),パーティーに、よく行きますか。,Do you often go to parties?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q086.mp3
+Q100,sec1,steady,テクノロジー・スマホなど (Technology),いちにちに、どのくらいスマホを使いますか。,How much do you use your smartphone a day?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q100.mp3
+Q122,sec2,steady,理由・根拠の追及 (Reasons & Justifications),理由を、おしえて、ください。,Please tell me the reason.,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q122.mp3
+Q128,sec2,steady,比較・対比 (Comparison & Contrast),むかしと、今で、何が変わりましたか。,What has changed between the past and the present?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q128.mp3
+Q136,sec2,steady,解決策・将来の展望 (Solutions & Future Prospects),わたしたちは、何をするべきですか。,What should we do?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q136.mp3
+Q142,sec2,steady,試験官からの質問・相づち・聞き返し (Examiner Prompts & Counter-arguments),最後に、一番、いいたいことは何ですか。,"Lastly, what is the number one thing you want to say?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q142.mp3
+Q146,afterSec2,steady,終了 (End),これで、しけんは、終わりです。,This concludes the exam.,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q146.mp3
+Q147,afterSec2,steady,終了 (End),よく、がんばりましたね。,You did your best.,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q147.mp3
+Q153,beforeSec1,normal,入室 (Entering),どうぞ座ってください。,Please take a seat.,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q153.mp3
+Q156,beforeSec1,normal,入室 (Entering),では、これからVCE日本語の口頭しけんを始めます。,"Well then, we will now begin the VCE Japanese oral exam.",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q156.mp3
+Q159,sec1,normal,家族 (Family),家族の中で、だれと一番、なかがいいですか。,Who do you get along best with in your family?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q159.mp3
+Q160,sec1,normal,家族 (Family),おとうさまや、おかあさまは、どんなお仕事をなさっていますか。,What kind of work do your father and mother do?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q160.mp3
+Q163,sec1,normal,家族 (Family),ペットを、かったことがありますか。,Have you ever kept a pet?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q163.mp3
+Q168,sec1,normal,学校 (School),かよっている、がっこうは、どんな学校ですか。,What kind of school do you attend?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q168.mp3
+Q171,sec1,normal,学校 (School),こん学期は、どんな科目をとっていますか。,What subjects are you taking this term?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q171.mp3
+Q177,sec1,normal,学校 (School),あなたの学校のちょうしょ、良いところ、とたんしょ、悪いところ、は何ですか。,What are the advantages and disadvantages of your school?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q177.mp3
+Q185,sec1,normal,趣味 (Hobbies),ともだちと、同じ趣味を持っていますか。一緒に何をして楽しみますか。,Do you share the same hobbies with your friends? What do you enjoy doing together?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q185.mp3
+Q191,sec1,normal,アルバイト (Part-time Job),一週間に何日、何時間くらい、はたらいていますか。,How many days and hours a week do you work?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q191.mp3
+Q192,sec1,normal,アルバイト (Part-time Job),いつも何曜日やどんなシフトで、はたらいていますか。,What days of the week or what shifts do you usually work?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q192.mp3
+Q202,sec1,normal,日本語の勉強 (Japanese Studies),日本のアニメやマンガのなかで、お気に入りの作品は何ですか。,"Among Japanese anime and manga, what is your favorite work?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q202.mp3
+Q203,sec1,normal,日本語の勉強 (Japanese Studies),一番、すきな漢字や、覚えやすいと思った言葉は何ですか。,"What is your favorite kanji, or what word did you find easy to remember?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q203.mp3
+Q206,sec1,normal,日本語の勉強 (Japanese Studies),日本人の知り合いや、ともだちと日本語で話したことがありますか。,Have you ever spoken in Japanese with Japanese acquaintances or friends?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q206.mp3
+Q214,sec1,normal,スポーツ (Sports),スポーツを自分でプレイするのとテレビで、みるのと、どちらが好きですか。,"Which do you prefer, playing sports yourself or watching them on TV?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q214.mp3
+Q216,sec1,normal,スポーツ (Sports),子どものころ、どんなスポーツを、ならっていましたか。,What sports did you take lessons in when you were a child?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q216.mp3
+Q221,sec1,normal,旅行 (Travel),たびさきでは、どんな観光や活動をしましたか。,What kind of sightseeing and activities did you do at your destination?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q221.mp3
+Q222,sec1,normal,旅行 (Travel),旅行中に食べた美味しい、めいぶつ料理について教えてください。,Please tell me about the delicious local specialties you ate while traveling.,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q222.mp3
+Q223,sec1,normal,旅行 (Travel),今まで、おとずれたなかで、もう一度行きたい場所はどこですか。,"Among the places you have visited so far, where do you want to go again?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q223.mp3
+Q224,sec1,normal,旅行 (Travel),日本に、いったとき、印象に残った、できごとは、ありますか。,"When you went to Japan, were there any events that left an impression on you?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q224.mp3
+Q225,sec1,normal,旅行 (Travel),もし日本へ行く機会があったら、どこを、たずねてみたいですか。,"If you had the opportunity to go to Japan, where would you like to visit?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q225.mp3
+Q226,sec1,normal,旅行 (Travel),長距離の旅行をするとき、どんな移動手段、のり物を好みますか。,"When taking a long-distance trip, what means of transportation do you prefer?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q226.mp3
+Q229,sec1,normal,レジャー活動・余暇 (Leisure Activities),ともだちと出かけるときは、よくどこで会いますか。,"When going out with friends, where do you generally meet?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q229.mp3
+Q234,sec1,normal,レジャー活動・余暇 (Leisure Activities),誕生日などの特別な日には、いつもどんな、おいわいをしますか。,What kind of celebrations do you usually have on special days like birthdays?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q234.mp3
+Q235,sec1,normal,レジャー活動・余暇 (Leisure Activities),ともだちの、家で開かれるパーティーやイベントによく参加しますか。,Do you often participate in parties or events held at friends' houses?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q235.mp3
+Q236,sec1,normal,レジャー活動・余暇 (Leisure Activities),一日の終わりに、寝る前によく、おこなう習慣はありますか。,Is there any habit you often do before going to sleep at the end of the day?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q236.mp3
+Q238,sec1,normal,将来 (Future Plans),高校を卒業した後の、しんろについて、どのように考えていますか。,How are you thinking about your path after graduating from high school?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q238.mp3
+Q241,sec1,normal,将来 (Future Plans),将来、海外で、はたらいたり、暮らしたりすることに興味がありますか。,Are you interested in working or living overseas in the future?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q241.mp3
+Q247,sec1,normal,将来 (Future Plans),あなたにとって、一番、かなえたい「将来の夢」は何ですか。,"For you, what is the ""future dream"" you want to fulfill most?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q247.mp3
+Q249,sec1,normal,テクノロジー・スマホなど (Technology),いちにちに、平均して何時間くらいスマホ画面を見ていますか。,"On average, about how many hours a day do you look at your smartphone screen?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q249.mp3
+Q250,sec1,normal,テクノロジー・スマホなど (Technology),スマホを使って、おもにどのような作業や連絡を行っていますか。,What kind of tasks and communications do you mainly carry out using your smartphone?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q250.mp3
+Q256,sec1,normal,テクノロジー・スマホなど (Technology),もしスマホを一日じゅう、使えないとしたら、どうなると思いますか。,"If you couldn't use your smartphone all day long, what do you think would happen?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q256.mp3
+Q261,sec2,normal,導入・プレゼンの切り出し (Introduction & Pitch),その、テーマ、に興味を持ったきっかけは何ですか。,What was the trigger for becoming interested in that theme?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q261.mp3
+Q265,sec2,normal,事実の確認・詳細の要求 (Clarification & Details),具体的に、どんな、れい、がありますか。,"Specifically, what kind of examples are there?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q265.mp3
+Q275,sec2,normal,"影響・メリット・デメリット (Impacts, Pros & Cons)",それには、どんないい点、メリット、ちょうしょ、がありますか。,What good points (merits/advantages) does that have?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q275.mp3
+Q279,sec2,normal,"影響・メリット・デメリット (Impacts, Pros & Cons)",それによって、だれが一番困っていますか。だれが一番、とくをしていますか。,Who is in the most trouble / benefiting the most because of that?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q279.mp3
+Q280,sec2,normal,比較・対比 (Comparison & Contrast),むかしと、今とで、何が変わりましたか。,What has changed between the past and the present?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q280.mp3
+Q282,sec2,normal,比較・対比 (Comparison & Contrast),若い人と古い、せだい、お年寄りとで、考え方に違いはありますか。,Are there differences in ways of thinking between young people and older generations (the elderly)?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q282.mp3
+Q299,afterSec2,normal,終了 (End),これで特別研究を終わります。,We will conclude the detailed study here.,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q299.mp3
+Q302,afterSec2,normal,終了 (End),これで日本語の、しけんはすべて終了です。,This concludes all Japanese exams.,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q302.mp3
+Q308,beforeSec1,Accelerated,入室 (Entering),お名前と受験番号をうかがってもよろしいですか。,May I ask your name and candidate number?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q308.mp3
+Q310,beforeSec1,Accelerated,入室 (Entering),確認しましたので、どうぞごちゃくせきください。,"I have confirmed it, so please take a seat.",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q310.mp3
+Q312,beforeSec1,Accelerated,入室 (Entering),ひごろの練習の成果を発揮できるよう、リラックスして臨んでくださいね。,Please relax and approach it so that you can demonstrate the results of your daily practice.,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q312.mp3
+Q313,beforeSec1,Accelerated,入室 (Entering),それでは、ただいまよりVCE日本語口頭しけんを開始します。,"Now, we will start the VCE Japanese oral exam.",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q313.mp3
+Q314,beforeSec1,Accelerated,入室 (Entering),まずはセクションいちの一般会話から進めていきましょう。,Let's start with the general conversation of Section 1 first.,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q314.mp3
+Q315,sec1,Accelerated,家族 (Family),ご家族こうせいについて教えていただけますか。,Could you tell me about your family structure?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q315.mp3
+Q317,sec1,Accelerated,家族 (Family),おとうさまやおかあさまは、普段どのようなおしごとをなさっていますか。,What kind of work do your father and mother usually do?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q317.mp3
+Q318,sec1,Accelerated,家族 (Family),ご兄弟とはとしの差がありますか。どのような関係ですか。,Is there an age gap between you and your siblings? What kind of relationship do you have?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q318.mp3
+Q319,sec1,Accelerated,家族 (Family),ご家族はそれぞれどのようなおひとがらやご性格ですか。,What are the personalities and character of each of your family members?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q319.mp3
+Q320,sec1,Accelerated,家族 (Family),今までにペットをかった経験や、忘れられない思い出はありますか。,"Do you have any experience keeping pets in the past, or any unforgettable memories?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q320.mp3
+Q322,sec1,Accelerated,家族 (Family),あなたのご家庭ならではの独特な習慣や決まりごとはありますか。,Are there any unique customs or rules specific to your household?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q322.mp3
+Q323,sec1,Accelerated,家族 (Family),今までに家族でおとずれた場所のなかで、特に印象ぶかい旅行さきはどこですか。,"Among the places you have visited with your family so far, which travel destination is particularly memorable?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q323.mp3
+Q325,sec1,Accelerated,学校 (School),現在かよっていらっしゃるがっこうの特色や雰囲気を教えてください。,Please tell me about the characteristics and atmosphere of the school you currently attend.,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q325.mp3
+Q326,sec1,Accelerated,学校 (School),学年や専攻かていにおいて、どのようなテーマを中心に学んでいますか。,What themes are you focusing on learning in your grade or major course?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q326.mp3
+Q327,sec1,Accelerated,学校 (School),朝の登校時間やちこくに関する学校の規則について教えてください。,Please tell me about the school's rules regarding morning arrival times and tardiness.,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q327.mp3
+Q328,sec1,Accelerated,学校 (School),こん学期、りしゅうしている科目のなかで、特にちからを入れて勉強しているものは何ですか。,"Among the subjects you are taking this term, which one are you putting special effort into studying?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q328.mp3
+Q329,sec1,Accelerated,学校 (School),一番興味ぶかく感じられる科目と、その理由について詳しく教えてください。,Please tell me in detail about the subject you find most interesting and the reason why.,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q329.mp3
+Q330,sec1,Accelerated,学校 (School),にがていしきを感じている科目に対して、どのようなアプローチで取り組んでいますか。,What approach do you take to tackle subjects you feel a sense of weakness toward?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q330.mp3
+Q331,sec1,Accelerated,学校 (School),学校に通うための交通手段や、つうがくのルートについて説明してください。,Please explain your means of transportation and commute route to school.,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q331.mp3
+Q332,sec1,Accelerated,学校 (School),毎日のつうがく時間や、その時間を有効活用するためにくふうしていることはありますか。,Is there anything you devise to make effective use of your daily commute time?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q332.mp3
+Q333,sec1,Accelerated,学校 (School),昼休みなどの休憩じかんには、普段どのように過ごすのが一般的ですか。,How do you generally spend your break times such as lunch break?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q333.mp3
+Q334,sec1,Accelerated,学校 (School),ざいせきしている学校の強み、メリットと課題、デメリットは何だと考えますか。,What do you think are the strengths (merits) and challenges (demerits) of the school you are enrolled in?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q334.mp3
+Q335,sec1,Accelerated,趣味 (Hobbies),あなたが現在、もっとも、むちゅうになっている趣味や関心ごとについて教えてください。,Please tell me about the hobby or interest you are most absorbed in currently.,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q335.mp3
+Q338,sec1,Accelerated,趣味 (Hobbies),最近読んだ本や記事のなかで、特に考えさせられた作品は何ですか。,"Among the books or articles you read recently, which work made you think the most?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q338.mp3
+Q341,sec1,Accelerated,趣味 (Hobbies),その趣味に興味を持ったきっかけや、始めた、けいい、について教えてください。,Please tell me about the trigger for getting interested in that hobby and the background of how you started it.,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q341.mp3
+Q345,sec1,Accelerated,アルバイト (Part-time Job),現在、どのような業界や、しょくしゅで、アルバイトをなさっていますか。,What industry or job type are you currently working a part-time job in?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q345.mp3
+Q346,sec1,Accelerated,アルバイト (Part-time Job),勤務さきの、店舗や、企業の具体的な特徴や業務内容を教えてください。,Please tell me the specific characteristics and business details of your workplace store or company.,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q346.mp3
+Q347,sec1,Accelerated,アルバイト (Part-time Job),職場では、おもに、どのような責任や、やくわりを、任されていますか。,What kind of responsibilities and roles are you mainly entrusted with at your workplace?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q347.mp3
+Q348,sec1,Accelerated,アルバイト (Part-time Job),学業と両立させながら、しゅうに、どの程度のペースで勤務していますか。,"While balancing with your studies, at what pace per week do you work?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q348.mp3
+Q353,sec1,Accelerated,アルバイト (Part-time Job),かずある、アルバイトの中から、現在の仕事を選んだ理由は何ですか。,What was the reason you chose your current job out of many part-time jobs?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q353.mp3
+Q354,sec1,Accelerated,アルバイト (Part-time Job),アルバイトでの、じつむ経験は、将来の社会人生活にどう影響すると思いますか。,How do you think practical experience from a part-time job will affect your future adult/working life?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q354.mp3
+Q357,sec1,Accelerated,日本語の勉強 (Japanese Studies),ごい、文法、会話などの要素のうち、特に、かべを感じる部分はどこですか。,"Among elements like vocabulary, grammar, and conversation, which part do you feel is a particular wall for you?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q357.mp3
+Q358,sec1,Accelerated,日本語の勉強 (Japanese Studies),効率的に日本語能力を、こうじょうさせるために、日頃どのような学習法を工夫していますか。,What study methods do you devise on a daily basis to efficiently improve your Japanese proficiency?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q358.mp3
+Q359,sec1,Accelerated,日本語の勉強 (Japanese Studies),日本のポップカルチャー、アニメ、マンガ、映画等のなかで、お気に入りの作品とその魅力は何ですか。,"Among Japanese pop culture (anime, manga, movies, etc.), what is your favorite work and its appeal?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q359.mp3
+Q360,sec1,Accelerated,日本語の勉強 (Japanese Studies),これまでに学んだ漢字や表現のなかで、特に美しいまたは面白いと感じたものは何ですか。,"Among the kanji and expressions you have learned so far, which ones did you find particularly beautiful or interesting?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q360.mp3
+Q361,sec1,Accelerated,日本語の勉強 (Japanese Studies),担当の先生は、授業内容を理解しやすくするためにどのような、くふうをされていますか。,What kind of ingenuity does your teacher use to make class content easier to understand?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q361.mp3
+Q363,sec1,Accelerated,日本語の勉強 (Japanese Studies),ぼご、わしゃ、ネイティブの方と日本語でコミュニケーションを取った経験について教えてください。,Please tell me about your experience communicating in Japanese with native speakers.,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q363.mp3
+Q365,sec1,Accelerated,スポーツ (Sports),スポーツを、みずからプレイすること、または観戦することに対してどのように感じていますか。,How do you feel about playing sports yourself or watching them?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q365.mp3
+Q368,sec1,Accelerated,スポーツ (Sports),きゅうじつに、体を動かすさい、具体的にどのようなアクティビティを好みますか。,"When moving your body on holidays, what specific activities do you prefer?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q368.mp3
+Q369,sec1,Accelerated,スポーツ (Sports),尊敬しているスポーツ選手や、えいきょうを、受けたアスリートについて教えてください。,Please tell me about sports players you respect or athletes who have influenced you.,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q369.mp3
+Q370,sec1,Accelerated,スポーツ (Sports),ながねん続けているスポーツや、自信を持って得意だと言える、しゅもくはありますか。,Are there sports you have continued for many years or events you can confidently say you are good at?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q370.mp3
+Q372,sec1,Accelerated,スポーツ (Sports),自国で、さかんなスポーツカルチャーについて、どのような意見をお持ちですか。,What opinions do you have regarding the thriving sports culture in your home country?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q372.mp3
+Q373,sec1,Accelerated,スポーツ (Sports),ようしょうきに、習っていたスポーツや、運動に関する、思い出深い、できごとはありますか。,How about the sports you took lessons in during early childhood or memorable events related to exercise?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q373.mp3
+Q374,sec1,Accelerated,スポーツ (Sports),今後、新たにスキルを、しゅうとくしてみたい、スポーツやアウトドア活動はありますか。,Are there any sports or outdoor activities you would like to newly acquire skills in from now on?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q374.mp3
+Q376,sec1,Accelerated,旅行 (Travel),これまでに、おとずれた、たびさきの、なかで、最も深く記憶に、きざまれている場所はどこですか。,"Among the travel destinations you have visited so far, which place is most deeply engraved in your memory?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q376.mp3
+Q379,sec1,Accelerated,旅行 (Travel),たびさきで、出会った地域固有の伝統料理や食文化について、印象的なエピソードはありますか。,Are there any impressive episodes regarding region-specific traditional foods or food cultures encountered while traveling?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q379.mp3
+Q380,sec1,Accelerated,旅行 (Travel),一度訪れた場所の、なかで、「将来もう一度再訪したい」と感じた場所とその理由を教えてください。,"Among places you've visited once, please tell me a place you felt you'd like to revisit in the future and why.",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q380.mp3
+Q381,sec1,Accelerated,旅行 (Travel),実際に日本を訪れた際、あるいは日本の情報に、せっした際、もっとも文化の違いを感じた点は何ですか。,"When actually visiting Japan (or coming into contact with information about Japan), what point did you feel cultural differences the most?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q381.mp3
+Q382,sec1,Accelerated,旅行 (Travel),もし自由に、日本こくないを、旅行できるとしたら、どの地域をどのように、めぐりたいですか。,"If you could freely travel around Japan, which region would you like to tour and how?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q382.mp3
+Q383,sec1,Accelerated,旅行 (Travel),移動時間も含めて、たびを楽しむために、どのような交通手段を選択しますか。,What transportation means do you choose in order to enjoy traveling including the travel time?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q383.mp3
+Q384,sec1,Accelerated,旅行 (Travel),次の長期休暇に向けて、具体的にどのような旅行計画や構想を、あたためていますか。,"Toward your next long vacation, what specific travel plans or concepts are you nurturing?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q384.mp3
+Q387,sec1,Accelerated,レジャー活動・余暇 (Leisure Activities),買い物をするさい、どのような基準で店舗や、しなものを、選びますか。,"When shopping, based on what criteria do you choose stores and items?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q387.mp3
+Q388,sec1,Accelerated,レジャー活動・余暇 (Leisure Activities),自然を感じられるばしょ、こうえんや、海などで過ごす時間について、どう感じていますか。,"How do you feel about spending time in places where you can feel nature (parks, oceans, etc.)?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q388.mp3
+Q389,sec1,Accelerated,レジャー活動・余暇 (Leisure Activities),在宅の時間を充実させるために、しつないで、どんな娯楽や工夫を楽しんでいますか。,"To enrich your time at home, what kind of entertainment and ingenuity do you enjoy indoors?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q389.mp3
+Q391,sec1,Accelerated,レジャー活動・余暇 (Leisure Activities),誕生日や記念日などの特別な、ふしめには、どのような、おいわいをする、でんとうがありますか。,What kind of celebrations are traditional on special milestones like birthdays and anniversaries?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q391.mp3
+Q393,sec1,Accelerated,レジャー活動・余暇 (Leisure Activities),いちにちの、終わりに自分自身のじかんを確保するため、どのようなナイトルーティンを行っていますか。,"To secure time for yourself at the end of the day, what kind of night routine do you practice?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q393.mp3
+Q394,sec1,Accelerated,レジャー活動・余暇 (Leisure Activities),朝の限られた時間を効率的に使うために、どのようなモーニングルーティンを、じっせんしていますか。,What kind of morning routine do you practice in order to efficiently use limited time in the morning?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q394.mp3
+Q395,sec1,Accelerated,将来 (Future Plans),高等学校を卒業した後の、しんろ方針について、どのように、えがいていますか。,How do you picture your career path policy after graduating from senior high school?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q395.mp3
+Q398,sec1,Accelerated,将来 (Future Plans),グローバルな環境や海外を拠点にして、はたらくことについて、どのような関心をお持ちですか。,What kind of interest do you have in working in a global environment or based overseas?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q398.mp3
+Q402,sec1,Accelerated,将来 (Future Plans),親もとを、離れて自立したさい、どのような、じゅう環境やエリアで暮らしたいですか。,"When you leave your parents and become independent, what kind of living environment and area would you like to live in?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q402.mp3
+Q404,sec1,Accelerated,将来 (Future Plans),あなたが人生を通じて最終的に達成したい「最大の、もくひょうや、夢」は何ですか。,"What is the ""ultimate goal or dream"" you want to finally achieve through your life?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q404.mp3
+Q405,sec1,Accelerated,テクノロジー・スマホなど (Technology),日常生活において、おもに、どのようなIT機器やスマートデバイスを活用していますか。,"In your daily life, what kind of IT equipment and smart devices do you mainly utilize?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q405.mp3
+Q406,sec1,Accelerated,テクノロジー・スマホなど (Technology),画面を見る時間、スクリーン、タイムの長さについて、ご自身でどのように管理していますか。,How do you manage the length of your screen-viewing time (screen time) yourself?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q406.mp3
+Q407,sec1,Accelerated,テクノロジー・スマホなど (Technology),デバイスを、もちいて、おもにどのような情報収集やコミュニケーションを、おこなっていますか。,What kind of information gathering and communication do you mainly perform using devices?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q407.mp3
+Q408,sec1,Accelerated,テクノロジー・スマホなど (Technology),学習や仕事の生産性を、こうじょうさせるために、PCやソフトウェアをどのように運用していますか。,How do you operate PCs and software to improve the productivity of your studies and work?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q408.mp3
+Q409,sec1,Accelerated,テクノロジー・スマホなど (Technology),オンラインショッピングや電子決済、キャッシュレスを利用する頻度と、りべんせいについてどう思いますか。,What do you think about the frequency and convenience of using online shopping and electronic payment (cashless)?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q409.mp3
+Q410,sec1,Accelerated,テクノロジー・スマホなど (Technology),SNSの普及がもたらす社会的なメリットと、けねんされる、デメリットについてどう考えますか。,What do you think about the social merits brought by the spread of SNS and the concerned demerits?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q410.mp3
+Q411,sec1,Accelerated,テクノロジー・スマホなど (Technology),きゅうそくな、技術、かくしんによって、私たちの生活、ようしきはどのように変化したと感じますか。,How do you feel our lifestyles have changed due to rapid technological innovation?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q411.mp3
+Q412,sec1,Accelerated,テクノロジー・スマホなど (Technology),人工知能、AI、技術の進化が今後の社会や雇用に与える影響について、どうお考えですか。,What do you think about the impact that the evolution of artificial intelligence (AI) technology will have on future society and employment?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q412.mp3
+Q415,sec2,Accelerated,導入・プレゼンの切り出し (Introduction & Pitch),今回取り上げる研究、テーマ、サブトピックと、そのポイントを教えてください。,Please tell me the research theme (subtopic) you are taking up this time and its key points.,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q415.mp3
+Q416,sec2,Accelerated,導入・プレゼンの切り出し (Introduction & Pitch),数ある、テーマ、の中で、なぜこの問題に注目しましたか。,"Among many themes, why did you pay attention to this problem?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q416.mp3
+Q417,sec2,Accelerated,導入・プレゼンの切り出し (Introduction & Pitch),研究内容の要点を、みじかく、まとめて説明してください。,Please briefly summarize and explain the main points of your research content.,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q417.mp3
+Q419,sec2,Accelerated,導入・プレゼンの切り出し (Introduction & Pitch),その資料、えいぞう、文献を分析して、具体的にどのような結論を得ましたか。,"Analyzing those materials (videos, literature), what specific conclusions did you obtain?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q419.mp3
+Q421,sec2,Accelerated,事実の確認・詳細の要求 (Clarification & Details),それを、うらづけるような、ぐたい例や、データ、はありますか。,Are there any specific examples or data to back that up?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q421.mp3
+Q424,sec2,Accelerated,事実の確認・詳細の要求 (Clarification & Details),調べた資料のなかで、特に注目した内容はどんなことですか。,"Among the materials you researched, what was the content you paid particular attention to?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q424.mp3
+Q427,sec2,Accelerated,理由・根拠の追及 (Reasons & Justifications),なぜ、このできごと、現象が、これほど大きな関心を集めているのですか。,Why is this event (phenomenon) attracting so much attention?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q427.mp3
+Q433,sec2,Accelerated,比較・対比 (Comparison & Contrast),過去の状況と比較して、もっとも、大きな変化は何ですか。,"Compared to past situations, what is the biggest change?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q433.mp3
+Q436,sec2,Accelerated,比較・対比 (Comparison & Contrast),ほかの、解決方法と比較したとき、そのアプローチはどれくらい有効だと思いますか。,"When compared to other resolution methods, how effective do you think that approach is?",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q436.mp3
+Q437,sec2,Accelerated,賛否・個人的な意見 (Opinions & Stance),ことなる、立場の意見を踏まえた上で、あなた自身の考えを聞かせてください。,"Based on opinions from different stances, please let me hear your own thoughts.",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q437.mp3
+Q441,sec2,Accelerated,解決策・将来の展望 (Solutions & Future Prospects),この課題を解決するためには、どのような対策が必要ですか。,What kind of measures are necessary to solve this challenge?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q441.mp3
+Q444,sec2,Accelerated,解決策・将来の展望 (Solutions & Future Prospects),状況を良くするために、私たちが今すぐ取るべき行動は何ですか。,What actions should we take right now to improve the situation?,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q444.mp3
+Q450,afterSec2,Accelerated,終了 (End),以上で特別研究のディスカッションを終了します。,This concludes the detailed study discussion.,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q450.mp3
+Q451,afterSec2,Accelerated,終了 (End),お時間となりましたので、本日の、しけん、質問項目はすべて終了とさせていただきます。,"As time is up, we will consider all of today's exam question items concluded.",Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q451.mp3
+Q452,afterSec2,Accelerated,終了 (End),以上をもちまして、VCE日本語口頭、しけんの、ぜんにっていを、終了します。,This concludes all schedules of the VCE Japanese oral exam.,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q452.mp3
+Q454,afterSec2,Accelerated,終了 (End),ひごろの成果を十分に発揮していただけたかと思います。,I think you were able to sufficiently demonstrate the results of your daily practice.,Xb7hH8MSUJpSbSDYk0k2,pending,/audio/Q454.mp3

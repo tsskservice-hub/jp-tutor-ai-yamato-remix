@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import type { MetaFunction } from "react-router";
 import { Link } from "react-router";
-import { Sparkles, GraduationCap, BookOpen, Compass, ArrowRight, ShieldCheck, Sun, Moon, FileText } from "lucide-react";
+import { Sparkles, GraduationCap, BookOpen, Compass, ArrowRight, ShieldCheck, Sun, Moon, FileText, Mic } from "lucide-react";
 
 export const meta: MetaFunction = () => {
   return [
@@ -13,7 +13,6 @@ export const meta: MetaFunction = () => {
 export default function Home() {
   const [isDark, setIsDark] = useState(true);
 
-  // 初回ロード時に保存されたテーマまたはシステムの好みを反映
   useEffect(() => {
     const savedTheme = localStorage.getItem("theme");
     const isDarkModeActive = savedTheme === "dark" || (!savedTheme && document.documentElement.classList.contains("dark"));
@@ -26,15 +25,12 @@ export default function Home() {
     }
   }, []);
 
-  // テーマ切り替え関数
   const toggleTheme = () => {
     if (isDark) {
-      // ライトモードへ切り替え
       setIsDark(false);
       document.documentElement.classList.remove("dark");
       localStorage.setItem("theme", "light");
     } else {
-      // ダークモードへ切り替え
       setIsDark(true);
       document.documentElement.classList.add("dark");
       localStorage.setItem("theme", "dark");
@@ -49,8 +45,13 @@ export default function Home() {
         <header className="border-b border-slate-200 dark:border-slate-800/80 bg-white/80 dark:bg-slate-900/50 backdrop-blur-md sticky top-0 z-50">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
             <div className="flex items-center space-x-3">
-              <div className="bg-gradient-to-tr from-indigo-600 to-violet-500 p-2 rounded-xl text-white shadow-lg shadow-indigo-500/20 flex items-center justify-center">
-                <Sparkles className="w-5 h-5" />
+              {/* 兜のロゴ画像に変更[cite: 1] */}
+              <div className="w-9 h-9 rounded-xl overflow-hidden shadow-md shadow-indigo-500/20 flex items-center justify-center bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700">
+                <img 
+                  src="/jptutoraiyamato.png" 
+                  alt="JP Tutor AI Yamato Logo" 
+                  className="w-full h-full object-cover"
+                />
               </div>
               <span className="font-bold text-lg tracking-tight bg-gradient-to-r from-slate-900 via-slate-800 to-indigo-600 dark:from-white dark:via-slate-200 dark:to-indigo-300 bg-clip-text text-transparent">
                 JP Tutor AI Yamato
@@ -62,7 +63,6 @@ export default function Home() {
                 Gateway to Japanese Mastery
               </div>
               
-              {/* テーマ切り替えボタン */}
               <button
                 type="button"
                 onClick={toggleTheme}
@@ -106,15 +106,12 @@ export default function Home() {
             </div>
           </section>
 
-          {/* 🌟 CM動画＆プロダクト紹介フィーチャーセクション */}
+          {/* CM動画＆プロダクト紹介フィーチャーセクション */}
           <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-16">
             <div className="bg-slate-900 border border-indigo-500/30 rounded-3xl p-6 md:p-10 text-white shadow-2xl relative overflow-hidden">
-              {/* バックグラウンド光彩エフェクト */}
               <div className="absolute top-0 right-0 w-96 h-96 bg-indigo-500/10 rounded-full blur-3xl pointer-events-none" />
               
               <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center relative z-10">
-                
-                {/* 左側：CM動画（YouTube 16:9 埋め込み） */}
                 <div className="lg:col-span-7 aspect-video rounded-2xl overflow-hidden border border-slate-700/80 shadow-2xl bg-black">
                   <iframe
                     src="https://www.youtube.com/embed/lsOXW9_Bm28?rel=0&modestbranding=1"
@@ -125,7 +122,6 @@ export default function Home() {
                   />
                 </div>
 
-                {/* 右側：アプリの強みと購入・アクセス導線 */}
                 <div className="lg:col-span-5 space-y-4">
                   <div className="inline-flex items-center gap-2 px-3 py-1 bg-rose-500/20 text-rose-300 rounded-full border border-rose-500/30 text-xs font-semibold">
                     <span className="w-2 h-2 rounded-full bg-rose-500 animate-pulse" />
@@ -144,18 +140,11 @@ export default function Home() {
                   </p>
 
                   <ul className="space-y-2 text-xs text-slate-300 pt-1">
-                    <li className="flex items-center gap-2">
-                      <span className="text-emerald-400 font-bold">✓</span> Tailored Learning Pace & In-Depth Feedback
-                    </li>
-                    <li className="flex items-center gap-2">
-                      <span className="text-emerald-400 font-bold">✓</span> Genkooyoshi & Text Type Guidance
-                    </li>
-                    <li className="flex items-center gap-2">
-                      <span className="text-emerald-400 font-bold">✓</span> Passkey Biometric Instant Login
-                    </li>
+                    <li className="flex items-center gap-2"><span className="text-emerald-400 font-bold">✓</span> Tailored Learning Pace & In-Depth Feedback</li>
+                    <li className="flex items-center gap-2"><span className="text-emerald-400 font-bold">✓</span> Genkooyoshi & Text Type Guidance</li>
+                    <li className="flex items-center gap-2"><span className="text-emerald-400 font-bold">✓</span> Passkey Biometric Instant Login</li>
                   </ul>
                   
-                  {/* アプリ起動・ポータル購入用ボタン */}
                   <div className="pt-3 flex flex-col sm:flex-row gap-2.5">
                     <a
                       href="https://vceeoywriting.jptutoraiyamato.com"
@@ -168,12 +157,11 @@ export default function Home() {
                     </a>
                   </div>
                 </div>
-
               </div>
             </div>
           </section>
 
-          {/* アプリ一覧（グリッドポータル）セクション */}
+          {/* アプリ一覧・無料ツール（グリッドポータル）セクション */}
           <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-24">
             <div className="mb-12 text-center">
               <h2 className="text-2xl sm:text-3xl font-bold text-slate-900 dark:text-white tracking-tight">
@@ -185,7 +173,8 @@ export default function Home() {
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-              {/* アプリカード 1: VCE EOY Exam Writing Tutor */}
+              
+              {/* VCE EOY Exam Writing Tutor */}
               <div id="vce-app" className="group relative bg-white dark:bg-slate-900/80 rounded-2xl border border-indigo-500/30 p-6 hover:border-indigo-500/65 transition-all duration-300 hover:shadow-xl hover:shadow-indigo-500/10 flex flex-col justify-between shadow-sm">
                 <div className="absolute top-4 right-4 bg-indigo-500/10 dark:bg-indigo-500/20 text-indigo-600 dark:text-indigo-300 text-xs font-semibold px-2.5 py-1 rounded-full border border-indigo-500/20">
                   Featured
@@ -206,7 +195,6 @@ export default function Home() {
                   <div className="flex items-center justify-between">
                     <span className="text-xs text-indigo-600 dark:text-indigo-400 font-medium">Target: Year 11-12</span>
                   </div>
-
                   <div className="grid grid-cols-2 gap-2 pt-1">
                     <Link
                       to="/demo"
@@ -215,7 +203,6 @@ export default function Home() {
                       <span>Try Demo</span>
                       <Sparkles className="w-3.5 h-3.5 text-amber-500" />
                     </Link>
-
                     <a
                       href="https://vceeoywriting.jptutoraiyamato.com"
                       target="_blank"
@@ -229,7 +216,7 @@ export default function Home() {
                 </div>
               </div>
 
-              {/* 🌟 無料ツールカード: Genkoyoshi Editor (新設) */}
+              {/* Genkoyoshi Editor */}
               <div className="group relative bg-white dark:bg-slate-900/80 rounded-2xl border border-emerald-500/40 p-6 hover:border-emerald-500/70 transition-all duration-300 hover:shadow-xl hover:shadow-emerald-500/10 flex flex-col justify-between shadow-sm">
                 <div className="absolute top-4 right-4 bg-emerald-500/10 dark:bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 text-xs font-semibold px-2.5 py-1 rounded-full border border-emerald-500/20">
                   Free Web Tool
@@ -245,12 +232,10 @@ export default function Home() {
                     Type Japanese text and instantly format into Genkoyoshi layout with custom line gaps. Print or export directly to clean PDF.
                   </p>
                 </div>
-
                 <div className="pt-4 border-t border-slate-100 dark:border-slate-800 space-y-3">
                   <div className="flex items-center justify-between">
                     <span className="text-xs text-emerald-600 dark:text-emerald-400 font-medium">Free for Everyone</span>
                   </div>
-
                   <Link
                     to="/genkoyoshi-editor"
                     className="inline-flex items-center justify-center space-x-2 w-full py-2.5 px-4 text-xs font-bold rounded-lg bg-emerald-600 hover:bg-emerald-500 text-white shadow-md hover:shadow-lg transition-all text-center"
@@ -261,7 +246,37 @@ export default function Home() {
                 </div>
               </div>
 
-              {/* アプリカード 2: Middle Years (Year 7-10) */}
+              {/* Oral Exam Questions (ここに正しくリンクを設定) */}
+              <div className="group relative bg-white dark:bg-slate-900/80 rounded-2xl border border-sky-500/40 p-6 hover:border-sky-500/70 transition-all duration-300 hover:shadow-xl hover:shadow-sky-500/10 flex flex-col justify-between shadow-sm">
+                <div className="absolute top-4 right-4 bg-sky-500/10 dark:bg-sky-500/20 text-sky-600 dark:text-sky-400 text-xs font-semibold px-2.5 py-1 rounded-full border border-sky-500/20">
+                  Free Audio Tool
+                </div>
+                <div>
+                  <div className="w-12 h-12 bg-sky-600/10 dark:bg-sky-600/20 rounded-xl flex items-center justify-center text-sky-600 dark:text-sky-400 mb-6 group-hover:scale-110 transition-transform duration-300">
+                    <Mic className="w-6 h-6" />
+                  </div>
+                  <h3 className="text-lg font-bold text-slate-900 dark:text-white mb-3 group-hover:text-sky-600 dark:group-hover:text-sky-400 transition-colors">
+                    VCE Oral Exam Questions & Audio Hub
+                  </h3>
+                  <p className="text-slate-600 dark:text-slate-400 text-xs leading-relaxed mb-6">
+                    Practice with authentic examiner questions complete with high-quality audio recordings to sharpen your VCE oral exam performance.
+                  </p>
+                </div>
+                <div className="pt-4 border-t border-slate-100 dark:border-slate-800 space-y-3">
+                  <div className="flex items-center justify-between">
+                    <span className="text-xs text-sky-600 dark:text-sky-400 font-medium">Free for Everyone</span>
+                  </div>
+                  <Link
+                    to="/oral-exam-questions"
+                    className="inline-flex items-center justify-center space-x-2 w-full py-2.5 px-4 text-xs font-bold rounded-lg bg-sky-600 hover:bg-sky-500 text-white shadow-md hover:shadow-lg transition-all text-center"
+                  >
+                    <span>Open Oral Exam Audio</span>
+                    <ArrowRight className="w-3.5 h-3.5" />
+                  </Link>
+                </div>
+              </div>
+
+              {/* Junior Years */}
               <div className="group relative bg-white/60 dark:bg-slate-950/60 rounded-2xl border border-slate-200 dark:border-slate-800 p-6 hover:border-slate-300 dark:hover:border-slate-700 transition-all duration-300 flex flex-col justify-between shadow-sm">
                 <div className="absolute top-4 right-4 bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 text-xs font-semibold px-2.5 py-1 rounded-full">
                   Coming Soon
@@ -279,33 +294,7 @@ export default function Home() {
                 </div>
                 <div className="pt-4 border-t border-slate-100 dark:border-slate-800/60 flex items-center justify-between">
                   <span className="text-xs text-slate-400 dark:text-slate-500 font-medium">Target: Year 7-10</span>
-                  <span className="text-xs font-medium text-slate-400 dark:text-slate-500 cursor-not-allowed">
-                    In Development
-                  </span>
-                </div>
-              </div>
-
-              {/* アプリカード 3: Independent / Interest-based Learners */}
-              <div className="group relative bg-white/60 dark:bg-slate-950/60 rounded-2xl border border-slate-200 dark:border-slate-800 p-6 hover:border-slate-300 dark:hover:border-slate-700 transition-all duration-300 flex flex-col justify-between shadow-sm">
-                <div className="absolute top-4 right-4 bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 text-xs font-semibold px-2.5 py-1 rounded-full">
-                  Coming Soon
-                </div>
-                <div>
-                  <div className="w-12 h-12 bg-slate-100 dark:bg-slate-800 rounded-xl flex items-center justify-center text-slate-500 dark:text-slate-400 mb-6 group-hover:scale-110 transition-transform duration-300">
-                    <Compass className="w-6 h-6" />
-                  </div>
-                  <h3 className="text-lg font-bold text-slate-900 dark:text-white mb-3 group-hover:text-slate-700 dark:group-hover:text-slate-200 transition-colors">
-                    Independent & Interest-Based Learner
-                  </h3>
-                  <p className="text-slate-600 dark:text-slate-400 text-xs leading-relaxed mb-6">
-                    For learners of all backgrounds. Explore Japanese through pop culture, anime aesthetics, sports themes, and self-paced daily conversation.
-                  </p>
-                </div>
-                <div className="pt-4 border-t border-slate-100 dark:border-slate-800/60 flex items-center justify-between">
-                  <span className="text-xs text-slate-400 dark:text-slate-500 font-medium">Target: All Learners</span>
-                  <span className="text-xs font-medium text-slate-400 dark:text-slate-500 cursor-not-allowed">
-                    In Development
-                  </span>
+                  <span className="text-xs font-medium text-slate-400 dark:text-slate-500 cursor-not-allowed">In Development</span>
                 </div>
               </div>
 
@@ -313,7 +302,6 @@ export default function Home() {
           </section>
         </main>
 
-        {/* フッター */}
         <footer className="border-t border-slate-200 dark:border-slate-800/80 bg-slate-100 dark:bg-slate-950 py-8">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-500">
             <p>© {new Date().getFullYear()} JP Tutor AI Yamato. All rights reserved.</p>

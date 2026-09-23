@@ -1,0 +1,2764 @@
+{
+  "beforeSec1": {
+    "steady": [
+      {
+        "category": "入室 (Entering)",
+        "text": "こんにちは。",
+        "audio": "/audio/Q001.mp3",
+        "text_original": "こんにちは。"
+      },
+      {
+        "category": "入室 (Entering)",
+        "text": "お名前を教えてください。",
+        "audio": "/audio/Q002.mp3",
+        "text_original": "お名前を教えてください。"
+      },
+      {
+        "category": "入室 (Entering)",
+        "text": "<ruby>受験<rt>じゅけん</rt></ruby><ruby>番号<rt>ばんごう</rt></ruby>を教えてください。",
+        "audio": "/audio/Q003.mp3",
+        "text_original": "受験番号を教えてください。"
+      },
+      {
+        "category": "入室 (Entering)",
+        "text": "<ruby>確認<rt>かくにん</rt></ruby>できました。",
+        "audio": "/audio/Q004.mp3",
+        "text_original": "確認できました。"
+      },
+      {
+        "category": "入室 (Entering)",
+        "text": "オーケーです。",
+        "audio": "/audio/Q005.mp3",
+        "text_original": "オーケーです。"
+      },
+      {
+        "category": "入室 (Entering)",
+        "text": "<ruby>座<rt>すわ</rt></ruby>ってください。",
+        "audio": "/audio/Q006.mp3",
+        "text_original": "座ってください。"
+      },
+      {
+        "category": "入室 (Entering)",
+        "text": "リラックスしてください。",
+        "audio": "/audio/Q007.mp3",
+        "text_original": "リラックスしてください。"
+      },
+      {
+        "category": "入室 (Entering)",
+        "text": "では、会話を始めましょう。",
+        "audio": "/audio/Q008.mp3",
+        "text_original": "では、会話を始めましょう。"
+      }
+    ],
+    "normal": [
+      {
+        "category": "入室 (Entering)",
+        "text": "こんにちは。",
+        "audio": "/audio/Q150.mp3",
+        "text_original": "こんにちは。"
+      },
+      {
+        "category": "入室 (Entering)",
+        "text": "お名前と<ruby>受験<rt>じゅけん</rt></ruby><ruby>番号<rt>ばんごう</rt></ruby>を教えてください。",
+        "audio": "/audio/Q151.mp3",
+        "text_original": "お名前と受験番号を教えてください。"
+      },
+      {
+        "category": "入室 (Entering)",
+        "text": "はい、<ruby>確認<rt>かくにん</rt></ruby>できました。",
+        "audio": "/audio/Q152.mp3",
+        "text_original": "はい、確認できました。"
+      },
+      {
+        "category": "入室 (Entering)",
+        "text": "どうぞ<ruby>座<rt>すわ</rt></ruby>ってください。",
+        "audio": "/audio/Q153.mp3",
+        "text_original": "どうぞ座ってください。"
+      },
+      {
+        "category": "入室 (Entering)",
+        "text": "今日は少し<ruby>緊張<rt>きんちょう</rt></ruby>していますか。",
+        "audio": "/audio/Q154.mp3",
+        "text_original": "今日は少し緊張していますか。"
+      },
+      {
+        "category": "入室 (Entering)",
+        "text": "リラックスして<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですからね。",
+        "audio": "/audio/Q155.mp3",
+        "text_original": "リラックスして大丈夫ですからね。"
+      },
+      {
+        "category": "入室 (Entering)",
+        "text": "では、これからVCE日本語の<ruby>口頭<rt>こうとう</rt></ruby><ruby>試験<rt>しけん</rt></ruby>を始めます。",
+        "audio": "/audio/Q156.mp3",
+        "text_original": "では、これからVCE日本語の口頭試験を始めます。"
+      },
+      {
+        "category": "入室 (Entering)",
+        "text": "まずは<ruby>一般<rt>いっぱん</rt></ruby><ruby>的<rt>てき</rt></ruby>な会話から始めましょう。",
+        "audio": "/audio/Q157.mp3",
+        "text_original": "まずは一般的な会話から始めましょう。"
+      }
+    ],
+    "Accelerated": [
+      {
+        "category": "入室 (Entering)",
+        "text": "こんにちは。",
+        "audio": "/audio/Q307.mp3",
+        "text_original": "こんにちは。"
+      },
+      {
+        "category": "入室 (Entering)",
+        "text": "お名前と<ruby>受験<rt>じゅけん</rt></ruby><ruby>番号<rt>ばんごう</rt></ruby>を<ruby>伺<rt>うかが</rt></ruby>ってもよろしいですか。",
+        "audio": "/audio/Q308.mp3",
+        "text_original": "お名前と受験番号を伺ってもよろしいですか。"
+      },
+      {
+        "category": "入室 (Entering)",
+        "text": "ありがとうございます。",
+        "audio": "/audio/Q309.mp3",
+        "text_original": "ありがとうございます。"
+      },
+      {
+        "category": "入室 (Entering)",
+        "text": "<ruby>確認<rt>かくにん</rt></ruby>しましたので、どうぞご<ruby>着席<rt>ちゃくせき</rt></ruby>ください。",
+        "audio": "/audio/Q310.mp3",
+        "text_original": "確認しましたので、どうぞご着席ください。"
+      },
+      {
+        "category": "入室 (Entering)",
+        "text": "今日は少し<ruby>緊張<rt>きんちょう</rt></ruby>されていますか。",
+        "audio": "/audio/Q311.mp3",
+        "text_original": "今日は少し緊張されていますか。"
+      },
+      {
+        "category": "入室 (Entering)",
+        "text": "<ruby>日頃<rt>ひごろ</rt></ruby>の<ruby>練習<rt>れんしゅう</rt></ruby>の<ruby>成果<rt>せいか</rt></ruby>を<ruby>発揮<rt>はっき</rt></ruby>できるよう、リラックスして<ruby>臨<rt>のぞ</rt></ruby>んでくださいね。",
+        "audio": "/audio/Q312.mp3",
+        "text_original": "日頃の練習の成果を発揮できるよう、リラックスして臨んでくださいね。"
+      },
+      {
+        "category": "入室 (Entering)",
+        "text": "それでは、ただいまよりVCE日本語<ruby>口頭<rt>こうとう</rt></ruby><ruby>試験<rt>しけん</rt></ruby>を<ruby>開始<rt>かいし</rt></ruby>します。",
+        "audio": "/audio/Q313.mp3",
+        "text_original": "それでは、ただいまよりVCE日本語口頭試験を開始します。"
+      },
+      {
+        "category": "入室 (Entering)",
+        "text": "まずはセクション１の<ruby>一般<rt>いっぱん</rt></ruby>会話から<ruby>進<rt>すす</rt></ruby>めていきましょう。",
+        "audio": "/audio/Q314.mp3",
+        "text_original": "まずはセクション１の一般会話から進めていきましょう。"
+      }
+    ]
+  },
+  "sec1": {
+    "steady": [
+      {
+        "category": "家族 (Family)",
+        "text": "家族は何人ですか。",
+        "audio": "/audio/Q009.mp3",
+        "text_original": "家族は何人ですか。"
+      },
+      {
+        "category": "家族 (Family)",
+        "text": "家族はだれですか。",
+        "audio": "/audio/Q010.mp3",
+        "text_original": "家族はだれですか。"
+      },
+      {
+        "category": "家族 (Family)",
+        "text": "お父さん／お母さんの仕事は何ですか。",
+        "audio": "/audio/Q011.mp3",
+        "text_original": "お父さん／お母さんの仕事は何ですか。"
+      },
+      {
+        "category": "家族 (Family)",
+        "text": "兄弟がいますか。",
+        "audio": "/audio/Q012.mp3",
+        "text_original": "兄弟がいますか。"
+      },
+      {
+        "category": "家族 (Family)",
+        "text": "お兄さん／お姉さんはどんな人ですか。",
+        "audio": "/audio/Q013.mp3",
+        "text_original": "お兄さん／お姉さんはどんな人ですか。"
+      },
+      {
+        "category": "家族 (Family)",
+        "text": "ペットを<ruby>飼<rt>か</rt></ruby>っていますか。",
+        "audio": "/audio/Q014.mp3",
+        "text_original": "ペットを飼っていますか。"
+      },
+      {
+        "category": "家族 (Family)",
+        "text": "<ruby>週末<rt>しゅうまつ</rt></ruby>に家族と何をしますか。",
+        "audio": "/audio/Q015.mp3",
+        "text_original": "週末に家族と何をしますか。"
+      },
+      {
+        "category": "家族 (Family)",
+        "text": "家族のなかで、だれがいちばん<ruby>面白<rt>おもしろ</rt></ruby>いですか。",
+        "audio": "/audio/Q016.mp3",
+        "text_original": "家族のなかで、だれがいちばん面白いですか。"
+      },
+      {
+        "category": "家族 (Family)",
+        "text": "家族と<ruby>一緒<rt>いっしょ</rt></ruby>に旅行に行きますか。",
+        "audio": "/audio/Q017.mp3",
+        "text_original": "家族と一緒に旅行に行きますか。"
+      },
+      {
+        "category": "家族 (Family)",
+        "text": "家で<ruby>料理<rt>りょうり</rt></ruby>を<ruby>手伝<rt>てつだ</rt></ruby>いますか。",
+        "audio": "/audio/Q018.mp3",
+        "text_original": "家で料理を手伝いますか。"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "あなたの学校の名前は何ですか。",
+        "audio": "/audio/Q019.mp3",
+        "text_original": "あなたの学校の名前は何ですか。"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "何年生ですか。",
+        "audio": "/audio/Q020.mp3",
+        "text_original": "何年生ですか。"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "学校は何時に始まりますか。",
+        "audio": "/audio/Q021.mp3",
+        "text_original": "学校は何時に始まりますか。"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "どんな<ruby>科目<rt>かもく</rt></ruby>を勉強していますか。",
+        "audio": "/audio/Q022.mp3",
+        "text_original": "どんな科目を勉強していますか。"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "いちばん好きな<ruby>科目<rt>かもく</rt></ruby>は何ですか。どうしてですか。",
+        "audio": "/audio/Q023.mp3",
+        "text_original": "いちばん好きな科目は何ですか。どうしてですか。"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "いちばん<ruby>難<rt>むずか</rt></ruby>しい<ruby>科目<rt>かもく</rt></ruby>は何ですか。",
+        "audio": "/audio/Q024.mp3",
+        "text_original": "いちばん難しい科目は何ですか。"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "学校までどうやって行きますか。（何で行きますか。）",
+        "audio": "/audio/Q025.mp3",
+        "text_original": "学校までどうやって行きますか。（何で行きますか。）"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "家から学校までどのくらいかかりますか。",
+        "audio": "/audio/Q026.mp3",
+        "text_original": "家から学校までどのくらいかかりますか。"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "昼ごはんはどこで食べますか。",
+        "audio": "/audio/Q027.mp3",
+        "text_original": "昼ごはんはどこで食べますか。"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "あなたの学校のいいところは何ですか。",
+        "audio": "/audio/Q028.mp3",
+        "text_original": "あなたの学校のいいところは何ですか。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "<ruby>趣味<rt>しゅみ</rt></ruby>は何ですか。",
+        "audio": "/audio/Q029.mp3",
+        "text_original": "趣味は何ですか。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "<ruby>暇<rt>ひま</rt></ruby>な時に何をしますか。",
+        "audio": "/audio/Q030.mp3",
+        "text_original": "暇な時に何をしますか。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "<ruby>音楽<rt>おんがく</rt></ruby>を聞くのが好きですか。どんな<ruby>音楽<rt>おんがく</rt></ruby>を聞きますか。",
+        "audio": "/audio/Q031.mp3",
+        "text_original": "音楽を聞くのが好きですか。どんな音楽を聞きますか。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "本をよく読みますか。",
+        "audio": "/audio/Q032.mp3",
+        "text_original": "本をよく読みますか。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "<ruby>映画<rt>えいが</rt></ruby>を見るのが好きですか。好きな<ruby>映画<rt>えいが</rt></ruby>は何ですか。",
+        "audio": "/audio/Q033.mp3",
+        "text_original": "映画を見るのが好きですか。好きな映画は何ですか。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "週に何回くらい<ruby>趣味<rt>しゅみ</rt></ruby>をしますか。",
+        "audio": "/audio/Q034.mp3",
+        "text_original": "週に何回くらい趣味をしますか。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "いつからその<ruby>趣味<rt>しゅみ</rt></ruby>を始めましたか。",
+        "audio": "/audio/Q035.mp3",
+        "text_original": "いつからその趣味を始めましたか。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "友だちと<ruby>一緒<rt>いっしょ</rt></ruby>に何をしますか。",
+        "audio": "/audio/Q036.mp3",
+        "text_original": "友だちと一緒に何をしますか。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "インターネットでユーチューブをよく見ますか。",
+        "audio": "/audio/Q037.mp3",
+        "text_original": "インターネットでユーチューブをよく見ますか。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "新しい<ruby>趣味<rt>しゅみ</rt></ruby>を始めたいですか。",
+        "audio": "/audio/Q038.mp3",
+        "text_original": "新しい趣味を始めたいですか。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "アルバイトをしていますか。",
+        "audio": "/audio/Q039.mp3",
+        "text_original": "アルバイトをしていますか。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "どこでアルバイトをしていますか。",
+        "audio": "/audio/Q040.mp3",
+        "text_original": "どこでアルバイトをしていますか。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "どんな仕事をしますか。",
+        "audio": "/audio/Q041.mp3",
+        "text_original": "どんな仕事をしますか。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "週に何日アルバイトをしますか。",
+        "audio": "/audio/Q042.mp3",
+        "text_original": "週に何日アルバイトをしますか。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "何曜日に行きますか。",
+        "audio": "/audio/Q043.mp3",
+        "text_original": "何曜日に行きますか。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "アルバイトは楽しいですか、それとも<ruby>大変<rt>たいへん</rt></ruby>ですか。",
+        "audio": "/audio/Q044.mp3",
+        "text_original": "アルバイトは楽しいですか、それとも大変ですか。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "お金をもらったら、何に使いますか。",
+        "audio": "/audio/Q045.mp3",
+        "text_original": "お金をもらったら、何に使いますか。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "アルバイトの人は<ruby>親切<rt>しんせつ</rt></ruby>ですか。",
+        "audio": "/audio/Q046.mp3",
+        "text_original": "アルバイトの人は親切ですか。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "なぜアルバイトを始めましたか。",
+        "audio": "/audio/Q047.mp3",
+        "text_original": "なぜアルバイトを始めましたか。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "<ruby>将来<rt>しょうらい</rt></ruby>、どんな仕事をしたいですか。",
+        "audio": "/audio/Q048.mp3",
+        "text_original": "将来、どんな仕事をしたいですか。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "どうして日本語を勉強していますか。",
+        "audio": "/audio/Q049.mp3",
+        "text_original": "どうして日本語を勉強していますか。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "日本語の勉強は楽しいですか。",
+        "audio": "/audio/Q050.mp3",
+        "text_original": "日本語の勉強は楽しいですか。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "日本語のなかで、何がいちばん<ruby>難<rt>むずか</rt></ruby>しいですか。漢字ですか。<ruby>文法<rt>ぶんぽう</rt></ruby>ですか。会話ですか。",
+        "audio": "/audio/Q051.mp3",
+        "text_original": "日本語のなかで、何がいちばん難しいですか。漢字ですか。文法ですか。会話ですか。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "一日にどのくらい日本語を勉強しますか。",
+        "audio": "/audio/Q052.mp3",
+        "text_original": "一日にどのくらい日本語を勉強しますか。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "日本のマンガやアニメが好きですか。",
+        "audio": "/audio/Q053.mp3",
+        "text_original": "日本のマンガやアニメが好きですか。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "好きな漢字は何ですか。",
+        "audio": "/audio/Q054.mp3",
+        "text_original": "好きな漢字は何ですか。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "日本語の先生はどんな人ですか。",
+        "audio": "/audio/Q055.mp3",
+        "text_original": "日本語の先生はどんな人ですか。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "日本語で話すのは好きですか。",
+        "audio": "/audio/Q056.mp3",
+        "text_original": "日本語で話すのは好きですか。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "日本人の友だちがいますか。",
+        "audio": "/audio/Q057.mp3",
+        "text_original": "日本人の友だちがいますか。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "日本語を使って何をしたいですか。",
+        "audio": "/audio/Q058.mp3",
+        "text_original": "日本語を使って何をしたいですか。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "スポーツが好きですか。",
+        "audio": "/audio/Q059.mp3",
+        "text_original": "スポーツが好きですか。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "どんなスポーツをしますか。どんなスポーツを見ますか。",
+        "audio": "/audio/Q060.mp3",
+        "text_original": "どんなスポーツをしますか。どんなスポーツを見ますか。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "学校でスポーツの<ruby>部<rt>ぶ</rt></ruby>活動をしていますか。",
+        "audio": "/audio/Q061.mp3",
+        "text_original": "学校でスポーツの部活動をしていますか。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "<ruby>週末<rt>しゅうまつ</rt></ruby>にスポーツをしますか。",
+        "audio": "/audio/Q062.mp3",
+        "text_original": "週末にスポーツをしますか。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "いちばん好きなスポーツ<ruby>選手<rt>せんしゅ</rt></ruby>はだれですか。",
+        "audio": "/audio/Q063.mp3",
+        "text_original": "いちばん好きなスポーツ選手はだれですか。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "<ruby>水泳<rt>すいえい</rt></ruby>ができますか。",
+        "audio": "/audio/Q064.mp3",
+        "text_original": "水泳ができますか。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "スポーツをするのと見るのと、どちらが好きですか。",
+        "audio": "/audio/Q065.mp3",
+        "text_original": "スポーツをするのと見るのと、どちらが好きですか。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "オーストラリアで人気があるスポーツは何ですか。",
+        "audio": "/audio/Q066.mp3",
+        "text_original": "オーストラリアで人気があるスポーツは何ですか。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "今までにどんなスポーツを習いましたか。",
+        "audio": "/audio/Q067.mp3",
+        "text_original": "今までにどんなスポーツを習いましたか。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "これからやってみたいスポーツがありますか。",
+        "audio": "/audio/Q068.mp3",
+        "text_original": "これからやってみたいスポーツがありますか。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "旅行が好きですか。",
+        "audio": "/audio/Q069.mp3",
+        "text_original": "旅行が好きですか。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "<ruby>最近<rt>さいきん</rt></ruby>、どこへ旅行に行きましたか。",
+        "audio": "/audio/Q070.mp3",
+        "text_original": "最近、どこへ旅行に行きましたか。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "だれと行きましたか。",
+        "audio": "/audio/Q071.mp3",
+        "text_original": "だれと行きましたか。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "そこで何をしましたか。",
+        "audio": "/audio/Q072.mp3",
+        "text_original": "そこで何をしましたか。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "どんな食べものを食べましたか。",
+        "audio": "/audio/Q073.mp3",
+        "text_original": "どんな食べものを食べましたか。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "今まで行ったところで、どこがいちばん好きですか。",
+        "audio": "/audio/Q074.mp3",
+        "text_original": "今まで行ったところで、どこがいちばん好きですか。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "日本に行ったことがありますか。",
+        "audio": "/audio/Q075.mp3",
+        "text_original": "日本に行ったことがありますか。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "日本で行ってみたいところはどこですか。",
+        "audio": "/audio/Q076.mp3",
+        "text_original": "日本で行ってみたいところはどこですか。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "旅行のとき、電車で行きますか、車で行きますか。",
+        "audio": "/audio/Q077.mp3",
+        "text_original": "旅行のとき、電車で行きますか、車で行きますか。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "次の休みはどこに行きたいですか。",
+        "audio": "/audio/Q078.mp3",
+        "text_original": "次の休みはどこに行きたいですか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "<ruby>週末<rt>しゅうまつ</rt></ruby>はたいてい何をしますか。",
+        "audio": "/audio/Q079.mp3",
+        "text_original": "週末はたいてい何をしますか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "友だちと<ruby>遊<rt>あそ</rt></ruby>ぶとき、どこへ行きますか。",
+        "audio": "/audio/Q080.mp3",
+        "text_original": "友だちと遊ぶとき、どこへ行きますか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "買い物、ショッピングが好きですか。何を買いますか。",
+        "audio": "/audio/Q081.mp3",
+        "text_original": "買い物、ショッピングが好きですか。何を買いますか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "<ruby>公園<rt>こうえん</rt></ruby>に<ruby>散歩<rt>さんぽ</rt></ruby>に行きますか。",
+        "audio": "/audio/Q082.mp3",
+        "text_original": "公園に散歩に行きますか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "家でテレビやゲームをしますか。",
+        "audio": "/audio/Q083.mp3",
+        "text_original": "家でテレビやゲームをしますか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "今年の休みに何をしたいですか。",
+        "audio": "/audio/Q084.mp3",
+        "text_original": "今年の休みに何をしたいですか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "<ruby>誕生<rt>たんじょう</rt></ruby>日に何をしますか。",
+        "audio": "/audio/Q085.mp3",
+        "text_original": "誕生日に何をしますか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "パーティーによく行きますか。",
+        "audio": "/audio/Q086.mp3",
+        "text_original": "パーティーによく行きますか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "夜、<ruby>寝<rt>ね</rt></ruby>る前に何をしますか。",
+        "audio": "/audio/Q087.mp3",
+        "text_original": "夜、寝る前に何をしますか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "朝<ruby>起<rt>お</rt></ruby>きてから、<ruby>最初<rt>さいしょ</rt></ruby>に何をしますか。",
+        "audio": "/audio/Q088.mp3",
+        "text_original": "朝起きてから、最初に何をしますか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "高校を<ruby>卒業<rt>そつぎょう</rt></ruby>してから、何をしたいですか。",
+        "audio": "/audio/Q089.mp3",
+        "text_original": "高校を卒業してから、何をしたいですか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "大学に行きたいですか。何を勉強したいですか。",
+        "audio": "/audio/Q090.mp3",
+        "text_original": "大学に行きたいですか。何を勉強したいですか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "<ruby>将来<rt>しょうらい</rt></ruby>、どんな仕事をしたいですか。",
+        "audio": "/audio/Q091.mp3",
+        "text_original": "将来、どんな仕事をしたいですか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "<ruby>将来<rt>しょうらい</rt></ruby>、外国に住んでみたいですか。",
+        "audio": "/audio/Q092.mp3",
+        "text_original": "将来、外国に住んでみたいですか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "日本で働いてみたいですか。",
+        "audio": "/audio/Q093.mp3",
+        "text_original": "日本で働いてみたいですか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "<ruby>将来<rt>しょうらい</rt></ruby>、車を<ruby>運転<rt>うんてん</rt></ruby>したいですか。",
+        "audio": "/audio/Q094.mp3",
+        "text_original": "将来、車を運転したいですか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "車を買いたいですか。どんな車がいいですか。",
+        "audio": "/audio/Q095.mp3",
+        "text_original": "車を買いたいですか。どんな車がいいですか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "大人になったら、どこに住みたいですか。",
+        "audio": "/audio/Q096.mp3",
+        "text_original": "大人になったら、どこに住みたいですか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "10年後、あなたは何をしていると思いますか。",
+        "audio": "/audio/Q097.mp3",
+        "text_original": "10年後、あなたは何をしていると思いますか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>夢<rt>ゆめ</rt></ruby>は何ですか。",
+        "audio": "/audio/Q098.mp3",
+        "text_original": "将来の夢は何ですか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "スマホを持っていますか。",
+        "audio": "/audio/Q099.mp3",
+        "text_original": "スマホを持っていますか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "一日にどのくらいスマホを使いますか。",
+        "audio": "/audio/Q100.mp3",
+        "text_original": "一日にどのくらいスマホを使いますか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "スマホで何をしますか。ゲームですか。SNSですか。勉強ですか。",
+        "audio": "/audio/Q101.mp3",
+        "text_original": "スマホで何をしますか。ゲームですか。SNSですか。勉強ですか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "パソコンを使いますか。",
+        "audio": "/audio/Q102.mp3",
+        "text_original": "パソコンを使いますか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "オンラインで買い物をしますか。",
+        "audio": "/audio/Q103.mp3",
+        "text_original": "オンラインで買い物をしますか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "ソーシャルメディア（SNS）をよく使いますか。",
+        "audio": "/audio/Q104.mp3",
+        "text_original": "ソーシャルメディア（SNS）をよく使いますか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "テクノロジーは<ruby>便利<rt>べんり</rt></ruby>だと思いますか。",
+        "audio": "/audio/Q105.mp3",
+        "text_original": "テクノロジーは便利だと思いますか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "AI（<ruby>人工<rt>じんこう</rt></ruby><ruby>知能<rt>ちのう</rt></ruby>）についてどう思いますか。",
+        "audio": "/audio/Q106.mp3",
+        "text_original": "AI（人工知能）についてどう思いますか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "スマホがない生活ができますか。",
+        "audio": "/audio/Q107.mp3",
+        "text_original": "スマホがない生活ができますか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "新しいパソコンやスマホが<ruby>欲<rt>ほ</rt></ruby>しいですか。",
+        "audio": "/audio/Q108.mp3",
+        "text_original": "新しいパソコンやスマホが欲しいですか。"
+      }
+    ],
+    "normal": [
+      {
+        "category": "家族 (Family)",
+        "text": "ご家族は何人いらっしゃいますか。",
+        "audio": "/audio/Q158.mp3",
+        "text_original": "ご家族は何人いらっしゃいますか。"
+      },
+      {
+        "category": "家族 (Family)",
+        "text": "家族の中で、だれと一番<ruby>仲<rt>なか</rt></ruby>がいいですか。",
+        "audio": "/audio/Q159.mp3",
+        "text_original": "家族の中で、だれと一番仲がいいですか。"
+      },
+      {
+        "category": "家族 (Family)",
+        "text": "お<ruby>父様<rt>とうさま</rt></ruby>やお<ruby>母様<rt>かあさま</rt></ruby>はどんなお仕事をなさっていますか。",
+        "audio": "/audio/Q160.mp3",
+        "text_original": "お父様やお母様はどんなお仕事をなさっていますか。"
+      },
+      {
+        "category": "家族 (Family)",
+        "text": "ご兄弟はおいくつですか。",
+        "audio": "/audio/Q161.mp3",
+        "text_original": "ご兄弟はおいくつですか。"
+      },
+      {
+        "category": "家族 (Family)",
+        "text": "ご家族はどんな<ruby>性格<rt>せいかく</rt></ruby>ですか。<ruby>優<rt>やさ</rt></ruby>しいですか。<ruby>厳<rt>きび</rt></ruby>しいですか。",
+        "audio": "/audio/Q162.mp3",
+        "text_original": "ご家族はどんな性格ですか。優しいですか。厳しいですか。"
+      },
+      {
+        "category": "家族 (Family)",
+        "text": "ペットを<ruby>飼<rt>か</rt></ruby>ったことがありますか。",
+        "audio": "/audio/Q163.mp3",
+        "text_original": "ペットを飼ったことがありますか。"
+      },
+      {
+        "category": "家族 (Family)",
+        "text": "<ruby>週末<rt>しゅうまつ</rt></ruby>は家族と<ruby>一緒<rt>いっしょ</rt></ruby>にどんなことをして<ruby>過<rt>す</rt></ruby>ごしますか。",
+        "audio": "/audio/Q164.mp3",
+        "text_original": "週末は家族と一緒にどんなことをして過ごしますか。"
+      },
+      {
+        "category": "家族 (Family)",
+        "text": "家で何か<ruby>特別<rt>とくべつ</rt></ruby>な家族のルールや<ruby>習慣<rt>しゅうかん</rt></ruby>がありますか。",
+        "audio": "/audio/Q165.mp3",
+        "text_original": "家で何か特別な家族のルールや習慣がありますか。"
+      },
+      {
+        "category": "家族 (Family)",
+        "text": "今まで家族とどこへ旅行に行ったことがありますか。",
+        "audio": "/audio/Q166.mp3",
+        "text_original": "今まで家族とどこへ旅行に行ったことがありますか。"
+      },
+      {
+        "category": "家族 (Family)",
+        "text": "家事を<ruby>手伝<rt>てつだ</rt></ruby>うために、いつもどんなことをしていますか。",
+        "audio": "/audio/Q167.mp3",
+        "text_original": "家事を手伝うために、いつもどんなことをしていますか。"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "<ruby>通<rt>かよ</rt></ruby>っている学校はどんな学校ですか。",
+        "audio": "/audio/Q168.mp3",
+        "text_original": "通っている学校はどんな学校ですか。"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "今、何年生で、何のコースを<ruby>専攻<rt>せんこう</rt></ruby>していますか。",
+        "audio": "/audio/Q169.mp3",
+        "text_original": "今、何年生で、何のコースを専攻していますか。"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "朝、学校は何時までに<ruby>届<rt>とど</rt></ruby>かなければなりませんか。",
+        "audio": "/audio/Q170.mp3",
+        "text_original": "朝、学校は何時までに届かなければなりませんか。"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "<ruby>今学期<rt>こんがっき</rt></ruby>は、どんな<ruby>科目<rt>かもく</rt></ruby>をとっていますか。",
+        "audio": "/audio/Q171.mp3",
+        "text_original": "今学期は、どんな科目をとっていますか。"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "一番<ruby>興味<rt>きょうみ</rt></ruby>がある<ruby>科目<rt>かもく</rt></ruby>は何ですか。その<ruby>理由<rt>りゆう</rt></ruby>も教えてください。",
+        "audio": "/audio/Q172.mp3",
+        "text_original": "一番興味がある科目は何ですか。その理由も教えてください。"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "一番<ruby>苦手<rt>にがて</rt></ruby>な<ruby>科目<rt>かもく</rt></ruby>について、どうやって勉強していますか。",
+        "audio": "/audio/Q173.mp3",
+        "text_original": "一番苦手な科目について、どうやって勉強していますか。"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "学校まで<ruby>通<rt>かよ</rt></ruby>うのに、どんな<ruby>交通<rt>こうつう</rt></ruby><ruby>手段<rt>しゅだん</rt></ruby>を使っていますか。",
+        "audio": "/audio/Q174.mp3",
+        "text_original": "学校まで通うのに、どんな交通手段を使っていますか。"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "家から学校まで行くのに、どのくらい時間がかかりますか。",
+        "audio": "/audio/Q175.mp3",
+        "text_original": "家から学校まで行くのに、どのくらい時間がかかりますか。"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "昼休みはいつもどこで、だれと何をしていますか。",
+        "audio": "/audio/Q176.mp3",
+        "text_original": "昼休みはいつもどこで、だれと何をしていますか。"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "あなたの学校の長所（<ruby>良<rt>よ</rt></ruby>いところ）と<ruby>短所<rt>たんしょ</rt></ruby>（<ruby>悪<rt>わる</rt></ruby>いところ）は何ですか。",
+        "audio": "/audio/Q177.mp3",
+        "text_original": "あなたの学校の長所（良いところ）と短所（悪いところ）は何ですか。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "どんなことに<ruby>興味<rt>きょうみ</rt></ruby>がありますか。<ruby>趣味<rt>しゅみ</rt></ruby>について教えてください。",
+        "audio": "/audio/Q178.mp3",
+        "text_original": "どんなことに興味がありますか。趣味について教えてください。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "時間があるとき、どんなことをして気分<ruby>転換<rt>てんかん</rt></ruby>（きぶんてんかん）をしますか。",
+        "audio": "/audio/Q179.mp3",
+        "text_original": "時間があるとき、どんなことをして気分転換（きぶんてんかん）をしますか。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "よく<ruby>聴<rt>き</rt></ruby>く<ruby>音楽<rt>おんがく</rt></ruby>のジャンルや、好きな<ruby>歌手<rt>かしゅ</rt></ruby>はだれですか。",
+        "audio": "/audio/Q180.mp3",
+        "text_original": "よく聴く音楽のジャンルや、好きな歌手はだれですか。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "<ruby>最近<rt>さいきん</rt></ruby>読んだ本の中で、<ruby>面白<rt>おもしろ</rt></ruby>かったものは何ですか。",
+        "audio": "/audio/Q181.mp3",
+        "text_original": "最近読んだ本の中で、面白かったものは何ですか。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "どんな<ruby>種類<rt>しゅるい</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>が好きですか。<ruby>最近<rt>さいきん</rt></ruby>何か見ましたか。",
+        "audio": "/audio/Q182.mp3",
+        "text_original": "どんな種類の映画が好きですか。最近何か見ましたか。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "一週間にどのくらい<ruby>趣味<rt>しゅみ</rt></ruby>の時間がありますか。",
+        "audio": "/audio/Q183.mp3",
+        "text_original": "一週間にどのくらい趣味の時間がありますか。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "その<ruby>趣味<rt>しゅみ</rt></ruby>を始めたきっかけは何ですか。",
+        "audio": "/audio/Q184.mp3",
+        "text_original": "その趣味を始めたきっかけは何ですか。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "友だちと同じ<ruby>趣味<rt>しゅみ</rt></ruby>を持っていますか。<ruby>一緒<rt>いっしょ</rt></ruby>に何をして楽しみますか。",
+        "audio": "/audio/Q185.mp3",
+        "text_original": "友だちと同じ趣味を持っていますか。一緒に何をして楽しみますか。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "YouTubeなどの<ruby>動画<rt>どうが</rt></ruby>サイトで、どのようなチャンネルをよく見ますか。",
+        "audio": "/audio/Q186.mp3",
+        "text_original": "YouTubeなどの動画サイトで、どのようなチャンネルをよく見ますか。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "今後、新しく<ruby>挑戦<rt>ちょうせん</rt></ruby>してみたい<ruby>趣味<rt>しゅみ</rt></ruby>や活動はありますか。",
+        "audio": "/audio/Q187.mp3",
+        "text_original": "今後、新しく挑戦してみたい趣味や活動はありますか。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "今、何かアルバイトをしていますか。",
+        "audio": "/audio/Q188.mp3",
+        "text_original": "今、何かアルバイトをしていますか。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "どんなお店や会社で働いていますか。",
+        "audio": "/audio/Q189.mp3",
+        "text_original": "どんなお店や会社で働いていますか。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "アルバイトでどんな仕事をしていますか。",
+        "audio": "/audio/Q190.mp3",
+        "text_original": "アルバイトでどんな仕事をしていますか。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "一週間に何日、何時間くらい働いていますか。",
+        "audio": "/audio/Q191.mp3",
+        "text_original": "一週間に何日、何時間くらい働いていますか。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "いつも何曜日やどんなシフトで働いていますか。",
+        "audio": "/audio/Q192.mp3",
+        "text_original": "いつも何曜日やどんなシフトで働いていますか。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "アルバイトをしていて、どんなときに<ruby>大変<rt>たいへん</rt></ruby>だと<ruby>感<rt>かん</rt></ruby>じますか。",
+        "audio": "/audio/Q193.mp3",
+        "text_original": "アルバイトをしていて、どんなときに大変だと感じますか。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "アルバイトで<ruby>稼<rt>かせ</rt></ruby>いだ<ruby>給料<rt>きゅうりょう</rt></ruby>（お金）は何に使っていますか。",
+        "audio": "/audio/Q194.mp3",
+        "text_original": "アルバイトで稼いだ給料（お金）は何に使っていますか。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "<ruby>職場<rt>しょくば</rt></ruby>の<ruby>同僚<rt>どうりょう</rt></ruby>（どうりょう）やマネージャーはどんな人たちですか。",
+        "audio": "/audio/Q195.mp3",
+        "text_original": "職場の同僚（どうりょう）やマネージャーはどんな人たちですか。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "どうして今のアルバイトを<ruby>選<rt>えら</rt></ruby>びましたか。",
+        "audio": "/audio/Q196.mp3",
+        "text_original": "どうして今のアルバイトを選びましたか。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "アルバイトの<ruby>経験<rt>けいけん</rt></ruby>は、<ruby>将来<rt>しょうらい</rt></ruby>の仕事に<ruby>役立<rt>やくだ</rt></ruby>つと思いますか。",
+        "audio": "/audio/Q197.mp3",
+        "text_original": "アルバイトの経験は、将来の仕事に役立つと思いますか。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "どのような<ruby>目的<rt>もくてき</rt></ruby>で日本語を勉強し始めましたか。",
+        "audio": "/audio/Q198.mp3",
+        "text_original": "どのような目的で日本語を勉強し始めましたか。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "日本語を勉強していて、どんなときが一番楽しいですか。",
+        "audio": "/audio/Q199.mp3",
+        "text_original": "日本語を勉強していて、どんなときが一番楽しいですか。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "日本語の勉強で一番<ruby>難<rt>むずか</rt></ruby>しいと<ruby>感<rt>かん</rt></ruby>じるところはどこですか。",
+        "audio": "/audio/Q200.mp3",
+        "text_original": "日本語の勉強で一番難しいと感じるところはどこですか。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "毎日、どのように日本語を勉強していますか。",
+        "audio": "/audio/Q201.mp3",
+        "text_original": "毎日、どのように日本語を勉強していますか。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "日本のアニメやマンガの中で、お気に入りの<ruby>作品<rt>さくひん</rt></ruby>は何ですか。",
+        "audio": "/audio/Q202.mp3",
+        "text_original": "日本のアニメやマンガの中で、お気に入りの作品は何ですか。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "一番好きな漢字や、<ruby>覚<rt>おぼ</rt></ruby>えやすいと思った<ruby>言葉<rt>ことば</rt></ruby>は何ですか。",
+        "audio": "/audio/Q203.mp3",
+        "text_original": "一番好きな漢字や、覚えやすいと思った言葉は何ですか。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "日本語の先生は<ruby>授業<rt>じゅぎょう</rt></ruby>でどんな教え方をしていますか。",
+        "audio": "/audio/Q204.mp3",
+        "text_original": "日本語の先生は授業でどんな教え方をしていますか。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "日本語で自分の考えを<ruby>伝<rt>つた</rt></ruby>えるのは<ruby>得意<rt>とくい</rt></ruby>ですか。",
+        "audio": "/audio/Q205.mp3",
+        "text_original": "日本語で自分の考えを伝えるのは得意ですか。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "日本人の<ruby>知<rt>し</rt></ruby>り<ruby>合<rt>あ</rt></ruby>いや友だちと日本語で話したことがありますか。",
+        "audio": "/audio/Q206.mp3",
+        "text_original": "日本人の知り合いや友だちと日本語で話したことがありますか。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "<ruby>将来<rt>しょうらい</rt></ruby>、日本語の<ruby>知識<rt>ちしき</rt></ruby>をどのように生かしたいですか。",
+        "audio": "/audio/Q207.mp3",
+        "text_original": "将来、日本語の知識をどのように生かしたいですか。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "スポーツをやったり<ruby>観戦<rt>かんせん</rt></ruby>したりするのが好きですか。",
+        "audio": "/audio/Q208.mp3",
+        "text_original": "スポーツをやったり観戦したりするのが好きですか。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "日ごろ、どんなスポーツを楽しんでいますか。",
+        "audio": "/audio/Q209.mp3",
+        "text_original": "日ごろ、どんなスポーツを楽しんでいますか。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "学校の<ruby>部<rt>ぶ</rt></ruby>活動や<ruby>地域<rt>ちいき</rt></ruby>のクラブチームに<ruby>参加<rt>さんか</rt></ruby>していますか。",
+        "audio": "/audio/Q210.mp3",
+        "text_original": "学校の部活動や地域のクラブチームに参加していますか。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "<ruby>週末<rt>しゅうまつ</rt></ruby>に体を動かすために何をしていますか。",
+        "audio": "/audio/Q211.mp3",
+        "text_original": "週末に体を動かすために何をしていますか。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "<ruby>憧<rt>あこが</rt></ruby>れているスポーツ<ruby>選手<rt>せんしゅ</rt></ruby>はだれですか。",
+        "audio": "/audio/Q212.mp3",
+        "text_original": "憧れているスポーツ選手はだれですか。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "何か<ruby>得意<rt>とくい</rt></ruby>なスポーツや、長く<ruby>続<rt>つづ</rt></ruby>けている<ruby>運動<rt>うんどう</rt></ruby>はありますか。",
+        "audio": "/audio/Q213.mp3",
+        "text_original": "何か得意なスポーツや、長く続けている運動はありますか。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "スポーツを自分でプレイするのとテレビで<ruby>観<rt>み</rt></ruby>るのと、どちらが好きですか。",
+        "audio": "/audio/Q214.mp3",
+        "text_original": "スポーツを自分でプレイするのとテレビで観るのと、どちらが好きですか。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "オーストラリアで人気があるスポーツについてどう思いますか。",
+        "audio": "/audio/Q215.mp3",
+        "text_original": "オーストラリアで人気があるスポーツについてどう思いますか。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "子どものころ、どんなスポーツを習っていましたか。",
+        "audio": "/audio/Q216.mp3",
+        "text_original": "子どものころ、どんなスポーツを習っていましたか。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "今後、新しくやってみたいスポーツやアクティビティはありますか。",
+        "audio": "/audio/Q217.mp3",
+        "text_original": "今後、新しくやってみたいスポーツやアクティビティはありますか。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "旅行に行くのが好きな<ruby>理由<rt>りゆう</rt></ruby>は何ですか。",
+        "audio": "/audio/Q218.mp3",
+        "text_original": "旅行に行くのが好きな理由は何ですか。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "<ruby>最近<rt>さいきん</rt></ruby>行った旅行で、一番<ruby>心<rt>こころ</rt></ruby>に<ruby>残<rt>のこ</rt></ruby>っている場所はどこですか。",
+        "audio": "/audio/Q219.mp3",
+        "text_original": "最近行った旅行で、一番心に残っている場所はどこですか。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "いつもだれと<ruby>一緒<rt>いっしょ</rt></ruby>に旅行に行くことが多いですか。",
+        "audio": "/audio/Q220.mp3",
+        "text_original": "いつもだれと一緒に旅行に行くことが多いですか。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "旅先では、どんな<ruby>観光<rt>かんこう</rt></ruby>や活動をしましたか。",
+        "audio": "/audio/Q221.mp3",
+        "text_original": "旅先では、どんな観光や活動をしましたか。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "旅行中に食べた<ruby>美味<rt>おい</rt></ruby>しい名物<ruby>料理<rt>りょうり</rt></ruby>について教えてください。",
+        "audio": "/audio/Q222.mp3",
+        "text_original": "旅行中に食べた美味しい名物料理について教えてください。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "今まで<ruby>訪<rt>おとず</rt></ruby>れた中で、もう<ruby>一度<rt>いちど</rt></ruby>行きたい場所はどこですか。",
+        "audio": "/audio/Q223.mp3",
+        "text_original": "今まで訪れた中で、もう一度行きたい場所はどこですか。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "日本に行ったとき、<ruby>印象<rt>いんしょう</rt></ruby>に<ruby>残<rt>のこ</rt></ruby>った出来事はありますか。",
+        "audio": "/audio/Q224.mp3",
+        "text_original": "日本に行ったとき、印象に残った出来事はありますか。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "もし日本へ行く<ruby>機会<rt>きかい</rt></ruby>があったら、どこを<ruby>訪<rt>たず</rt></ruby>ねてみたいですか。",
+        "audio": "/audio/Q225.mp3",
+        "text_original": "もし日本へ行く機会があったら、どこを訪ねてみたいですか。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "<ruby>長距離<rt>ちょうきょり</rt></ruby>の旅行をするとき、どんな<ruby>移動<rt>いどう</rt></ruby><ruby>手段<rt>しゅだん</rt></ruby>、乗り物を好みますか。",
+        "audio": "/audio/Q226.mp3",
+        "text_original": "長距離の旅行をするとき、どんな移動手段、乗り物を好みますか。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "次の<ruby>長期<rt>ちょうき</rt></ruby>休みには、どこへ旅行する<ruby>計画<rt>けいかく</rt></ruby>を立てていますか。",
+        "audio": "/audio/Q227.mp3",
+        "text_original": "次の長期休みには、どこへ旅行する計画を立てていますか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "休みの日は<ruby>普段<rt>ふだん</rt></ruby>、どのように<ruby>過<rt>す</rt></ruby>ごすことが多いですか。",
+        "audio": "/audio/Q228.mp3",
+        "text_original": "休みの日は普段、どのように過ごすことが多いですか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "友だちと出かけるときは、よくどこで会いますか。<ruby>待ち合<rt>まちあわ</rt></ruby>せますか。",
+        "audio": "/audio/Q229.mp3",
+        "text_original": "友だちと出かけるときは、よくどこで会いますか。待ち合せますか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "買い物をするとき、どのようなお店によく行きますか。",
+        "audio": "/audio/Q230.mp3",
+        "text_original": "買い物をするとき、どのようなお店によく行きますか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "気分<ruby>転換<rt>てんかん</rt></ruby>のために、近くの<ruby>公園<rt>こうえん</rt></ruby>や<ruby>自然<rt>しぜん</rt></ruby>がある場所へ行きますか。",
+        "audio": "/audio/Q231.mp3",
+        "text_original": "気分転換のために、近くの公園や自然がある場所へ行きますか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "家にいるときは、どのようにリラックスしていますか。",
+        "audio": "/audio/Q232.mp3",
+        "text_original": "家にいるときは、どのようにリラックスしていますか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "今年の<ruby>休暇<rt>きゅうか</rt></ruby>には、どんな<ruby>特別<rt>とくべつ</rt></ruby>なお出かけをしたいですか。",
+        "audio": "/audio/Q233.mp3",
+        "text_original": "今年の休暇には、どんな特別なお出かけをしたいですか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "<ruby>誕生<rt>たんじょう</rt></ruby>日などの<ruby>特別<rt>とくべつ</rt></ruby>な日には、いつもどんな<ruby>お祝<rt>おいわ</rt></ruby>いをしますか。",
+        "audio": "/audio/Q234.mp3",
+        "text_original": "誕生日などの特別な日には、いつもどんなお祝いをしますか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "友だちの家で<ruby>開<rt>ひら</rt></ruby>かれるパーティーやイベントによく<ruby>参加<rt>さんか</rt></ruby>しますか。",
+        "audio": "/audio/Q235.mp3",
+        "text_original": "友だちの家で開かれるパーティーやイベントによく参加しますか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "一日の終わりに、<ruby>寝<rt>ね</rt></ruby>る前によく行う<ruby>習慣<rt>しゅうかん</rt></ruby>はありますか。",
+        "audio": "/audio/Q236.mp3",
+        "text_original": "一日の終わりに、寝る前によく行う習慣はありますか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "朝<ruby>起<rt>お</rt></ruby>きてから家を出るまでに、どのようなルーティンがありますか。",
+        "audio": "/audio/Q237.mp3",
+        "text_original": "朝起きてから家を出るまでに、どのようなルーティンがありますか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "高校を<ruby>卒業<rt>そつぎょう</rt></ruby>した後の<ruby>進路<rt>しんろ</rt></ruby>について、どのように考えていますか。",
+        "audio": "/audio/Q238.mp3",
+        "text_original": "高校を卒業した後の進路について、どのように考えていますか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "大学に<ruby>進学<rt>しんがく</rt></ruby>する<ruby>場合<rt>ばあい</rt></ruby>、どんな<ruby>分野<rt>ぶんや</rt></ruby>を<ruby>専門<rt>せんもん</rt></ruby><ruby>的<rt>てき</rt></ruby>に学びたいですか。",
+        "audio": "/audio/Q239.mp3",
+        "text_original": "大学に進学する場合、どんな分野を専門的に学びたいですか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "<ruby>将来<rt>しょうらい</rt></ruby>、どのような<ruby>職種<rt>しょくしゅ</rt></ruby>やキャリアを<ruby>目指<rt>めざ</rt></ruby>していますか。",
+        "audio": "/audio/Q240.mp3",
+        "text_original": "将来、どのような職種やキャリアを目指していますか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "<ruby>将来<rt>しょうらい</rt></ruby>、海外で働いたり<ruby>暮<rt>く</rt></ruby>らしたりすることに<ruby>興味<rt>きょうみ</rt></ruby>がありますか。",
+        "audio": "/audio/Q241.mp3",
+        "text_original": "将来、海外で働いたり暮らしたりすることに興味がありますか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "<ruby>機会<rt>きかい</rt></ruby>があれば、日本で生活してみたいと思いますか。",
+        "audio": "/audio/Q242.mp3",
+        "text_original": "機会があれば、日本で生活してみたいと思いますか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "車の<ruby>免許<rt>めんきょ</rt></ruby>を<ruby>取<rt>と</rt></ruby>って、自分で<ruby>運転<rt>うんてん</rt></ruby>できるようになりたいですか。",
+        "audio": "/audio/Q243.mp3",
+        "text_original": "車の免許を取って、自分で運転できるようになりたいですか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "<ruby>将来<rt>しょうらい</rt></ruby>、どんな<ruby>種類<rt>しゅるい</rt></ruby>の車に乗りたいと思っていますか。",
+        "audio": "/audio/Q244.mp3",
+        "text_original": "将来、どんな種類の車に乗りたいと思っていますか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "自立したら、どんな<ruby>街<rt>まち</rt></ruby>や<ruby>部屋<rt>へや</rt></ruby>に住んでみたいですか。",
+        "audio": "/audio/Q245.mp3",
+        "text_original": "自立したら、どんな街や部屋に住んでみたいですか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "10年後の自分は、どのような生活を<ruby>送<rt>おく</rt></ruby>っていると<ruby>想像<rt>そうぞう</rt></ruby>しますか。",
+        "audio": "/audio/Q246.mp3",
+        "text_original": "10年後の自分は、どのような生活を送っていると想像しますか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "あなたにとって、一番<ruby>叶<rt>かな</rt></ruby>えたい「<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>夢<rt>ゆめ</rt></ruby>」は何ですか。",
+        "audio": "/audio/Q247.mp3",
+        "text_original": "あなたにとって、一番叶えたい「将来の夢」は何ですか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "<ruby>現在<rt>げんざい</rt></ruby>、どのようなスマートフォンやデバイスを使っていますか。",
+        "audio": "/audio/Q248.mp3",
+        "text_original": "現在、どのようなスマートフォンやデバイスを使っていますか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "一日に<ruby>平均<rt>へいきん</rt></ruby>して何時間くらいスマホ<ruby>画面<rt>がめん</rt></ruby>を見ていますか。",
+        "audio": "/audio/Q249.mp3",
+        "text_original": "一日に平均して何時間くらいスマホ画面を見ていますか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "スマホを使って、<ruby>主<rt>おも</rt></ruby>にどのような<ruby>作業<rt>さぎょう</rt></ruby>や<ruby>連絡<rt>れんらく</rt></ruby>を行っていますか。",
+        "audio": "/audio/Q250.mp3",
+        "text_original": "スマホを使って、主にどのような作業や連絡を行っていますか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "<ruby>普段<rt>ふだん</rt></ruby>の学習や<ruby>作業<rt>さぎょう</rt></ruby>で、パソコンをどのように<ruby>活用<rt>かつよう</rt></ruby>していますか。",
+        "audio": "/audio/Q251.mp3",
+        "text_original": "普段の学習や作業で、パソコンをどのように活用していますか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "オンラインショッピングや電子<ruby>決済<rt>けっさい</rt></ruby>（キャッシュレス）を<ruby>利用<rt>りよう</rt></ruby>する<ruby>頻度<rt>ひんど</rt></ruby>と<ruby>利便<rt>りべん</rt></ruby><ruby>性<rt>せい</rt></ruby>についてどう思いますか。",
+        "audio": "/audio/Q252.mp3",
+        "text_original": "オンラインショッピングや電子決済（キャッシュレス）を利用する頻度と利便性についてどう思いますか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "SNS（ソーシャルメディア）を使う<ruby>利点<rt>りてん</rt></ruby>と<ruby>問題<rt>もんだい</rt></ruby>点は何だと思いますか。",
+        "audio": "/audio/Q253.mp3",
+        "text_original": "SNS（ソーシャルメディア）を使う利点と問題点は何だと思いますか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "<ruby>最新<rt>さいしん</rt></ruby>のテクノロジーによって生活はどのように<ruby>変<rt>か</rt></ruby>わったと思いますか。",
+        "audio": "/audio/Q254.mp3",
+        "text_original": "最新のテクノロジーによって生活はどのように変わったと思いますか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "AI（<ruby>人工<rt>じんこう</rt></ruby><ruby>知能<rt>ちのう</rt></ruby>）の<ruby>発展<rt>はってん</rt></ruby>について、どのように<ruby>感<rt>かん</rt></ruby>じていますか。",
+        "audio": "/audio/Q255.mp3",
+        "text_original": "AI（人工知能）の発展について、どのように感じていますか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "もしスマホを一日中使えないとしたら、どうなると思いますか。",
+        "audio": "/audio/Q256.mp3",
+        "text_original": "もしスマホを一日中使えないとしたら、どうなると思いますか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "近いうちに買いたいと思っている<ruby>最新<rt>さいしん</rt></ruby>のガジェットや電子<ruby>機器<rt>きき</rt></ruby>はありますか。",
+        "audio": "/audio/Q257.mp3",
+        "text_original": "近いうちに買いたいと思っている最新のガジェットや電子機器はありますか。"
+      }
+    ],
+    "Accelerated": [
+      {
+        "category": "家族 (Family)",
+        "text": "ご家族<ruby>構成<rt>こうせい</rt></ruby>について教えていただけますか。",
+        "audio": "/audio/Q315.mp3",
+        "text_original": "ご家族構成について教えていただけますか。"
+      },
+      {
+        "category": "家族 (Family)",
+        "text": "家族の中で、一番<ruby>意見<rt>いけん</rt></ruby>が<ruby>合<rt>あ</rt></ruby>う人や<ruby>気軽<rt>きがる</rt></ruby>に話せる人はだれですか。",
+        "audio": "/audio/Q316.mp3",
+        "text_original": "家族の中で、一番意見が合う人や気軽に話せる人はだれですか。"
+      },
+      {
+        "category": "家族 (Family)",
+        "text": "お<ruby>父様<rt>とうさま</rt></ruby>やお<ruby>母様<rt>かあさま</rt></ruby>は、<ruby>普段<rt>ふだん</rt></ruby>どのようなお仕事をなさっていますか。",
+        "audio": "/audio/Q317.mp3",
+        "text_original": "お父様やお母様は、普段どのようなお仕事をなさっていますか。"
+      },
+      {
+        "category": "家族 (Family)",
+        "text": "ご兄弟とは<ruby>歳<rt>とし</rt></ruby>の<ruby>差<rt>さ</rt></ruby>がありますか。どのような<ruby>関係<rt>かんけい</rt></ruby>ですか。",
+        "audio": "/audio/Q318.mp3",
+        "text_original": "ご兄弟とは歳の差がありますか。どのような関係ですか。"
+      },
+      {
+        "category": "家族 (Family)",
+        "text": "ご家族はそれぞれどのようなお<ruby>人柄<rt>ひとがら</rt></ruby>やご<ruby>性格<rt>せいかく</rt></ruby>ですか。",
+        "audio": "/audio/Q319.mp3",
+        "text_original": "ご家族はそれぞれどのようなお人柄やご性格ですか。"
+      },
+      {
+        "category": "家族 (Family)",
+        "text": "今までにペットを<ruby>飼<rt>か</rt></ruby>った<ruby>経験<rt>けいけん</rt></ruby>や、<ruby>忘<rt>わす</rt></ruby>れられない思い出はありますか。",
+        "audio": "/audio/Q320.mp3",
+        "text_original": "今までにペットを飼った経験や、忘れられない思い出はありますか。"
+      },
+      {
+        "category": "家族 (Family)",
+        "text": "<ruby>週末<rt>しゅうまつ</rt></ruby>や休日には、ご家族と<ruby>一緒<rt>いっしょ</rt></ruby>にどのように<ruby>過<rt>す</rt></ruby>ごすことが多いですか。",
+        "audio": "/audio/Q321.mp3",
+        "text_original": "週末や休日には、ご家族と一緒にどのように過ごすことが多いですか。"
+      },
+      {
+        "category": "家族 (Family)",
+        "text": "あなたのご<ruby>家庭<rt>かてい</rt></ruby>ならではの<ruby>独特<rt>どくとく</rt></ruby>な<ruby>習慣<rt>しゅうかん</rt></ruby>や<ruby>決<rt>き</rt></ruby>まり事はありますか。",
+        "audio": "/audio/Q322.mp3",
+        "text_original": "あなたのご家庭ならではの独特な習慣や決まり事はありますか。"
+      },
+      {
+        "category": "家族 (Family)",
+        "text": "今までに家族で<ruby>訪<rt>おとず</rt></ruby>れた場所の中で、<ruby>特<rt>とく</rt></ruby>に<ruby>印象深<rt>いんしょうぶか</rt></ruby>い旅行先はどこですか。",
+        "audio": "/audio/Q323.mp3",
+        "text_original": "今までに家族で訪れた場所の中で、特に印象深い旅行先はどこですか。"
+      },
+      {
+        "category": "家族 (Family)",
+        "text": "家事の<ruby>分担<rt>ぶんたん</rt></ruby>として、<ruby>普段<rt>ふだん</rt></ruby>ご<ruby>自身<rt>じしん</rt></ruby>でどんな<ruby>役割<rt>やくわり</rt></ruby>を<ruby>担当<rt>たんとう</rt></ruby>していますか。",
+        "audio": "/audio/Q324.mp3",
+        "text_original": "家事の分担として、普段ご自身でどんな役割を担当していますか。"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "<ruby>現在<rt>げんざい</rt></ruby><ruby>通<rt>かよ</rt></ruby>っていらっしゃる学校の<ruby>特色<rt>とくしょく</rt></ruby>や<ruby>雰囲気<rt>ふんいき</rt></ruby>を教えてください。",
+        "audio": "/audio/Q325.mp3",
+        "text_original": "現在通っていらっしゃる学校の特色や雰囲気を教えてください。"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "学年や<ruby>専攻<rt>せんこう</rt></ruby><ruby>課程<rt>かてい</rt></ruby>において、どのようなテーマを<ruby>中心<rt>ちゅうしん</rt></ruby>に学んでいますか。",
+        "audio": "/audio/Q326.mp3",
+        "text_original": "学年や専攻課程において、どのようなテーマを中心に学んでいますか。"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "朝の<ruby>登校<rt>とうこう</rt></ruby>時間や<ruby>遅刻<rt>ちこく</rt></ruby><ruby>に関<rt>にかん</rt></ruby>する学校の<ruby>規則<rt>きそく</rt></ruby>について教えてください。",
+        "audio": "/audio/Q327.mp3",
+        "text_original": "朝の登校時間や遅刻に関する学校の規則について教えてください。"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "<ruby>今学期<rt>こんがっき</rt></ruby><ruby>履修<rt>りしゅう</rt></ruby>している<ruby>科目<rt>かもく</rt></ruby>の中で、<ruby>特<rt>とく</rt></ruby>に<ruby>力<rt>ちから</rt></ruby>を入れて勉強しているものは何ですか。",
+        "audio": "/audio/Q328.mp3",
+        "text_original": "今学期履修している科目の中で、特に力を入れて勉強しているものは何ですか。"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "一番<ruby>興味深<rt>きょうみぶか</rt></ruby>く<ruby>感<rt>かん</rt></ruby>じられる<ruby>科目<rt>かもく</rt></ruby>と、その<ruby>理由<rt>りゆう</rt></ruby>について<ruby>詳<rt>くわ</rt></ruby>しく教えてください。",
+        "audio": "/audio/Q329.mp3",
+        "text_original": "一番興味深く感じられる科目と、その理由について詳しく教えてください。"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "<ruby>苦手<rt>にがて</rt></ruby><ruby>意識<rt>いしき</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じている<ruby>科目<rt>かもく</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して、どのようなアプローチで<ruby>取り組<rt>とりく</rt></ruby>んでいますか。",
+        "audio": "/audio/Q330.mp3",
+        "text_original": "苦手意識を感じている科目に対して、どのようなアプローチで取り組んでいますか。"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "学校に<ruby>通<rt>かよ</rt></ruby>うための<ruby>交通<rt>こうつう</rt></ruby><ruby>手段<rt>しゅだん</rt></ruby>や、<ruby>通学<rt>つうがく</rt></ruby>のルートについて<ruby>説明<rt>せつめい</rt></ruby>してください。",
+        "audio": "/audio/Q331.mp3",
+        "text_original": "学校に通うための交通手段や、通学のルートについて説明してください。"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "毎日の<ruby>通学<rt>つうがく</rt></ruby>時間や、その時間を<ruby>有効<rt>ゆうこう</rt></ruby><ruby>活用<rt>かつよう</rt></ruby>するために<ruby>工夫<rt>くふう</rt></ruby>していることはありますか。",
+        "audio": "/audio/Q332.mp3",
+        "text_original": "毎日の通学時間や、その時間を有効活用するために工夫していることはありますか。"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "昼休みなどの<ruby>休憩<rt>きゅうけい</rt></ruby>時間には、<ruby>普段<rt>ふだん</rt></ruby>どのように<ruby>過<rt>す</rt></ruby>ごすのが<ruby>一般<rt>いっぱん</rt></ruby><ruby>的<rt>てき</rt></ruby>ですか。",
+        "audio": "/audio/Q333.mp3",
+        "text_original": "昼休みなどの休憩時間には、普段どのように過ごすのが一般的ですか。"
+      },
+      {
+        "category": "学校 (School)",
+        "text": "<ruby>在籍<rt>ざいせき</rt></ruby>している学校の強み（メリット）と<ruby>課題<rt>かだい</rt></ruby>（デメリット）は何だと考えますか。",
+        "audio": "/audio/Q334.mp3",
+        "text_original": "在籍している学校の強み（メリット）と課題（デメリット）は何だと考えますか。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "あなたが<ruby>現在<rt>げんざい</rt></ruby>、<ruby>最<rt>もっと</rt></ruby>も<ruby>夢中<rt>むちゅう</rt></ruby>になっている<ruby>趣味<rt>しゅみ</rt></ruby>や<ruby>関心<rt>かんしん</rt></ruby>事について教えてください。",
+        "audio": "/audio/Q335.mp3",
+        "text_original": "あなたが現在、最も夢中になっている趣味や関心事について教えてください。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "<ruby>日常<rt>にちじょう</rt></ruby>のストレスを<ruby>発散<rt>はっさん</rt></ruby>したり気分<ruby>転換<rt>てんかん</rt></ruby>をしたりする<ruby>際<rt>さい</rt></ruby>、どのような活動をしますか。",
+        "audio": "/audio/Q336.mp3",
+        "text_original": "日常のストレスを発散したり気分転換をしたりする際、どのような活動をしますか。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "<ruby>日常<rt>にちじょう</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>親<rt>した</rt></ruby>しんでいる<ruby>音楽<rt>おんがく</rt></ruby>のジャンルや、<ruby>感銘<rt>かんめい</rt></ruby>を<ruby>受<rt>う</rt></ruby>けたアーティストはいますか。",
+        "audio": "/audio/Q337.mp3",
+        "text_original": "日常的に親しんでいる音楽のジャンルや、感銘を受けたアーティストはいますか。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "<ruby>最近<rt>さいきん</rt></ruby>読んだ本や<ruby>記事<rt>きじ</rt></ruby>の中で、<ruby>特<rt>とく</rt></ruby>に考えさせられた<ruby>作品<rt>さくひん</rt></ruby>は何ですか。",
+        "audio": "/audio/Q338.mp3",
+        "text_original": "最近読んだ本や記事の中で、特に考えさせられた作品は何ですか。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "どのような<ruby>種類<rt>しゅるい</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>に<ruby>惹<rt>ひ</rt></ruby>かれますか。<ruby>印象<rt>いんしょう</rt></ruby>に<ruby>残<rt>のこ</rt></ruby>っている<ruby>作品<rt>さくひん</rt></ruby>を教えてください。",
+        "audio": "/audio/Q339.mp3",
+        "text_original": "どのような種類の映画に惹かれますか。印象に残っている作品を教えてください。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "<ruby>忙<rt>いそが</rt></ruby>しい<ruby>日常<rt>にちじょう</rt></ruby>の中で、<ruby>趣味<rt>しゅみ</rt></ruby>のための時間をどのように<ruby>確保<rt>かくほ</rt></ruby>していますか。",
+        "audio": "/audio/Q340.mp3",
+        "text_original": "忙しい日常の中で、趣味のための時間をどのように確保していますか。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "その<ruby>趣味<rt>しゅみ</rt></ruby>に<ruby>興味<rt>きょうみ</rt></ruby>を持ったきっかけや、始めた<ruby>経緯<rt>けいい</rt></ruby>について教えてください。",
+        "audio": "/audio/Q341.mp3",
+        "text_original": "その趣味に興味を持ったきっかけや、始めた経緯について教えてください。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "<ruby>共通<rt>きょうつう</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby>を持つ友人と、どのような時間を<ruby>共有<rt>きょうゆう</rt></ruby>して楽しんでいますか。",
+        "audio": "/audio/Q342.mp3",
+        "text_original": "共通の趣味を持つ友人と、どのような時間を共有して楽しんでいますか。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "<ruby>普段<rt>ふだん</rt></ruby>インターネットや<ruby>動画<rt>どうが</rt></ruby><ruby>配信<rt>はいしん</rt></ruby>サービスで、どのようなコンテンツをチェックしていますか。",
+        "audio": "/audio/Q343.mp3",
+        "text_original": "普段インターネットや動画配信サービスで、どのようなコンテンツをチェックしていますか。"
+      },
+      {
+        "category": "趣味 (Hobbies)",
+        "text": "<ruby>将来<rt>しょうらい</rt></ruby><ruby>的<rt>てき</rt></ruby>に新しく<ruby>挑戦<rt>ちょうせん</rt></ruby>してみたい<ruby>趣味<rt>しゅみ</rt></ruby>や、<ruby>深<rt>ふか</rt></ruby>めてみたい<ruby>分野<rt>ぶんや</rt></ruby>はありますか。",
+        "audio": "/audio/Q344.mp3",
+        "text_original": "将来的に新しく挑戦してみたい趣味や、深めてみたい分野はありますか。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "<ruby>現在<rt>げんざい</rt></ruby>、どのような<ruby>業界<rt>ぎょうかい</rt></ruby>や<ruby>職種<rt>しょくしゅ</rt></ruby>でアルバイトをなさっていますか。",
+        "audio": "/audio/Q345.mp3",
+        "text_original": "現在、どのような業界や職種でアルバイトをなさっていますか。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "<ruby>勤務<rt>きんむ</rt></ruby>先の<ruby>店舗<rt>てんぽ</rt></ruby>や<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>特徴<rt>とくちょう</rt></ruby>や<ruby>業務<rt>ぎょうむ</rt></ruby><ruby>内容<rt>ないよう</rt></ruby>を教えてください。",
+        "audio": "/audio/Q346.mp3",
+        "text_original": "勤務先の店舗や企業の具体的な特徴や業務内容を教えてください。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "<ruby>職場<rt>しょくば</rt></ruby>では、<ruby>主<rt>おも</rt></ruby>にどのような<ruby>責任<rt>せきにん</rt></ruby>や<ruby>役割<rt>やくわり</rt></ruby>を<ruby>任<rt>まか</rt></ruby>されていますか。",
+        "audio": "/audio/Q347.mp3",
+        "text_original": "職場では、主にどのような責任や役割を任されていますか。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "<ruby>学業<rt>がくぎょう</rt></ruby>と<ruby>両立<rt>りょうりつ</rt></ruby>させながら、週にどの<ruby>程度<rt>ていど</rt></ruby>のペースで<ruby>勤務<rt>きんむ</rt></ruby>していますか。",
+        "audio": "/audio/Q348.mp3",
+        "text_original": "学業と両立させながら、週にどの程度のペースで勤務していますか。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "<ruby>勤務<rt>きんむ</rt></ruby>のスケジュールやシフトは、どのように<ruby>決定<rt>けってい</rt></ruby>されていますか。",
+        "audio": "/audio/Q349.mp3",
+        "text_original": "勤務のスケジュールやシフトは、どのように決定されていますか。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "アルバイトを行う中で、<ruby>最<rt>もっと</rt></ruby>もやりがいを<ruby>感<rt>かん</rt></ruby>じる<ruby>瞬間<rt>しゅんかん</rt></ruby>や<ruby>苦労<rt>くろう</rt></ruby>する<ruby>場面<rt>ばめん</rt></ruby>は何ですか。",
+        "audio": "/audio/Q350.mp3",
+        "text_original": "アルバイトを行う中で、最もやりがいを感じる瞬間や苦労する場面は何ですか。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "アルバイトで<ruby>得<rt>え</rt></ruby>た<ruby>収入<rt>しゅうにゅう</rt></ruby>は、<ruby>主<rt>おも</rt></ruby>にどのような<ruby>目的<rt>もくてき</rt></ruby>で<ruby>管理<rt>かんり</rt></ruby>、<ruby>使用<rt>しよう</rt></ruby>していますか。",
+        "audio": "/audio/Q351.mp3",
+        "text_original": "アルバイトで得た収入は、主にどのような目的で管理、使用していますか。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "<ruby>職場<rt>しょくば</rt></ruby>の人間<ruby>関係<rt>かんけい</rt></ruby>やチームワークの<ruby>雰囲気<rt>ふんいき</rt></ruby>はいかがですか。",
+        "audio": "/audio/Q352.mp3",
+        "text_original": "職場の人間関係やチームワークの雰囲気はいかがですか。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "<ruby>数<rt>かず</rt></ruby>あるアルバイトの中から、<ruby>現在<rt>げんざい</rt></ruby>の仕事を<ruby>選<rt>えら</rt></ruby>んだ<ruby>理由<rt>りゆう</rt></ruby>は何ですか。",
+        "audio": "/audio/Q353.mp3",
+        "text_original": "数あるアルバイトの中から、現在の仕事を選んだ理由は何ですか。"
+      },
+      {
+        "category": "アルバイト (Part-time Job)",
+        "text": "アルバイトでの<ruby>実務<rt>じつむ</rt></ruby><ruby>経験<rt>けいけん</rt></ruby>は、<ruby>将来<rt>しょうらい</rt></ruby>の社会人生活にどう<ruby>影響<rt>えいきょう</rt></ruby>すると思いますか。",
+        "audio": "/audio/Q354.mp3",
+        "text_original": "アルバイトでの実務経験は、将来の社会人生活にどう影響すると思いますか。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "日本語の学習を<ruby>本格<rt>ほんかく</rt></ruby><ruby>的<rt>てき</rt></ruby>に始めようと考えたきっかけや<ruby>目的<rt>もくてき</rt></ruby>は何ですか。",
+        "audio": "/audio/Q355.mp3",
+        "text_original": "日本語の学習を本格的に始めようと考えたきっかけや目的は何ですか。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "日本語を学んでいる中で、どのような<ruby>瞬間<rt>しゅんかん</rt></ruby>に<ruby>達成<rt>たっせい</rt></ruby><ruby>感<rt>かん</rt></ruby>や<ruby>面白<rt>おもしろ</rt></ruby>さを<ruby>感<rt>かん</rt></ruby>じますか。",
+        "audio": "/audio/Q356.mp3",
+        "text_original": "日本語を学んでいる中で、どのような瞬間に達成感や面白さを感じますか。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "<ruby>語彙<rt>ごい</rt></ruby>、<ruby>文法<rt>ぶんぽう</rt></ruby>、会話などの<ruby>要素<rt>ようそ</rt></ruby>のうち、<ruby>特<rt>とく</rt></ruby>に<ruby>壁<rt>かべ</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じる<ruby>部分<rt>ぶぶん</rt></ruby>はどこですか。",
+        "audio": "/audio/Q357.mp3",
+        "text_original": "語彙、文法、会話などの要素のうち、特に壁を感じる部分はどこですか。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "<ruby>効率<rt>こうりつ</rt></ruby><ruby>的<rt>てき</rt></ruby>に日本語<ruby>能力<rt>のうりょく</rt></ruby>を<ruby>向上<rt>こうじょう</rt></ruby>させるために、<ruby>日頃<rt>ひごろ</rt></ruby>どのような学習<ruby>法<rt>ほう</rt></ruby>を<ruby>工夫<rt>くふう</rt></ruby>していますか。",
+        "audio": "/audio/Q358.mp3",
+        "text_original": "効率的に日本語能力を向上させるために、日頃どのような学習法を工夫していますか。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "日本のポップカルチャー（アニメ・マンガ・<ruby>映画<rt>えいが</rt></ruby><ruby>等<rt>とう</rt></ruby>）の中で、お気に入りの<ruby>作品<rt>さくひん</rt></ruby>とその<ruby>魅力<rt>みりょく</rt></ruby>は何ですか。",
+        "audio": "/audio/Q359.mp3",
+        "text_original": "日本のポップカルチャー（アニメ・マンガ・映画等）の中で、お気に入りの作品とその魅力は何ですか。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "これまでに学んだ漢字や<ruby>表現<rt>ひょうげん</rt></ruby>の中で、<ruby>特<rt>とく</rt></ruby>に<ruby>美<rt>うつく</rt></ruby>しいまたは<ruby>面白<rt>おもしろ</rt></ruby>いと<ruby>感<rt>かん</rt></ruby>じたものは何ですか。",
+        "audio": "/audio/Q360.mp3",
+        "text_original": "これまでに学んだ漢字や表現の中で、特に美しいまたは面白いと感じたものは何ですか。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "<ruby>担当<rt>たんとう</rt></ruby>の先生は、<ruby>授業<rt>じゅぎょう</rt></ruby><ruby>内容<rt>ないよう</rt></ruby>を<ruby>理解<rt>りかい</rt></ruby>しやすくするためにどのような<ruby>工夫<rt>くふう</rt></ruby>をされていますか。",
+        "audio": "/audio/Q361.mp3",
+        "text_original": "担当の先生は、授業内容を理解しやすくするためにどのような工夫をされていますか。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "自分の<ruby>意見<rt>いけん</rt></ruby>や<ruby>感情<rt>かんじょう</rt></ruby>を日本語でスムーズに<ruby>表現<rt>ひょうげん</rt></ruby>するために、<ruby>意識<rt>いしき</rt></ruby>していることはありますか。",
+        "audio": "/audio/Q362.mp3",
+        "text_original": "自分の意見や感情を日本語でスムーズに表現するために、意識していることはありますか。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "母語<ruby>話者<rt>わしゃ</rt></ruby>（ネイティブ）の方と日本語でコミュニケーションを<ruby>取<rt>と</rt></ruby>った<ruby>経験<rt>けいけん</rt></ruby>について教えてください。",
+        "audio": "/audio/Q363.mp3",
+        "text_original": "母語話者（ネイティブ）の方と日本語でコミュニケーションを取った経験について教えてください。"
+      },
+      {
+        "category": "日本語の勉強 (Japanese Studies)",
+        "text": "<ruby>習得<rt>しゅうとく</rt></ruby>した日本語<ruby>能力<rt>のうりょく</rt></ruby>を活かして、<ruby>将来<rt>しょうらい</rt></ruby>どのように社会や<ruby>自身<rt>じしん</rt></ruby>の<ruby>目標<rt>もくひょう</rt></ruby>に<ruby>貢献<rt>こうけん</rt></ruby>したいですか。",
+        "audio": "/audio/Q364.mp3",
+        "text_original": "習得した日本語能力を活かして、将来どのように社会や自身の目標に貢献したいですか。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "スポーツを自らプレイすること、または<ruby>観戦<rt>かんせん</rt></ruby>することに<ruby>対<rt>たい</rt></ruby>してどのように<ruby>感<rt>かん</rt></ruby>じていますか。",
+        "audio": "/audio/Q365.mp3",
+        "text_original": "スポーツを自らプレイすること、または観戦することに対してどのように感じていますか。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "<ruby>健康<rt>けんこう</rt></ruby><ruby>維持<rt>いじ</rt></ruby>やリフレッシュのために、<ruby>日頃<rt>ひごろ</rt></ruby>どのような<ruby>運動<rt>うんどう</rt></ruby>を<ruby>取り入<rt>とりい</rt></ruby>れていますか。",
+        "audio": "/audio/Q366.mp3",
+        "text_original": "健康維持やリフレッシュのために、日頃どのような運動を取り入れていますか。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "クラブ活動やスポーツチームに<ruby>所属<rt>しょぞく</rt></ruby>して活動した<ruby>経験<rt>けいけん</rt></ruby>はありますか。",
+        "audio": "/audio/Q367.mp3",
+        "text_original": "クラブ活動やスポーツチームに所属して活動した経験はありますか。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "休日に体を動かす<ruby>際<rt>さい</rt></ruby>、<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>にどのようなアクティビティを好みますか。",
+        "audio": "/audio/Q368.mp3",
+        "text_original": "休日に体を動かす際、具体的にどのようなアクティビティを好みますか。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "<ruby>尊敬<rt>そんけい</rt></ruby>しているスポーツ<ruby>選手<rt>せんしゅ</rt></ruby>や、<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>受<rt>う</rt></ruby>けたアスリートについて教えてください。",
+        "audio": "/audio/Q369.mp3",
+        "text_original": "尊敬しているスポーツ選手や、影響を受けたアスリートについて教えてください。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "長年<ruby>続<rt>つづ</rt></ruby>けているスポーツや、<ruby>自信<rt>じしん</rt></ruby>を持って<ruby>得意<rt>とくい</rt></ruby>だと言える<ruby>種目<rt>しゅもく</rt></ruby>はありますか。",
+        "audio": "/audio/Q370.mp3",
+        "text_original": "長年続けているスポーツや、自信を持って得意だと言える種目はありますか。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "<ruby>自身<rt>じしん</rt></ruby>で<ruby>実際<rt>じっさい</rt></ruby>にプレイする楽しさと、<ruby>観客<rt>かんきゃく</rt></ruby>として<ruby>観戦<rt>かんせん</rt></ruby>する楽しさの<ruby>違<rt>ちが</rt></ruby>いは何だと思いますか。",
+        "audio": "/audio/Q371.mp3",
+        "text_original": "自身で実際にプレイする楽しさと、観客として観戦する楽しさの違いは何だと思いますか。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "自国で<ruby>盛<rt>さか</rt></ruby>んなスポーツカルチャーについて、どのような<ruby>意見<rt>いけん</rt></ruby>をお持ちですか。",
+        "audio": "/audio/Q372.mp3",
+        "text_original": "自国で盛んなスポーツカルチャーについて、どのような意見をお持ちですか。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "<ruby>幼少<rt>ようしょう</rt></ruby><ruby>期<rt>き</rt></ruby>に習っていたスポーツや、<ruby>運動<rt>うんどう</rt></ruby><ruby>に関<rt>にかん</rt></ruby>する<ruby>思い出深<rt>おもいでぶか</rt></ruby>い出来事はありますか。",
+        "audio": "/audio/Q373.mp3",
+        "text_original": "幼少期に習っていたスポーツや、運動に関する思い出深い出来事はありますか。"
+      },
+      {
+        "category": "スポーツ (Sports)",
+        "text": "今後、新たにスキルを<ruby>習得<rt>しゅうとく</rt></ruby>してみたいスポーツやアウトドア活動はありますか。",
+        "audio": "/audio/Q374.mp3",
+        "text_original": "今後、新たにスキルを習得してみたいスポーツやアウトドア活動はありますか。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "旅行が持つ<ruby>魅力<rt>みりょく</rt></ruby>や、見知らぬ<ruby>土地<rt>とち</rt></ruby>を<ruby>訪<rt>おとず</rt></ruby>れることの<ruby>意義<rt>いぎ</rt></ruby>についてどう考えますか。",
+        "audio": "/audio/Q375.mp3",
+        "text_original": "旅行が持つ魅力や、見知らぬ土地を訪れることの意義についてどう考えますか。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "これまでに<ruby>訪<rt>おとず</rt></ruby>れた旅先の中で、<ruby>最<rt>もっと</rt></ruby>も<ruby>深<rt>ふか</rt></ruby>く<ruby>記憶<rt>きおく</rt></ruby>に<ruby>刻<rt>きざ</rt></ruby>まれている場所はどこですか。",
+        "audio": "/audio/Q376.mp3",
+        "text_original": "これまでに訪れた旅先の中で、最も深く記憶に刻まれている場所はどこですか。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "<ruby>普段<rt>ふだん</rt></ruby>、旅行を<ruby>計画<rt>けいかく</rt></ruby>する<ruby>際<rt>さい</rt></ruby>はどなたと<ruby>一緒<rt>いっしょ</rt></ruby>に行動することが多いですか。",
+        "audio": "/audio/Q377.mp3",
+        "text_original": "普段、旅行を計画する際はどなたと一緒に行動することが多いですか。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "<ruby>目的<rt>もくてき</rt></ruby><ruby>地<rt>ち</rt></ruby>に<ruby>到着<rt>とうちゃく</rt></ruby>した後は、どのような<ruby>観光<rt>かんこう</rt></ruby>スポットや<ruby>体験<rt>たいけん</rt></ruby>を<ruby>優先<rt>ゆうせん</rt></ruby>しますか。",
+        "audio": "/audio/Q378.mp3",
+        "text_original": "目的地に到着した後は、どのような観光スポットや体験を優先しますか。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "旅先で出会った<ruby>地域<rt>ちいき</rt></ruby><ruby>固有<rt>こゆう</rt></ruby>の<ruby>伝統<rt>でんとう</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>や食<ruby>文化<rt>ぶんか</rt></ruby>について、<ruby>印象<rt>いんしょう</rt></ruby><ruby>的<rt>てき</rt></ruby>なエピソードはありますか。",
+        "audio": "/audio/Q379.mp3",
+        "text_original": "旅先で出会った地域固有の伝統料理や食文化について、印象的なエピソードはありますか。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "<ruby>一度<rt>いちど</rt></ruby><ruby>訪<rt>おとず</rt></ruby>れた場所の中で、「<ruby>将来<rt>しょうらい</rt></ruby><ruby>再訪<rt>さいほう</rt></ruby>したい」と<ruby>感<rt>かん</rt></ruby>じた場所とその<ruby>理由<rt>りゆう</rt></ruby>を教えてください。",
+        "audio": "/audio/Q380.mp3",
+        "text_original": "一度訪れた場所の中で、「将来再訪したい」と感じた場所とその理由を教えてください。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "<ruby>実際<rt>じっさい</rt></ruby>に日本を<ruby>訪<rt>おとず</rt></ruby>れた<ruby>際<rt>さい</rt></ruby>（あるいは日本の<ruby>情報<rt>じょうほう</rt></ruby>に<ruby>接<rt>せっ</rt></ruby>した<ruby>際<rt>さい</rt></ruby>）、<ruby>最<rt>もっと</rt></ruby>も<ruby>文化<rt>ぶんか</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>いを<ruby>感<rt>かん</rt></ruby>じた点は何ですか。",
+        "audio": "/audio/Q381.mp3",
+        "text_original": "実際に日本を訪れた際（あるいは日本の情報に接した際）、最も文化の違いを感じた点は何ですか。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "もし<ruby>自由<rt>じゆう</rt></ruby>に日本<ruby>国内<rt>こくない</rt></ruby>を旅行できるとしたら、どの<ruby>地域<rt>ちいき</rt></ruby>をどのように<ruby>巡<rt>めぐ</rt></ruby>りたいですか。",
+        "audio": "/audio/Q382.mp3",
+        "text_original": "もし自由に日本国内を旅行できるとしたら、どの地域をどのように巡りたいですか。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "<ruby>移動<rt>いどう</rt></ruby>時間も<ruby>含<rt>ふく</rt></ruby>めて旅を楽しむために、どのような<ruby>交通<rt>こうつう</rt></ruby><ruby>手段<rt>しゅだん</rt></ruby>を<ruby>選択<rt>せんたく</rt></ruby>しますか。",
+        "audio": "/audio/Q383.mp3",
+        "text_original": "移動時間も含めて旅を楽しむために、どのような交通手段を選択しますか。"
+      },
+      {
+        "category": "旅行 (Travel)",
+        "text": "次の<ruby>長期<rt>ちょうき</rt></ruby><ruby>休暇<rt>きゅうか</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>にどのような旅行<ruby>計画<rt>けいかく</rt></ruby>や<ruby>構想<rt>こうそう</rt></ruby>を<ruby>温<rt>あたた</rt></ruby>めていますか。",
+        "audio": "/audio/Q384.mp3",
+        "text_original": "次の長期休暇に向けて、具体的にどのような旅行計画や構想を温めていますか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "休日や<ruby>自由<rt>じゆう</rt></ruby>な時間を<ruby>活用<rt>かつよう</rt></ruby>して、どのように<ruby>心身<rt>しんしん</rt></ruby>をリフレッシュさせていますか。",
+        "audio": "/audio/Q385.mp3",
+        "text_original": "休日や自由な時間を活用して、どのように心身をリフレッシュさせていますか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "友人と休日を<ruby>過<rt>す</rt></ruby>ごす<ruby>場合<rt>ばあい</rt></ruby>、どのような場所を好んで<ruby>集<rt>あつ</rt></ruby>まることが多いですか。",
+        "audio": "/audio/Q386.mp3",
+        "text_original": "友人と休日を過ごす場合、どのような場所を好んで集まることが多いですか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "買い物をする<ruby>際<rt>さい</rt></ruby>、どのような<ruby>基準<rt>きじゅん</rt></ruby>で<ruby>店舗<rt>てんぽ</rt></ruby>や<ruby>品物<rt>しなもの</rt></ruby>を<ruby>選<rt>えら</rt></ruby>びますか。",
+        "audio": "/audio/Q387.mp3",
+        "text_original": "買い物をする際、どのような基準で店舗や品物を選びますか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "<ruby>自然<rt>しぜん</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じられる場所（<ruby>公園<rt>こうえん</rt></ruby>や海など）で<ruby>過<rt>す</rt></ruby>ごす時間について、どう<ruby>感<rt>かん</rt></ruby>じていますか。",
+        "audio": "/audio/Q388.mp3",
+        "text_original": "自然を感じられる場所（公園や海など）で過ごす時間について、どう感じていますか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "<ruby>在宅<rt>ざいたく</rt></ruby>の時間を<ruby>充実<rt>じゅうじつ</rt></ruby>させるために、<ruby>室内<rt>しつない</rt></ruby>でどんな<ruby>娯楽<rt>ごらく</rt></ruby>や<ruby>工夫<rt>くふう</rt></ruby>を楽しんでいますか。",
+        "audio": "/audio/Q389.mp3",
+        "text_original": "在宅の時間を充実させるために、室内でどんな娯楽や工夫を楽しんでいますか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "近い<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>休暇<rt>きゅうか</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>して、<ruby>挑戦<rt>ちょうせん</rt></ruby>してみたい<ruby>特別<rt>とくべつ</rt></ruby>なレジャー活動はありますか。",
+        "audio": "/audio/Q390.mp3",
+        "text_original": "近い将来の休暇を利用して、挑戦してみたい特別なレジャー活動はありますか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "<ruby>誕生<rt>たんじょう</rt></ruby>日や<ruby>記念<rt>きねん</rt></ruby>日などの<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>節目<rt>ふしめ</rt></ruby>には、どのような<ruby>お祝<rt>おいわ</rt></ruby>いをする<ruby>伝統<rt>でんとう</rt></ruby>がありますか。",
+        "audio": "/audio/Q391.mp3",
+        "text_original": "誕生日や記念日などの特別な節目には、どのようなお祝いをする伝統がありますか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "友人やコミュニティの<ruby>集<rt>あつ</rt></ruby>まり（イベント・パーティー）には<ruby>積極<rt>せっきょく</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>参加<rt>さんか</rt></ruby>するほうですか。",
+        "audio": "/audio/Q392.mp3",
+        "text_original": "友人やコミュニティの集まり（イベント・パーティー）には積極的に参加するほうですか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "一日の終わりに自分<ruby>自身<rt>じしん</rt></ruby>の時間を<ruby>確保<rt>かくほ</rt></ruby>するため、どのようなナイトルーティンを行っていますか。",
+        "audio": "/audio/Q393.mp3",
+        "text_original": "一日の終わりに自分自身の時間を確保するため、どのようなナイトルーティンを行っていますか。"
+      },
+      {
+        "category": "レジャー活動・余暇 (Leisure Activities)",
+        "text": "朝の<ruby>限<rt>かぎ</rt></ruby>られた時間を<ruby>効率<rt>こうりつ</rt></ruby><ruby>的<rt>てき</rt></ruby>に使うために、どのようなモーニングルーティンを<ruby>実践<rt>じっせん</rt></ruby>していますか。",
+        "audio": "/audio/Q394.mp3",
+        "text_original": "朝の限られた時間を効率的に使うために、どのようなモーニングルーティンを実践していますか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "<ruby>高等<rt>こうとう</rt></ruby>学校を<ruby>卒業<rt>そつぎょう</rt></ruby>した後の<ruby>進路<rt>しんろ</rt></ruby><ruby>方針<rt>ほうしん</rt></ruby>について、どのように<ruby>描<rt>えが</rt></ruby>いていますか。",
+        "audio": "/audio/Q395.mp3",
+        "text_original": "高等学校を卒業した後の進路方針について、どのように描いていますか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "<ruby>高等<rt>こうとう</rt></ruby><ruby>教育<rt>きょういく</rt></ruby>（大学や<ruby>専門<rt>せんもん</rt></ruby>学校など）で<ruby>探究<rt>たんきゅう</rt></ruby>したい<ruby>専門<rt>せんもん</rt></ruby><ruby>分野<rt>ぶんや</rt></ruby>やテーマは何ですか。",
+        "audio": "/audio/Q396.mp3",
+        "text_original": "高等教育（大学や専門学校など）で探究したい専門分野やテーマは何ですか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "<ruby>将来<rt>しょうらい</rt></ruby><ruby>的<rt>てき</rt></ruby>にどのような<ruby>職業<rt>しょくぎょう</rt></ruby>や<ruby>業界<rt>ぎょうかい</rt></ruby>で、どのようなキャリアを<ruby>形成<rt>けいせい</rt></ruby>したいと考えていますか。",
+        "audio": "/audio/Q397.mp3",
+        "text_original": "将来的にどのような職業や業界で、どのようなキャリアを形成したいと考えていますか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "グローバルな<ruby>環境<rt>かんきょう</rt></ruby>や海外を<ruby>拠点<rt>きょてん</rt></ruby>にして働くことについて、どのような<ruby>関心<rt>かんしん</rt></ruby>をお持ちですか。",
+        "audio": "/audio/Q398.mp3",
+        "text_original": "グローバルな環境や海外を拠点にして働くことについて、どのような関心をお持ちですか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "<ruby>一定<rt>いってい</rt></ruby><ruby>期間<rt>きかん</rt></ruby>、日本に<ruby>滞在<rt>たいざい</rt></ruby>して仕事をしたり生活したりする<ruby>可能<rt>かのう</rt></ruby><ruby>性<rt>せい</rt></ruby>についてどう考えますか。",
+        "audio": "/audio/Q399.mp3",
+        "text_original": "一定期間、日本に滞在して仕事をしたり生活したりする可能性についてどう考えますか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "<ruby>自家用車<rt>じかようしゃ</rt></ruby>の<ruby>運転<rt>うんてん</rt></ruby><ruby>免許<rt>めんきょ</rt></ruby>を<ruby>取得<rt>しゅとく</rt></ruby>し、<ruby>日常<rt>にちじょう</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>移動<rt>いどう</rt></ruby><ruby>手段<rt>しゅだん</rt></ruby>として<ruby>活用<rt>かつよう</rt></ruby>したいですか。",
+        "audio": "/audio/Q400.mp3",
+        "text_original": "自家用車の運転免許を取得し、日常的に移動手段として活用したいですか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "<ruby>将来<rt>しょうらい</rt></ruby>ご<ruby>自身<rt>じしん</rt></ruby>で<ruby>所有<rt>しょゆう</rt></ruby>したい<ruby>理想<rt>りそう</rt></ruby>の<ruby>移動<rt>いどう</rt></ruby><ruby>手段<rt>しゅだん</rt></ruby>や<ruby>車両<rt>しゃりょう</rt></ruby>のタイプはありますか。",
+        "audio": "/audio/Q401.mp3",
+        "text_original": "将来ご自身で所有したい理想の移動手段や車両のタイプはありますか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "<ruby>親元<rt>おやもと</rt></ruby>を<ruby>離<rt>はな</rt></ruby>れて自立した<ruby>際<rt>さい</rt></ruby>、どのような<ruby>住環境<rt>じゅうかんきょう</rt></ruby>やエリアで<ruby>暮<rt>く</rt></ruby>らしたいですか。",
+        "audio": "/audio/Q402.mp3",
+        "text_original": "親元を離れて自立した際、どのような住環境やエリアで暮らしたいですか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "今から10年後のご<ruby>自身<rt>じしん</rt></ruby>は、どのようなライフスタイルや社会<ruby>的<rt>てき</rt></ruby>立場にあると<ruby>想像<rt>そうぞう</rt></ruby>しますか。",
+        "audio": "/audio/Q403.mp3",
+        "text_original": "今から10年後のご自身は、どのようなライフスタイルや社会的立場にあると想像しますか。"
+      },
+      {
+        "category": "将来 (Future Plans)",
+        "text": "あなたが人生を<ruby>通<rt>つう</rt></ruby>じて<ruby>最終<rt>さいしゅう</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>達成<rt>たっせい</rt></ruby>したい「<ruby>最大<rt>さいだい</rt></ruby>の<ruby>目標<rt>もくひょう</rt></ruby>や<ruby>夢<rt>ゆめ</rt></ruby>」は何ですか。",
+        "audio": "/audio/Q404.mp3",
+        "text_original": "あなたが人生を通じて最終的に達成したい「最大の目標や夢」は何ですか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "<ruby>日常<rt>にちじょう</rt></ruby>生活において、<ruby>主<rt>おも</rt></ruby>にどのようなIT<ruby>機器<rt>きき</rt></ruby>やスマートデバイスを<ruby>活用<rt>かつよう</rt></ruby>していますか。",
+        "audio": "/audio/Q405.mp3",
+        "text_original": "日常生活において、主にどのようなIT機器やスマートデバイスを活用していますか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "<ruby>画面<rt>がめん</rt></ruby>を見る時間（スクリーンタイム）の長さについて、ご<ruby>自身<rt>じしん</rt></ruby>でどのように<ruby>管理<rt>かんり</rt></ruby>していますか。",
+        "audio": "/audio/Q406.mp3",
+        "text_original": "画面を見る時間（スクリーンタイム）の長さについて、ご自身でどのように管理していますか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "デバイスを<ruby>用<rt>もち</rt></ruby>いて、<ruby>主<rt>おも</rt></ruby>にどのような<ruby>情報<rt>じょうほう</rt></ruby><ruby>収集<rt>しゅうしゅう</rt></ruby>やコミュニケーションを行っていますか。",
+        "audio": "/audio/Q407.mp3",
+        "text_original": "デバイスを用いて、主にどのような情報収集やコミュニケーションを行っていますか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "学習や仕事の<ruby>生産<rt>せいさん</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>向上<rt>こうじょう</rt></ruby>させるために、PCやソフトウェアをどのように<ruby>運用<rt>うんよう</rt></ruby>していますか。",
+        "audio": "/audio/Q408.mp3",
+        "text_original": "学習や仕事の生産性を向上させるために、PCやソフトウェアをどのように運用していますか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "オンラインショッピングや電子<ruby>決済<rt>けっさい</rt></ruby>（キャッシュレス）を<ruby>利用<rt>りよう</rt></ruby>する<ruby>頻度<rt>ひんど</rt></ruby>と<ruby>利便<rt>りべん</rt></ruby><ruby>性<rt>せい</rt></ruby>についてどう思いますか。",
+        "audio": "/audio/Q409.mp3",
+        "text_original": "オンラインショッピングや電子決済（キャッシュレス）を利用する頻度と利便性についてどう思いますか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "SNSの<ruby>普及<rt>ふきゅう</rt></ruby>がもたらす社会<ruby>的<rt>てき</rt></ruby>なメリットと、<ruby>懸念<rt>けねん</rt></ruby>されるデメリットについてどう考えますか。",
+        "audio": "/audio/Q410.mp3",
+        "text_original": "SNSの普及がもたらす社会的なメリットと、懸念されるデメリットについてどう考えますか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "<ruby>急速<rt>きゅうそく</rt></ruby>な<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>革新<rt>かくしん</rt></ruby>によって、私たちの生活<ruby>様式<rt>ようしき</rt></ruby>はどのように<ruby>変化<rt>へんか</rt></ruby>したと<ruby>感<rt>かん</rt></ruby>じますか。",
+        "audio": "/audio/Q411.mp3",
+        "text_original": "急速な技術革新によって、私たちの生活様式はどのように変化したと感じますか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "<ruby>人工<rt>じんこう</rt></ruby><ruby>知能<rt>ちのう</rt></ruby>（AI）<ruby>技術<rt>ぎじゅつ</rt></ruby>の<ruby>進化<rt>しんか</rt></ruby>が今後の社会や<ruby>雇用<rt>こよう</rt></ruby>に<ruby>与<rt>あた</rt></ruby>える<ruby>影響<rt>えいきょう</rt></ruby>について、どうお考えですか。",
+        "audio": "/audio/Q412.mp3",
+        "text_original": "人工知能（AI）技術の進化が今後の社会や雇用に与える影響について、どうお考えですか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "もしデジタル<ruby>機器<rt>きき</rt></ruby>から<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>離<rt>はな</rt></ruby>れた生活（デジタルデトックス）を<ruby>求<rt>もと</rt></ruby>められたら、どう<ruby>対処<rt>たいしょ</rt></ruby>しますか。",
+        "audio": "/audio/Q413.mp3",
+        "text_original": "もしデジタル機器から完全に離れた生活（デジタルデトックス）を求められたら、どう対処しますか。"
+      },
+      {
+        "category": "テクノロジー・スマホなど (Technology)",
+        "text": "今後<ruby>導入<rt>どうにゅう</rt></ruby>されることが<ruby>期待<rt>きたい</rt></ruby>される<ruby>最新<rt>さいしん</rt></ruby>のテクノロジーや<ruby>製品<rt>せいひん</rt></ruby>で、<ruby>関心<rt>かんしん</rt></ruby>を持っているものはありますか。",
+        "audio": "/audio/Q414.mp3",
+        "text_original": "今後導入されることが期待される最新のテクノロジーや製品で、関心を持っているものはありますか。"
+      }
+    ]
+  },
+  "sec2": {
+    "steady": [
+      {
+        "category": "導入・プレゼンの切り出し (Introduction & Pitch)",
+        "text": "今日のトピックは何ですか。",
+        "audio": "/audio/Q109.mp3",
+        "text_original": "今日のトピックは何ですか。"
+      },
+      {
+        "category": "導入・プレゼンの切り出し (Introduction & Pitch)",
+        "text": "なぜこのトピックを<ruby>選<rt>えら</rt></ruby>びましたか。",
+        "audio": "/audio/Q110.mp3",
+        "text_original": "なぜこのトピックを選びましたか。"
+      },
+      {
+        "category": "導入・プレゼンの切り出し (Introduction & Pitch)",
+        "text": "トピックについて、<ruby>簡単<rt>かんたん</rt></ruby>に話してください。",
+        "audio": "/audio/Q111.mp3",
+        "text_original": "トピックについて、簡単に話してください。"
+      },
+      {
+        "category": "導入・プレゼンの切り出し (Introduction & Pitch)",
+        "text": "どうしてこれに<ruby>興味<rt>きょうみ</rt></ruby>を持ちましたか。",
+        "audio": "/audio/Q112.mp3",
+        "text_original": "どうしてこれに興味を持ちましたか。"
+      },
+      {
+        "category": "導入・プレゼンの切り出し (Introduction & Pitch)",
+        "text": "どんな本や<ruby>映画<rt>えいが</rt></ruby>を使いましたか。",
+        "audio": "/audio/Q113.mp3",
+        "text_original": "どんな本や映画を使いましたか。"
+      },
+      {
+        "category": "導入・プレゼンの切り出し (Introduction & Pitch)",
+        "text": "その<ruby>資料<rt>しりょう</rt></ruby>から何を勉強しましたか。",
+        "audio": "/audio/Q114.mp3",
+        "text_original": "その資料から何を勉強しましたか。"
+      },
+      {
+        "category": "事実の確認・詳細の要求 (Clarification & Details)",
+        "text": "もう少し<ruby>詳<rt>くわ</rt></ruby>しく教えてください。",
+        "audio": "/audio/Q115.mp3",
+        "text_original": "もう少し詳しく教えてください。"
+      },
+      {
+        "category": "事実の確認・詳細の要求 (Clarification & Details)",
+        "text": "<ruby>例<rt>たと</rt></ruby>えば、どんなことがありますか。",
+        "audio": "/audio/Q116.mp3",
+        "text_original": "例えば、どんなことがありますか。"
+      },
+      {
+        "category": "事実の確認・詳細の要求 (Clarification & Details)",
+        "text": "それはいつから始まりましたか。",
+        "audio": "/audio/Q117.mp3",
+        "text_original": "それはいつから始まりましたか。"
+      },
+      {
+        "category": "事実の確認・詳細の要求 (Clarification & Details)",
+        "text": "どんな人が<ruby>関係<rt>かんけい</rt></ruby>していますか。",
+        "audio": "/audio/Q118.mp3",
+        "text_original": "どんな人が関係していますか。"
+      },
+      {
+        "category": "事実の確認・詳細の要求 (Clarification & Details)",
+        "text": "<ruby>資料<rt>しりょう</rt></ruby>には何が書いてありましたか。",
+        "audio": "/audio/Q119.mp3",
+        "text_original": "資料には何が書いてありましたか。"
+      },
+      {
+        "category": "理由・根拠の追及 (Reasons & Justifications)",
+        "text": "それはどうしてですか。",
+        "audio": "/audio/Q120.mp3",
+        "text_original": "それはどうしてですか。"
+      },
+      {
+        "category": "理由・根拠の追及 (Reasons & Justifications)",
+        "text": "なぜそう思いますか。",
+        "audio": "/audio/Q121.mp3",
+        "text_original": "なぜそう思いますか。"
+      },
+      {
+        "category": "理由・根拠の追及 (Reasons & Justifications)",
+        "text": "<ruby>理由<rt>りゆう</rt></ruby>を教えてください。",
+        "audio": "/audio/Q122.mp3",
+        "text_original": "理由を教えてください。"
+      },
+      {
+        "category": "理由・根拠の追及 (Reasons & Justifications)",
+        "text": "なぜこれが大きな<ruby>問題<rt>もんだい</rt></ruby>ですか。",
+        "audio": "/audio/Q123.mp3",
+        "text_original": "なぜこれが大きな問題ですか。"
+      },
+      {
+        "category": "影響・メリット・デメリット (Impacts, Pros & Cons)",
+        "text": "どんないい点がありますか。",
+        "audio": "/audio/Q124.mp3",
+        "text_original": "どんないい点がありますか。"
+      },
+      {
+        "category": "影響・メリット・デメリット (Impacts, Pros & Cons)",
+        "text": "どんな<ruby>悪<rt>わる</rt></ruby>い点（<ruby>問題<rt>もんだい</rt></ruby>）がありますか。",
+        "audio": "/audio/Q125.mp3",
+        "text_original": "どんな悪い点（問題）がありますか。"
+      },
+      {
+        "category": "影響・メリット・デメリット (Impacts, Pros & Cons)",
+        "text": "私たちの生活にどんな<ruby>影響<rt>えいきょう</rt></ruby>がありますか。",
+        "audio": "/audio/Q126.mp3",
+        "text_original": "私たちの生活にどんな影響がありますか。"
+      },
+      {
+        "category": "影響・メリット・デメリット (Impacts, Pros & Cons)",
+        "text": "だれが一番<ruby>困<rt>こま</rt></ruby>っていますか。",
+        "audio": "/audio/Q127.mp3",
+        "text_original": "だれが一番困っていますか。"
+      },
+      {
+        "category": "比較・対比 (Comparison & Contrast)",
+        "text": "<ruby>昔<rt>むかし</rt></ruby>と今で、何が<ruby>変<rt>か</rt></ruby>わりましたか。",
+        "audio": "/audio/Q128.mp3",
+        "text_original": "昔と今で、何が変わりましたか。"
+      },
+      {
+        "category": "比較・対比 (Comparison & Contrast)",
+        "text": "日本とオーストラリアの<ruby>違<rt>ちが</rt></ruby>いは何ですか。",
+        "audio": "/audio/Q129.mp3",
+        "text_original": "日本とオーストラリアの違いは何ですか。"
+      },
+      {
+        "category": "比較・対比 (Comparison & Contrast)",
+        "text": "<ruby>若<rt>わか</rt></ruby>い人と大人の考え方は<ruby>違<rt>ちが</rt></ruby>いますか。",
+        "audio": "/audio/Q130.mp3",
+        "text_original": "若い人と大人の考え方は違いますか。"
+      },
+      {
+        "category": "比較・対比 (Comparison & Contrast)",
+        "text": "あなたの国でも同じですか。",
+        "audio": "/audio/Q131.mp3",
+        "text_original": "あなたの国でも同じですか。"
+      },
+      {
+        "category": "賛否・個人的な意見 (Opinions & Stance)",
+        "text": "あなたはどう思いますか。",
+        "audio": "/audio/Q132.mp3",
+        "text_original": "あなたはどう思いますか。"
+      },
+      {
+        "category": "賛否・個人的な意見 (Opinions & Stance)",
+        "text": "それに<ruby>賛成<rt>さんせい</rt></ruby>ですか、<ruby>反対<rt>はんたい</rt></ruby>ですか。",
+        "audio": "/audio/Q133.mp3",
+        "text_original": "それに賛成ですか、反対ですか。"
+      },
+      {
+        "category": "賛否・個人的な意見 (Opinions & Stance)",
+        "text": "あなたなら、どうしますか。",
+        "audio": "/audio/Q134.mp3",
+        "text_original": "あなたなら、どうしますか。"
+      },
+      {
+        "category": "解決策・将来の展望 (Solutions & Future Prospects)",
+        "text": "どうやってこの<ruby>問題<rt>もんだい</rt></ruby>を<ruby>解決<rt>かいけつ</rt></ruby>しますか。",
+        "audio": "/audio/Q135.mp3",
+        "text_original": "どうやってこの問題を解決しますか。"
+      },
+      {
+        "category": "解決策・将来の展望 (Solutions & Future Prospects)",
+        "text": "私たちは何をするべきですか。",
+        "audio": "/audio/Q136.mp3",
+        "text_original": "私たちは何をするべきですか。"
+      },
+      {
+        "category": "解決策・将来の展望 (Solutions & Future Prospects)",
+        "text": "<ruby>将来<rt>しょうらい</rt></ruby>、どうなると思いますか。",
+        "audio": "/audio/Q137.mp3",
+        "text_original": "将来、どうなると思いますか。"
+      },
+      {
+        "category": "解決策・将来の展望 (Solutions & Future Prospects)",
+        "text": "今すぐできることは何ですか。",
+        "audio": "/audio/Q138.mp3",
+        "text_original": "今すぐできることは何ですか。"
+      },
+      {
+        "category": "試験官からの質問・相づち・聞き返し (Examiner Prompts & Counter-arguments)",
+        "text": "でも、ほかの<ruby>意見<rt>いけん</rt></ruby>もありますよね。どう思いますか。",
+        "audio": "/audio/Q139.mp3",
+        "text_original": "でも、ほかの意見もありますよね。どう思いますか。"
+      },
+      {
+        "category": "試験官からの質問・相づち・聞き返し (Examiner Prompts & Counter-arguments)",
+        "text": "<ruby>本当<rt>ほんとう</rt></ruby>にそうですか。",
+        "audio": "/audio/Q140.mp3",
+        "text_original": "本当にそうですか。"
+      },
+      {
+        "category": "試験官からの質問・相づち・聞き返し (Examiner Prompts & Counter-arguments)",
+        "text": "もしそうだったら、どうしますか。",
+        "audio": "/audio/Q141.mp3",
+        "text_original": "もしそうだったら、どうしますか。"
+      },
+      {
+        "category": "試験官からの質問・相づち・聞き返し (Examiner Prompts & Counter-arguments)",
+        "text": "<ruby>最後<rt>さいご</rt></ruby>に、一番言いたいことは何ですか。",
+        "audio": "/audio/Q142.mp3",
+        "text_original": "最後に、一番言いたいことは何ですか。"
+      }
+    ],
+    "normal": [
+      {
+        "category": "導入・プレゼンの切り出し (Introduction & Pitch)",
+        "text": "今日のトピック（またはサブトピック）は何ですか。",
+        "audio": "/audio/Q258.mp3",
+        "text_original": "今日のトピック（またはサブトピック）は何ですか。"
+      },
+      {
+        "category": "導入・プレゼンの切り出し (Introduction & Pitch)",
+        "text": "なぜこのトピックを<ruby>選<rt>えら</rt></ruby>びましたか。",
+        "audio": "/audio/Q259.mp3",
+        "text_original": "なぜこのトピックを選びましたか。"
+      },
+      {
+        "category": "導入・プレゼンの切り出し (Introduction & Pitch)",
+        "text": "このトピックについて、<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>説明<rt>せつめい</rt></ruby>してください。",
+        "audio": "/audio/Q260.mp3",
+        "text_original": "このトピックについて、簡単に説明してください。"
+      },
+      {
+        "category": "導入・プレゼンの切り出し (Introduction & Pitch)",
+        "text": "そのテーマに<ruby>興味<rt>きょうみ</rt></ruby>を持ったきっかけは何ですか。",
+        "audio": "/audio/Q261.mp3",
+        "text_original": "そのテーマに興味を持ったきっかけは何ですか。"
+      },
+      {
+        "category": "導入・プレゼンの切り出し (Introduction & Pitch)",
+        "text": "この<ruby>研究<rt>けんきゅう</rt></ruby>をするために、どんな<ruby>資料<rt>しりょう</rt></ruby>（<ruby>記事<rt>きじ</rt></ruby>、本、<ruby>映画<rt>えいが</rt></ruby>など）を使いましたか。",
+        "audio": "/audio/Q262.mp3",
+        "text_original": "この研究をするために、どんな資料（記事、本、映画など）を使いましたか。"
+      },
+      {
+        "category": "導入・プレゼンの切り出し (Introduction & Pitch)",
+        "text": "その<ruby>資料<rt>しりょう</rt></ruby>から何を<ruby>取り上<rt>とりあ</rt></ruby>げましたか／何を学びましたか。",
+        "audio": "/audio/Q263.mp3",
+        "text_original": "その資料から何を取り上げましたか／何を学びましたか。"
+      },
+      {
+        "category": "事実の確認・詳細の要求 (Clarification & Details)",
+        "text": "もう少し<ruby>詳<rt>くわ</rt></ruby>しく教えてください。",
+        "audio": "/audio/Q264.mp3",
+        "text_original": "もう少し詳しく教えてください。"
+      },
+      {
+        "category": "事実の確認・詳細の要求 (Clarification & Details)",
+        "text": "<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>に、どんな<ruby>例<rt>れい</rt></ruby>がありますか。",
+        "audio": "/audio/Q265.mp3",
+        "text_original": "具体的に、どんな例がありますか。"
+      },
+      {
+        "category": "事実の確認・詳細の要求 (Clarification & Details)",
+        "text": "それはいつ<ruby>頃<rt>ころ</rt></ruby>からの<ruby>問題<rt>もんだい</rt></ruby>（または<ruby>現象<rt>げんしょう</rt></ruby>）ですか。",
+        "audio": "/audio/Q266.mp3",
+        "text_original": "それはいつ頃からの問題（または現象）ですか。"
+      },
+      {
+        "category": "事実の確認・詳細の要求 (Clarification & Details)",
+        "text": "その<ruby>背景<rt>はいけい</rt></ruby>には、どんな<ruby>事情<rt>じじょう</rt></ruby>がありますか。",
+        "audio": "/audio/Q267.mp3",
+        "text_original": "その背景には、どんな事情がありますか。"
+      },
+      {
+        "category": "事実の確認・詳細の要求 (Clarification & Details)",
+        "text": "どんな人がその<ruby>問題<rt>もんだい</rt></ruby>に<ruby>関<rt>かか</rt></ruby>わっていますか。",
+        "audio": "/audio/Q268.mp3",
+        "text_original": "どんな人がその問題に関わっていますか。"
+      },
+      {
+        "category": "事実の確認・詳細の要求 (Clarification & Details)",
+        "text": "その<ruby>資料<rt>しりょう</rt></ruby>（または<ruby>映画<rt>えいが</rt></ruby>・<ruby>記事<rt>きじ</rt></ruby>）には、どんな<ruby>内容<rt>ないよう</rt></ruby>が書いてありましたか。",
+        "audio": "/audio/Q269.mp3",
+        "text_original": "その資料（または映画・記事）には、どんな内容が書いてありましたか。"
+      },
+      {
+        "category": "理由・根拠の追及 (Reasons & Justifications)",
+        "text": "それはどうしてですか。",
+        "audio": "/audio/Q270.mp3",
+        "text_original": "それはどうしてですか。"
+      },
+      {
+        "category": "理由・根拠の追及 (Reasons & Justifications)",
+        "text": "なぜそのように思いますか。どうしてそう考えますか。",
+        "audio": "/audio/Q271.mp3",
+        "text_original": "なぜそのように思いますか。どうしてそう考えますか。"
+      },
+      {
+        "category": "理由・根拠の追及 (Reasons & Justifications)",
+        "text": "その<ruby>理由<rt>りゆう</rt></ruby>を<ruby>説明<rt>せつめい</rt></ruby>できますか。",
+        "audio": "/audio/Q272.mp3",
+        "text_original": "その理由を説明できますか。"
+      },
+      {
+        "category": "理由・根拠の追及 (Reasons & Justifications)",
+        "text": "なぜそれが大きな<ruby>問題<rt>もんだい</rt></ruby>になっているのですか。",
+        "audio": "/audio/Q273.mp3",
+        "text_original": "なぜそれが大きな問題になっているのですか。"
+      },
+      {
+        "category": "理由・根拠の追及 (Reasons & Justifications)",
+        "text": "そう考える<ruby>根拠<rt>こんきょ</rt></ruby>は何ですか。",
+        "audio": "/audio/Q274.mp3",
+        "text_original": "そう考える根拠は何ですか。"
+      },
+      {
+        "category": "影響・メリット・デメリット (Impacts, Pros & Cons)",
+        "text": "それには、どんないい点（メリット・長所）がありますか。",
+        "audio": "/audio/Q275.mp3",
+        "text_original": "それには、どんないい点（メリット・長所）がありますか。"
+      },
+      {
+        "category": "影響・メリット・デメリット (Impacts, Pros & Cons)",
+        "text": "<ruby>逆<rt>ぎゃく</rt></ruby>に、どんな<ruby>悪<rt>わる</rt></ruby>い点（デメリット・<ruby>短所<rt>たんしょ</rt></ruby>・<ruby>問題<rt>もんだい</rt></ruby>点）がありますか。",
+        "audio": "/audio/Q276.mp3",
+        "text_original": "逆に、どんな悪い点（デメリット・短所・問題点）がありますか。"
+      },
+      {
+        "category": "影響・メリット・デメリット (Impacts, Pros & Cons)",
+        "text": "それは人々の生活にどんな<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えていますか。",
+        "audio": "/audio/Q277.mp3",
+        "text_original": "それは人々の生活にどんな影響を与えていますか。"
+      },
+      {
+        "category": "影響・メリット・デメリット (Impacts, Pros & Cons)",
+        "text": "社会（または<ruby>環境<rt>かんきょう</rt></ruby>・<ruby>若者<rt>わかもの</rt></ruby>）にとって、どんなプラス／マイナスの<ruby>効果<rt>こうか</rt></ruby>がありますか。",
+        "audio": "/audio/Q278.mp3",
+        "text_original": "社会（または環境・若者）にとって、どんなプラス／マイナスの効果がありますか。"
+      },
+      {
+        "category": "影響・メリット・デメリット (Impacts, Pros & Cons)",
+        "text": "それによって、だれが一番<ruby>困<rt>こま</rt></ruby>っていますか／<ruby>得<rt>とく</rt></ruby>をしていますか。",
+        "audio": "/audio/Q279.mp3",
+        "text_original": "それによって、だれが一番困っていますか／得をしていますか。"
+      },
+      {
+        "category": "比較・対比 (Comparison & Contrast)",
+        "text": "<ruby>昔<rt>むかし</rt></ruby>と今とで、何が<ruby>変<rt>か</rt></ruby>わりましたか。",
+        "audio": "/audio/Q280.mp3",
+        "text_original": "昔と今とで、何が変わりましたか。"
+      },
+      {
+        "category": "比較・対比 (Comparison & Contrast)",
+        "text": "日本とオーストラリア、または<ruby>他<rt>ほか</rt></ruby>の国、の<ruby>違<rt>ちが</rt></ruby>いは何ですか。",
+        "audio": "/audio/Q281.mp3",
+        "text_original": "日本とオーストラリア、または他の国、の違いは何ですか。"
+      },
+      {
+        "category": "比較・対比 (Comparison & Contrast)",
+        "text": "<ruby>若<rt>わか</rt></ruby>い人と古い<ruby>世代<rt>せだい</rt></ruby>（お<ruby>年寄<rt>としよ</rt></ruby>り）とで、考え方に<ruby>違<rt>ちが</rt></ruby>いはありますか。",
+        "audio": "/audio/Q282.mp3",
+        "text_original": "若い人と古い世代（お年寄り）とで、考え方に違いはありますか。"
+      },
+      {
+        "category": "比較・対比 (Comparison & Contrast)",
+        "text": "あなたの国でも同じようなことがありますか。",
+        "audio": "/audio/Q283.mp3",
+        "text_original": "あなたの国でも同じようなことがありますか。"
+      },
+      {
+        "category": "比較・対比 (Comparison & Contrast)",
+        "text": "<ruby>他<rt>ほか</rt></ruby>の<ruby>解決<rt>かいけつ</rt></ruby><ruby>方法<rt>ほうほう</rt></ruby>や<ruby>選択肢<rt>せんたくし</rt></ruby>と<ruby>比<rt>くら</rt></ruby>べて、どうですか。",
+        "audio": "/audio/Q284.mp3",
+        "text_original": "他の解決方法や選択肢と比べて、どうですか。"
+      },
+      {
+        "category": "賛否・個人的な意見 (Opinions & Stance)",
+        "text": "あなた<ruby>自身<rt>じしん</rt></ruby>は、これについてどう思いますか。どう<ruby>感<rt>かん</rt></ruby>じますか。",
+        "audio": "/audio/Q285.mp3",
+        "text_original": "あなた自身は、これについてどう思いますか。どう感じますか。"
+      },
+      {
+        "category": "賛否・個人的な意見 (Opinions & Stance)",
+        "text": "その考えに<ruby>賛成<rt>さんせい</rt></ruby>ですか、それとも<ruby>反対<rt>はんたい</rt></ruby>ですか。",
+        "audio": "/audio/Q286.mp3",
+        "text_original": "その考えに賛成ですか、それとも反対ですか。"
+      },
+      {
+        "category": "賛否・個人的な意見 (Opinions & Stance)",
+        "text": "その<ruby>状況<rt>じょうきょう</rt></ruby>（または<ruby>問題<rt>もんだい</rt></ruby>）について、どう<ruby>感<rt>かん</rt></ruby>じましたか。",
+        "audio": "/audio/Q287.mp3",
+        "text_original": "その状況（または問題）について、どう感じましたか。"
+      },
+      {
+        "category": "賛否・個人的な意見 (Opinions & Stance)",
+        "text": "あなたなら、どうしますか。",
+        "audio": "/audio/Q288.mp3",
+        "text_original": "あなたなら、どうしますか。"
+      },
+      {
+        "category": "解決策・将来の展望 (Solutions & Future Prospects)",
+        "text": "この<ruby>問題<rt>もんだい</rt></ruby>を<ruby>解決<rt>かいけつ</rt></ruby>するために、どんなことができますか。",
+        "audio": "/audio/Q289.mp3",
+        "text_original": "この問題を解決するために、どんなことができますか。"
+      },
+      {
+        "category": "解決策・将来の展望 (Solutions & Future Prospects)",
+        "text": "<ruby>政府<rt>せいふ</rt></ruby>（または学校・社会・<ruby>個人<rt>こじん</rt></ruby>）は、何をするべきだと思いますか。",
+        "audio": "/audio/Q290.mp3",
+        "text_original": "政府（または学校・社会・個人）は、何をするべきだと思いますか。"
+      },
+      {
+        "category": "解決策・将来の展望 (Solutions & Future Prospects)",
+        "text": "<ruby>将来<rt>しょうらい</rt></ruby>、この<ruby>状況<rt>じょうきょう</rt></ruby>はどうなっていくと思いますか（<ruby>変<rt>か</rt></ruby>わると思いますか）。",
+        "audio": "/audio/Q291.mp3",
+        "text_original": "将来、この状況はどうなっていくと思いますか（変わると思いますか）。"
+      },
+      {
+        "category": "解決策・将来の展望 (Solutions & Future Prospects)",
+        "text": "私たちが今すぐできることは何ですか。",
+        "audio": "/audio/Q292.mp3",
+        "text_original": "私たちが今すぐできることは何ですか。"
+      },
+      {
+        "category": "解決策・将来の展望 (Solutions & Future Prospects)",
+        "text": "これからどんな<ruby>対策<rt>たいさく</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>だと考えますか。",
+        "audio": "/audio/Q293.mp3",
+        "text_original": "これからどんな対策が必要だと考えますか。"
+      },
+      {
+        "category": "試験官からの質問・相づち・聞き返し (Examiner Prompts & Counter-arguments)",
+        "text": "でも、こんな考え方、<ruby>意見<rt>いけん</rt></ruby>もありますよね。それについてはどう思いますか。",
+        "audio": "/audio/Q294.mp3",
+        "text_original": "でも、こんな考え方、意見もありますよね。それについてはどう思いますか。"
+      },
+      {
+        "category": "試験官からの質問・相づち・聞き返し (Examiner Prompts & Counter-arguments)",
+        "text": "このように言われていますが、<ruby>本当<rt>ほんとう</rt></ruby>にそうですか。",
+        "audio": "/audio/Q295.mp3",
+        "text_original": "このように言われていますが、本当にそうですか。"
+      },
+      {
+        "category": "試験官からの質問・相づち・聞き返し (Examiner Prompts & Counter-arguments)",
+        "text": "もしそうだったら、どうなりますか。",
+        "audio": "/audio/Q296.mp3",
+        "text_original": "もしそうだったら、どうなりますか。"
+      },
+      {
+        "category": "試験官からの質問・相づち・聞き返し (Examiner Prompts & Counter-arguments)",
+        "text": "つまり、あなたの<ruby>意見<rt>いけん</rt></ruby>はどういうことですか。",
+        "audio": "/audio/Q297.mp3",
+        "text_original": "つまり、あなたの意見はどういうことですか。"
+      },
+      {
+        "category": "試験官からの質問・相づち・聞き返し (Examiner Prompts & Counter-arguments)",
+        "text": "<ruby>最後<rt>さいご</rt></ruby>に、このトピックについて一番<ruby>伝<rt>つた</rt></ruby>えたいことは何ですか。",
+        "audio": "/audio/Q298.mp3",
+        "text_original": "最後に、このトピックについて一番伝えたいことは何ですか。"
+      }
+    ],
+    "Accelerated": [
+      {
+        "category": "導入・プレゼンの切り出し (Introduction & Pitch)",
+        "text": "今回<ruby>取<rt>と</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げる<ruby>研究<rt>けんきゅう</rt></ruby>テーマ（サブトピック）と、そのポイントを教えてください。",
+        "audio": "/audio/Q415.mp3",
+        "text_original": "今回取り上げる研究テーマ（サブトピック）と、そのポイントを教えてください。"
+      },
+      {
+        "category": "導入・プレゼンの切り出し (Introduction & Pitch)",
+        "text": "<ruby>数<rt>かず</rt></ruby>あるテーマの中で、なぜこの<ruby>問題<rt>もんだい</rt></ruby>に<ruby>注目<rt>ちゅうもく</rt></ruby>しましたか。",
+        "audio": "/audio/Q416.mp3",
+        "text_original": "数あるテーマの中で、なぜこの問題に注目しましたか。"
+      },
+      {
+        "category": "導入・プレゼンの切り出し (Introduction & Pitch)",
+        "text": "<ruby>研究<rt>けんきゅう</rt></ruby><ruby>内容<rt>ないよう</rt></ruby>の<ruby>要点<rt>ようてん</rt></ruby>を、<ruby>短<rt>みじか</rt></ruby>くまとめて<ruby>説明<rt>せつめい</rt></ruby>してください。",
+        "audio": "/audio/Q417.mp3",
+        "text_original": "研究内容の要点を、短くまとめて説明してください。"
+      },
+      {
+        "category": "導入・プレゼンの切り出し (Introduction & Pitch)",
+        "text": "この<ruby>研究<rt>けんきゅう</rt></ruby>をするために、どのような<ruby>資料<rt>しりょう</rt></ruby>やメディアを使いましたか。",
+        "audio": "/audio/Q418.mp3",
+        "text_original": "この研究をするために、どのような資料やメディアを使いましたか。"
+      },
+      {
+        "category": "導入・プレゼンの切り出し (Introduction & Pitch)",
+        "text": "その<ruby>資料<rt>しりょう</rt></ruby>（<ruby>映像<rt>えいぞう</rt></ruby>・<ruby>文献<rt>ぶんけん</rt></ruby>）を<ruby>分析<rt>ぶんせき</rt></ruby>して、<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>にどのような<ruby>結論<rt>けつろん</rt></ruby>を<ruby>得<rt>え</rt></ruby>ましたか。",
+        "audio": "/audio/Q419.mp3",
+        "text_original": "その資料（映像・文献）を分析して、具体的にどのような結論を得ましたか。"
+      },
+      {
+        "category": "事実の確認・詳細の要求 (Clarification & Details)",
+        "text": "今言った点について、もう少し<ruby>掘り下<rt>ほりさ</rt></ruby>げて<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>説明<rt>せつめい</rt></ruby>できますか。",
+        "audio": "/audio/Q420.mp3",
+        "text_original": "今言った点について、もう少し掘り下げて具体的に説明できますか。"
+      },
+      {
+        "category": "事実の確認・詳細の要求 (Clarification & Details)",
+        "text": "それを<ruby>裏付<rt>うらづ</rt></ruby>けるような<ruby>具体<rt>ぐたい</rt></ruby><ruby>例<rt>れい</rt></ruby>やデータはありますか。",
+        "audio": "/audio/Q421.mp3",
+        "text_original": "それを裏付けるような具体例やデータはありますか。"
+      },
+      {
+        "category": "事実の確認・詳細の要求 (Clarification & Details)",
+        "text": "この<ruby>問題<rt>もんだい</rt></ruby>が<ruby>深刻<rt>しんこく</rt></ruby>になった<ruby>背景<rt>はいけい</rt></ruby>には、何があると考えていますか。",
+        "audio": "/audio/Q422.mp3",
+        "text_original": "この問題が深刻になった背景には、何があると考えていますか。"
+      },
+      {
+        "category": "事実の確認・詳細の要求 (Clarification & Details)",
+        "text": "このテーマにおいて、<ruby>主要<rt>しゅよう</rt></ruby>な<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>となるのはどのような人たちですか。",
+        "audio": "/audio/Q423.mp3",
+        "text_original": "このテーマにおいて、主要な関係者となるのはどのような人たちですか。"
+      },
+      {
+        "category": "事実の確認・詳細の要求 (Clarification & Details)",
+        "text": "<ruby>調<rt>しら</rt></ruby>べた<ruby>資料<rt>しりょう</rt></ruby>の中で、<ruby>特<rt>とく</rt></ruby>に<ruby>注目<rt>ちゅうもく</rt></ruby>した<ruby>内容<rt>ないよう</rt></ruby>はどんなことですか。",
+        "audio": "/audio/Q424.mp3",
+        "text_original": "調べた資料の中で、特に注目した内容はどんなことですか。"
+      },
+      {
+        "category": "理由・根拠の追及 (Reasons & Justifications)",
+        "text": "そのような<ruby>結論<rt>けつろん</rt></ruby>になった<ruby>理由<rt>りゆう</rt></ruby>や<ruby>根拠<rt>こんきょ</rt></ruby>は何ですか。",
+        "audio": "/audio/Q425.mp3",
+        "text_original": "そのような結論になった理由や根拠は何ですか。"
+      },
+      {
+        "category": "理由・根拠の追及 (Reasons & Justifications)",
+        "text": "なぜ社会（または人々）がそのような行動をとるのだと考えていますか。",
+        "audio": "/audio/Q426.mp3",
+        "text_original": "なぜ社会（または人々）がそのような行動をとるのだと考えていますか。"
+      },
+      {
+        "category": "理由・根拠の追及 (Reasons & Justifications)",
+        "text": "なぜこの出来事（<ruby>現象<rt>げんしょう</rt></ruby>）が、これほど大きな<ruby>関心<rt>かんしん</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めているのですか。",
+        "audio": "/audio/Q427.mp3",
+        "text_original": "なぜこの出来事（現象）が、これほど大きな関心を集めているのですか。"
+      },
+      {
+        "category": "理由・根拠の追及 (Reasons & Justifications)",
+        "text": "<ruby>単<rt>たん</rt></ruby>なる<ruby>個人<rt>こじん</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>ではなく、社会<ruby>問題<rt>もんだい</rt></ruby>として考えるべき<ruby>理由<rt>りゆう</rt></ruby>は何ですか。",
+        "audio": "/audio/Q428.mp3",
+        "text_original": "単なる個人の問題ではなく、社会問題として考えるべき理由は何ですか。"
+      },
+      {
+        "category": "影響・メリット・デメリット (Impacts, Pros & Cons)",
+        "text": "その<ruby>取り組<rt>とりく</rt></ruby>みや<ruby>現象<rt>げんしょう</rt></ruby>がもたらすメリットには何がありますか。",
+        "audio": "/audio/Q429.mp3",
+        "text_original": "その取り組みや現象がもたらすメリットには何がありますか。"
+      },
+      {
+        "category": "影響・メリット・デメリット (Impacts, Pros & Cons)",
+        "text": "一方で、<ruby>見過<rt>みす</rt></ruby>ごすことができない<ruby>問題<rt>もんだい</rt></ruby>点やデメリットは何ですか。",
+        "audio": "/audio/Q430.mp3",
+        "text_original": "一方で、見過ごすことができない問題点やデメリットは何ですか。"
+      },
+      {
+        "category": "影響・メリット・デメリット (Impacts, Pros & Cons)",
+        "text": "この<ruby>変化<rt>へんか</rt></ruby>は、人々の生活や考え方にどのような<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えていますか。",
+        "audio": "/audio/Q431.mp3",
+        "text_original": "この変化は、人々の生活や考え方にどのような影響を与えていますか。"
+      },
+      {
+        "category": "影響・メリット・デメリット (Impacts, Pros & Cons)",
+        "text": "<ruby>利益<rt>りえき</rt></ruby>を<ruby>得<rt>え</rt></ruby>る人と、<ruby>不利益<rt>ふりえき</rt></ruby>を<ruby>受<rt>う</rt></ruby>ける人の間で、どのような<ruby>違<rt>ちが</rt></ruby>いが生じていますか。",
+        "audio": "/audio/Q432.mp3",
+        "text_original": "利益を得る人と、不利益を受ける人の間で、どのような違いが生じていますか。"
+      },
+      {
+        "category": "比較・対比 (Comparison & Contrast)",
+        "text": "<ruby>過去<rt>かこ</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>と<ruby>比較<rt>ひかく</rt></ruby>して、<ruby>最<rt>もっと</rt></ruby>も大きな<ruby>変化<rt>へんか</rt></ruby>は何ですか。",
+        "audio": "/audio/Q433.mp3",
+        "text_original": "過去の状況と比較して、最も大きな変化は何ですか。"
+      },
+      {
+        "category": "比較・対比 (Comparison & Contrast)",
+        "text": "日本の<ruby>文化<rt>ぶんか</rt></ruby>や社会と、オーストラリアなどの<ruby>諸<rt>しょ</rt></ruby>外国との<ruby>共通<rt>きょうつう</rt></ruby>点や<ruby>違<rt>ちが</rt></ruby>いは何ですか。",
+        "audio": "/audio/Q434.mp3",
+        "text_original": "日本の文化や社会と、オーストラリアなどの諸外国との共通点や違いは何ですか。"
+      },
+      {
+        "category": "比較・対比 (Comparison & Contrast)",
+        "text": "<ruby>若者<rt>わかもの</rt></ruby>と<ruby>高齢<rt>こうれい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>の間の考え方のギャップについて、どう<ruby>分析<rt>ぶんせき</rt></ruby>しますか。",
+        "audio": "/audio/Q435.mp3",
+        "text_original": "若者と高齢者の間の考え方のギャップについて、どう分析しますか。"
+      },
+      {
+        "category": "比較・対比 (Comparison & Contrast)",
+        "text": "<ruby>他<rt>ほか</rt></ruby>の<ruby>解決<rt>かいけつ</rt></ruby><ruby>方法<rt>ほうほう</rt></ruby>と<ruby>比較<rt>ひかく</rt></ruby>したとき、そのアプローチはどれくらい<ruby>有効<rt>ゆうこう</rt></ruby>だと思いますか。",
+        "audio": "/audio/Q436.mp3",
+        "text_original": "他の解決方法と比較したとき、そのアプローチはどれくらい有効だと思いますか。"
+      },
+      {
+        "category": "賛否・個人的な意見 (Opinions & Stance)",
+        "text": "<ruby>異<rt>こと</rt></ruby>なる立場の<ruby>意見<rt>いけん</rt></ruby>を<ruby>踏<rt>ふ</rt></ruby>まえた上で、あなた<ruby>自身<rt>じしん</rt></ruby>の考えを聞かせてください。",
+        "audio": "/audio/Q437.mp3",
+        "text_original": "異なる立場の意見を踏まえた上で、あなた自身の考えを聞かせてください。"
+      },
+      {
+        "category": "賛否・個人的な意見 (Opinions & Stance)",
+        "text": "この考え方に<ruby>賛成<rt>さんせい</rt></ruby>ですか、<ruby>反対<rt>はんたい</rt></ruby>ですか。その<ruby>理由<rt>りゆう</rt></ruby>も教えてください。",
+        "audio": "/audio/Q438.mp3",
+        "text_original": "この考え方に賛成ですか、反対ですか。その理由も教えてください。"
+      },
+      {
+        "category": "賛否・個人的な意見 (Opinions & Stance)",
+        "text": "<ruby>調<rt>しら</rt></ruby>べる中で、<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>予想<rt>よそう</rt></ruby>や自分の考えが<ruby>変<rt>か</rt></ruby>わるような発見はありましたか。",
+        "audio": "/audio/Q439.mp3",
+        "text_original": "調べる中で、最初の予想や自分の考えが変わるような発見はありましたか。"
+      },
+      {
+        "category": "賛否・個人的な意見 (Opinions & Stance)",
+        "text": "もし自分が<ruby>当事者<rt>とうじしゃ</rt></ruby>の立場だったら、どのように<ruby>判断<rt>はんだん</rt></ruby>して行動しますか。",
+        "audio": "/audio/Q440.mp3",
+        "text_original": "もし自分が当事者の立場だったら、どのように判断して行動しますか。"
+      },
+      {
+        "category": "解決策・将来の展望 (Solutions & Future Prospects)",
+        "text": "この<ruby>課題<rt>かだい</rt></ruby>を<ruby>解決<rt>かいけつ</rt></ruby>するためには、どのような<ruby>対策<rt>たいさく</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>ですか。",
+        "audio": "/audio/Q441.mp3",
+        "text_original": "この課題を解決するためには、どのような対策が必要ですか。"
+      },
+      {
+        "category": "解決策・将来の展望 (Solutions & Future Prospects)",
+        "text": "<ruby>政府<rt>せいふ</rt></ruby>によるルール作りと、<ruby>個人<rt>こじん</rt></ruby>の<ruby>意識<rt>いしき</rt></ruby>を<ruby>変<rt>か</rt></ruby>えることのどちらが<ruby>大切<rt>たいせつ</rt></ruby>ですか。",
+        "audio": "/audio/Q442.mp3",
+        "text_original": "政府によるルール作りと、個人の意識を変えることのどちらが大切ですか。"
+      },
+      {
+        "category": "解決策・将来の展望 (Solutions & Future Prospects)",
+        "text": "今後10年や20年で、この<ruby>問題<rt>もんだい</rt></ruby>はどうなっていくと<ruby>予測<rt>よそく</rt></ruby>しますか。",
+        "audio": "/audio/Q443.mp3",
+        "text_original": "今後10年や20年で、この問題はどうなっていくと予測しますか。"
+      },
+      {
+        "category": "解決策・将来の展望 (Solutions & Future Prospects)",
+        "text": "<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>良<rt>よ</rt></ruby>くするために、私たちが今すぐ<ruby>取<rt>と</rt></ruby>るべき行動は何ですか。",
+        "audio": "/audio/Q444.mp3",
+        "text_original": "状況を良くするために、私たちが今すぐ取るべき行動は何ですか。"
+      },
+      {
+        "category": "試験官からの批判的問いかけ・反論 (Examiner Prompts & Counter-arguments)",
+        "text": "でも、こういう<ruby>反対<rt>はんたい</rt></ruby><ruby>意見<rt>いけん</rt></ruby>もありますよね。それにはどう<ruby>反論<rt>はんろん</rt></ruby>しますか。",
+        "audio": "/audio/Q445.mp3",
+        "text_original": "でも、こういう反対意見もありますよね。それにはどう反論しますか。"
+      },
+      {
+        "category": "試験官からの批判的問いかけ・反論 (Examiner Prompts & Counter-arguments)",
+        "text": "そのような点ばかり言われていますが、このようなリスクもあるのではないでしょうか。",
+        "audio": "/audio/Q446.mp3",
+        "text_original": "そのような点ばかり言われていますが、このようなリスクもあるのではないでしょうか。"
+      },
+      {
+        "category": "試験官からの批判的問いかけ・反論 (Examiner Prompts & Counter-arguments)",
+        "text": "もしその<ruby>前提<rt>ぜんてい</rt></ruby>が<ruby>変<rt>か</rt></ruby>わった<ruby>場合<rt>ばあい</rt></ruby>でも、あなたの<ruby>意見<rt>いけん</rt></ruby>は<ruby>変<rt>か</rt></ruby>わりませんか。",
+        "audio": "/audio/Q447.mp3",
+        "text_original": "もしその前提が変わった場合でも、あなたの意見は変わりませんか。"
+      },
+      {
+        "category": "試験官からの批判的問いかけ・反論 (Examiner Prompts & Counter-arguments)",
+        "text": "<ruby>要<rt>よう</rt></ruby>するに、そのようなリスクがあっても<ruby>進<rt>すす</rt></ruby>めるべきだということですか。",
+        "audio": "/audio/Q448.mp3",
+        "text_original": "要するに、そのようなリスクがあっても進めるべきだということですか。"
+      },
+      {
+        "category": "試験官からの批判的問いかけ・反論 (Examiner Prompts & Counter-arguments)",
+        "text": "<ruby>最後<rt>さいご</rt></ruby>に、このディスカッション<ruby>全体<rt>ぜんたい</rt></ruby><ruby>を通<rt>をとお</rt></ruby>して一番<ruby>伝<rt>つた</rt></ruby>えたいメッセージは何ですか。",
+        "audio": "/audio/Q449.mp3",
+        "text_original": "最後に、このディスカッション全体を通して一番伝えたいメッセージは何ですか。"
+      }
+    ]
+  },
+  "afterSec2": {
+    "steady": [
+      {
+        "category": "終了 (End)",
+        "text": "では、これで終わります。",
+        "audio": "/audio/Q143.mp3",
+        "text_original": "では、これで終わります。"
+      },
+      {
+        "category": "終了 (End)",
+        "text": "時間になりました。",
+        "audio": "/audio/Q144.mp3",
+        "text_original": "時間になりました。"
+      },
+      {
+        "category": "終了 (End)",
+        "text": "今日はここまでです。",
+        "audio": "/audio/Q145.mp3",
+        "text_original": "今日はここまでです。"
+      },
+      {
+        "category": "終了 (End)",
+        "text": "これで<ruby>試験<rt>しけん</rt></ruby>は終わりです。",
+        "audio": "/audio/Q146.mp3",
+        "text_original": "これで試験は終わりです。"
+      },
+      {
+        "category": "終了 (End)",
+        "text": "よく<ruby>頑張<rt>がんば</rt></ruby>りましたね。",
+        "audio": "/audio/Q147.mp3",
+        "text_original": "よく頑張りましたね。"
+      },
+      {
+        "category": "終了 (End)",
+        "text": "気をつけて帰ってください。",
+        "audio": "/audio/Q148.mp3",
+        "text_original": "気をつけて帰ってください。"
+      },
+      {
+        "category": "終了 (End)",
+        "text": "さようなら。",
+        "audio": "/audio/Q149.mp3",
+        "text_original": "さようなら。"
+      }
+    ],
+    "normal": [
+      {
+        "category": "終了 (End)",
+        "text": "これで<ruby>特別<rt>とくべつ</rt></ruby><ruby>研究<rt>けんきゅう</rt></ruby>を終わります。",
+        "audio": "/audio/Q299.mp3",
+        "text_original": "これで特別研究を終わります。"
+      },
+      {
+        "category": "終了 (End)",
+        "text": "お時間になりました。",
+        "audio": "/audio/Q300.mp3",
+        "text_original": "お時間になりました。"
+      },
+      {
+        "category": "終了 (End)",
+        "text": "今日の<ruby>質問<rt>しつもん</rt></ruby>はここまでです。",
+        "audio": "/audio/Q301.mp3",
+        "text_original": "今日の質問はここまでです。"
+      },
+      {
+        "category": "終了 (End)",
+        "text": "これで日本語の<ruby>試験<rt>しけん</rt></ruby>はすべて<ruby>終了<rt>しゅうりょう</rt></ruby>です。",
+        "audio": "/audio/Q302.mp3",
+        "text_original": "これで日本語の試験はすべて終了です。"
+      },
+      {
+        "category": "終了 (End)",
+        "text": "お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>でした。",
+        "audio": "/audio/Q303.mp3",
+        "text_original": "お疲れ様でした。"
+      },
+      {
+        "category": "終了 (End)",
+        "text": "本日はよく<ruby>頑張<rt>がんば</rt></ruby>りましたね。",
+        "audio": "/audio/Q304.mp3",
+        "text_original": "本日はよく頑張りましたね。"
+      },
+      {
+        "category": "終了 (End)",
+        "text": "気をつけて帰ってください。",
+        "audio": "/audio/Q305.mp3",
+        "text_original": "気をつけて帰ってください。"
+      },
+      {
+        "category": "終了 (End)",
+        "text": "さようなら。",
+        "audio": "/audio/Q306.mp3",
+        "text_original": "さようなら。"
+      }
+    ],
+    "Accelerated": [
+      {
+        "category": "終了 (End)",
+        "text": "<ruby>以上<rt>いじょう</rt></ruby>で<ruby>特別<rt>とくべつ</rt></ruby><ruby>研究<rt>けんきゅう</rt></ruby>のディスカッションを<ruby>終了<rt>しゅうりょう</rt></ruby>します。",
+        "audio": "/audio/Q450.mp3",
+        "text_original": "以上で特別研究のディスカッションを終了します。"
+      },
+      {
+        "category": "終了 (End)",
+        "text": "お時間となりましたので、本日の<ruby>試験<rt>しけん</rt></ruby><ruby>質問<rt>しつもん</rt></ruby><ruby>項目<rt>こうもく</rt></ruby>はすべて<ruby>終了<rt>しゅうりょう</rt></ruby>とさせていただきます。",
+        "audio": "/audio/Q451.mp3",
+        "text_original": "お時間となりましたので、本日の試験質問項目はすべて終了とさせていただきます。"
+      },
+      {
+        "category": "終了 (End)",
+        "text": "<ruby>以上<rt>いじょう</rt></ruby>をもちまして、VCE日本語<ruby>口頭<rt>こうとう</rt></ruby><ruby>試験<rt>しけん</rt></ruby>の<ruby>全<rt>ぜん</rt></ruby><ruby>日程<rt>にってい</rt></ruby>を<ruby>終了<rt>しゅうりょう</rt></ruby>します。",
+        "audio": "/audio/Q452.mp3",
+        "text_original": "以上をもちまして、VCE日本語口頭試験の全日程を終了します。"
+      },
+      {
+        "category": "終了 (End)",
+        "text": "<ruby>大変<rt>たいへん</rt></ruby>お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>でした。",
+        "audio": "/audio/Q453.mp3",
+        "text_original": "大変お疲れ様でした。"
+      },
+      {
+        "category": "終了 (End)",
+        "text": "<ruby>日頃<rt>ひごろ</rt></ruby>の<ruby>成果<rt>せいか</rt></ruby>を十分に<ruby>発揮<rt>はっき</rt></ruby>していただけたかと思います。",
+        "audio": "/audio/Q454.mp3",
+        "text_original": "日頃の成果を十分に発揮していただけたかと思います。"
+      },
+      {
+        "category": "終了 (End)",
+        "text": "お気をつけてお帰りください。",
+        "audio": "/audio/Q455.mp3",
+        "text_original": "お気をつけてお帰りください。"
+      }
+    ]
+  }
+}
